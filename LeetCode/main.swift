@@ -9,4 +9,10 @@
 import Foundation
 
 print("Hello, World!")
+//测试 下一个排列
+var nums = [2,3,1,3,3]
+nextPermutation(&nums)
+print(nums == [2,3,3,1,3])
+
+
 
