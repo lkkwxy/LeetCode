@@ -17,4 +17,6 @@ print(nums == [2,3,3,1,3])
 //测试621-任务调度器
 print(leastInterval(["A","A","A","B","B","B"],2))
 
+//测试89-格雷编码
+print(grayCode(2))
 
