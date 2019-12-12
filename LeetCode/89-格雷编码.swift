@@ -7,6 +7,7 @@
 //
 
 import Foundation
+
 func grayCode(_ n: Int) -> [Int] {
     var codes = [0]
     if n == 0 {
