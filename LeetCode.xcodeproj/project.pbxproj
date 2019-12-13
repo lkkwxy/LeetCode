@@ -11,6 +11,7 @@
 		818BEF3C23A1EF6E00382977 /* 1169-查询无效交易.swift in Sources */ = {isa = PBXBuildFile; fileRef = 818BEF3B23A1EF6E00382977 /* 1169-查询无效交易.swift */; };
 		818BEF3E23A22B5600382977 /* Common.swift in Sources */ = {isa = PBXBuildFile; fileRef = 818BEF3D23A22B5600382977 /* Common.swift */; };
 		818BEF4023A22B8200382977 /* 109-有序链表转换二叉搜索树.swift in Sources */ = {isa = PBXBuildFile; fileRef = 818BEF3F23A22B8200382977 /* 109-有序链表转换二叉搜索树.swift */; };
+		818BEF4523A33E2200382977 /* 889-根据前序和后序遍历构造二叉树.swift in Sources */ = {isa = PBXBuildFile; fileRef = 818BEF4423A33E2200382977 /* 889-根据前序和后序遍历构造二叉树.swift */; };
 		81C1FC43239E1D6F00F2271B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C1FC42239E1D6F00F2271B /* main.swift */; };
 		81C1FC4B239E205E00F2271B /* 31-下一个排列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C1FC4A239E205E00F2271B /* 31-下一个排列.swift */; };
 		81E60E8A23A088D500AAE3EA /* 89-格雷编码.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81E60E8923A088D500AAE3EA /* 89-格雷编码.swift */; };
@@ -33,6 +34,7 @@
 		818BEF3B23A1EF6E00382977 /* 1169-查询无效交易.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1169-查询无效交易.swift"; sourceTree = "<group>"; };
 		818BEF3D23A22B5600382977 /* Common.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Common.swift; sourceTree = "<group>"; };
 		818BEF3F23A22B8200382977 /* 109-有序链表转换二叉搜索树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "109-有序链表转换二叉搜索树.swift"; sourceTree = "<group>"; };
+		818BEF4423A33E2200382977 /* 889-根据前序和后序遍历构造二叉树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "889-根据前序和后序遍历构造二叉树.swift"; sourceTree = "<group>"; };
 		81C1FC3F239E1D6F00F2271B /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		81C1FC42239E1D6F00F2271B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		81C1FC4A239E205E00F2271B /* 31-下一个排列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "31-下一个排列.swift"; sourceTree = "<group>"; };
@@ -76,6 +78,7 @@
 				818BEF3B23A1EF6E00382977 /* 1169-查询无效交易.swift */,
 				818BEF3D23A22B5600382977 /* Common.swift */,
 				818BEF3F23A22B8200382977 /* 109-有序链表转换二叉搜索树.swift */,
+				818BEF4423A33E2200382977 /* 889-根据前序和后序遍历构造二叉树.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			files = (
 				81E60E8A23A088D500AAE3EA /* 89-格雷编码.swift in Sources */,
 				818BEF4023A22B8200382977 /* 109-有序链表转换二叉搜索树.swift in Sources */,
+				818BEF4523A33E2200382977 /* 889-根据前序和后序遍历构造二叉树.swift in Sources */,
 				81C1FC4B239E205E00F2271B /* 31-下一个排列.swift in Sources */,
 				81C1FC43239E1D6F00F2271B /* main.swift in Sources */,
 				818BEF3C23A1EF6E00382977 /* 1169-查询无效交易.swift in Sources */,
