@@ -24,3 +24,5 @@ print(grayCode(2))
 // 测试1169-查询无效交易
 print(invalidTransactions(["bob,689,1910,barcelona","alex,696,122,bangkok","bob,832,1726,barcelona","bob,820,596,bangkok","chalicefy,217,669,barcelona","bob,175,221,amsterdam"]))
 
+
+
