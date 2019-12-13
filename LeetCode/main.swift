@@ -24,5 +24,8 @@ print(grayCode(2))
 // 测试1169-查询无效交易
 print(invalidTransactions(["bob,689,1910,barcelona","alex,696,122,bangkok","bob,832,1726,barcelona","bob,820,596,bangkok","chalicefy,217,669,barcelona","bob,175,221,amsterdam"]))
 
+// 测试 796-旋转字符串
+print(rotateString("abcde", "cdeab"))
 
-
+// 测试 682-棒球比赛.swift
+print(calPoints(["5","2","C","D","+"]))
