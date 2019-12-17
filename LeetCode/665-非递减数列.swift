@@ -9,18 +9,15 @@
 import Foundation
 // 解法1
 func checkPossibility(_ nums: [Int]) -> Bool {
-    //    var nums = nums
+    var nums = nums
     guard nums.count > 1 else { return true }
     var changeCount = 1
     for i in 0..<nums.count-1 {
         if nums[i] > nums[i + 1] {
-            //            if i == 0 || nums[i - 1] < nums[i + 1]{
-            //                nums[i] = nums[i + 1]
-            //            }else {
-            //                nums[i + 1] = nums[i]
-            //            }
-            if i != 0 && i != nums.count - 2 && nums[i - 1] > nums[i + 1] && nums[i] > nums[i + 2] {
-                return false
+            if i == 0 || nums[i - 1] < nums[i + 1]{
+                nums[i] = nums[i + 1]
+            }else {
+                nums[i + 1] = nums[i]
             }
             changeCount -= 1
             if changeCount < 0 {
