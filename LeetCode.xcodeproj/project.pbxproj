@@ -14,6 +14,8 @@
 		818BEF4523A33E2200382977 /* 889-根据前序和后序遍历构造二叉树.swift in Sources */ = {isa = PBXBuildFile; fileRef = 818BEF4423A33E2200382977 /* 889-根据前序和后序遍历构造二叉树.swift */; };
 		818BEF4723A363A500382977 /* 796-旋转字符串.swift in Sources */ = {isa = PBXBuildFile; fileRef = 818BEF4623A363A500382977 /* 796-旋转字符串.swift */; };
 		818BEF4923A377C700382977 /* 682-棒球比赛.swift in Sources */ = {isa = PBXBuildFile; fileRef = 818BEF4823A377C700382977 /* 682-棒球比赛.swift */; };
+		81A54D9423A729F000EE2CCC /* 665-非递减数列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81A54D9323A729F000EE2CCC /* 665-非递减数列.swift */; };
+		81A54D9623A745B500EE2CCC /* 4-寻找两个有序数组的中位数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81A54D9523A745B500EE2CCC /* 4-寻找两个有序数组的中位数.swift */; };
 		81BD50B823A5C490008B2278 /* 205-同构字符串.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81BD50B723A5C490008B2278 /* 205-同构字符串.swift */; };
 		81C1FC43239E1D6F00F2271B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C1FC42239E1D6F00F2271B /* main.swift */; };
 		81C1FC4B239E205E00F2271B /* 31-下一个排列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C1FC4A239E205E00F2271B /* 31-下一个排列.swift */; };
@@ -40,6 +42,8 @@
 		818BEF4423A33E2200382977 /* 889-根据前序和后序遍历构造二叉树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "889-根据前序和后序遍历构造二叉树.swift"; sourceTree = "<group>"; };
 		818BEF4623A363A500382977 /* 796-旋转字符串.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "796-旋转字符串.swift"; sourceTree = "<group>"; };
 		818BEF4823A377C700382977 /* 682-棒球比赛.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "682-棒球比赛.swift"; sourceTree = "<group>"; };
+		81A54D9323A729F000EE2CCC /* 665-非递减数列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "665-非递减数列.swift"; sourceTree = "<group>"; };
+		81A54D9523A745B500EE2CCC /* 4-寻找两个有序数组的中位数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "4-寻找两个有序数组的中位数.swift"; sourceTree = "<group>"; };
 		81BD50B723A5C490008B2278 /* 205-同构字符串.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "205-同构字符串.swift"; sourceTree = "<group>"; };
 		81C1FC3F239E1D6F00F2271B /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		81C1FC42239E1D6F00F2271B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -88,6 +92,8 @@
 				818BEF4623A363A500382977 /* 796-旋转字符串.swift */,
 				818BEF4823A377C700382977 /* 682-棒球比赛.swift */,
 				81BD50B723A5C490008B2278 /* 205-同构字符串.swift */,
+				81A54D9323A729F000EE2CCC /* 665-非递减数列.swift */,
+				81A54D9523A745B500EE2CCC /* 4-寻找两个有序数组的中位数.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -152,6 +158,7 @@
 			files = (
 				81E60E8A23A088D500AAE3EA /* 89-格雷编码.swift in Sources */,
 				818BEF4023A22B8200382977 /* 109-有序链表转换二叉搜索树.swift in Sources */,
+				81A54D9423A729F000EE2CCC /* 665-非递减数列.swift in Sources */,
 				818BEF4923A377C700382977 /* 682-棒球比赛.swift in Sources */,
 				818BEF4723A363A500382977 /* 796-旋转字符串.swift in Sources */,
 				818BEF4523A33E2200382977 /* 889-根据前序和后序遍历构造二叉树.swift in Sources */,
@@ -161,6 +168,7 @@
 				818BEF3E23A22B5600382977 /* Common.swift in Sources */,
 				81BD50B823A5C490008B2278 /* 205-同构字符串.swift in Sources */,
 				81650D21239F43E400580543 /* 621-任务调度器.swift in Sources */,
+				81A54D9623A745B500EE2CCC /* 4-寻找两个有序数组的中位数.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
