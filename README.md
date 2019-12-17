@@ -8,4 +8,6 @@
 * [889-根据前序和后序遍历构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)
 * [796-旋转字符串](https://leetcode-cn.com/problems/rotate-string/)
 * [682-棒球比赛](https://leetcode-cn.com/problems/baseball-game/)
+* [665-非递减数列](https://leetcode-cn.com/problems/non-decreasing-array/)
+* [4-寻找两个有序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)
 
