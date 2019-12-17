@@ -10,4 +10,6 @@
 * [682-棒球比赛](https://leetcode-cn.com/problems/baseball-game/)
 * [665-非递减数列](https://leetcode-cn.com/problems/non-decreasing-array/)
 * [4-寻找两个有序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)
+* [6-Z字形变换](https://leetcode-cn.com/problems/zigzag-conversion/)
+
 
