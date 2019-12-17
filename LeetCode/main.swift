@@ -8,7 +8,6 @@
 
 import Foundation
 
-print("Hello, World!")
 //测试31-下一个排列
 var nums = [2,3,1,3,3]
 nextPermutation(&nums)
@@ -30,7 +29,14 @@ assert(rotateString("abcde", "cdeab"))
 // 测试 682-棒球比赛.swift
 assert(calPoints(["5","2","C","D","+"]) == 30)
 
-//测试 205-同构字符串
+// 测试 205-同构字符串
 assert(isIsomorphic("egg","add"))
 
+// 测试 665-非递减数列
+assert(checkPossibility([4,1,2,3]))
+assert(checkPossibility1([4,1,2,3]))
 
+// 测试4-寻找两个有序数组的中位数
+assert(findMedianSortedArrays([1,3], [2,4]) == 2.5)
+// 6-Z 字形变换
+assert(convert("LEETCODEISHIRING", 3) == "LCIRETOESIIGEDHN")
