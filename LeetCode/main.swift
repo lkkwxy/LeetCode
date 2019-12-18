@@ -40,3 +40,4 @@ assert(checkPossibility1([4,1,2,3]))
 assert(findMedianSortedArrays([1,3], [2,4]) == 2.5)
 // 6-Z 字形变换
 assert(convert("LEETCODEISHIRING", 3) == "LCIRETOESIIGEDHN")
+
