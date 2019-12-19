@@ -40,4 +40,9 @@ assert(checkPossibility1([4,1,2,3]))
 assert(findMedianSortedArrays([1,3], [2,4]) == 2.5)
 // 6-Z 字形变换
 assert(convert("LEETCODEISHIRING", 3) == "LCIRETOESIIGEDHN")
+// 测试 309-最佳买卖股票时机含冷冻期
+assert(maxProfit([1,2,3,0,2]) == 3)
 
+// 测试 303-区域和检索-数组不可变
+let numsArray = NumArray([1,2,3,4,5])
+assert(numsArray.sumRange(0, 2) == 6)
