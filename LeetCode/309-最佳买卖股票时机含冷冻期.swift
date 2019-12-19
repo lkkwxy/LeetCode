@@ -15,6 +15,7 @@ import Foundation
 // 从购买转到持有的下一个状态是持有或卖出
 // 最大收益等于当前的操作加上接下来操作产生的最大值
 
+
 enum TradingStatus {
     case purchase
     case frozen(Bool)
