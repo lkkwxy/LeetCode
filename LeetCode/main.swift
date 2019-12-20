@@ -46,3 +46,10 @@ assert(maxProfit([1,2,3,0,2]) == 3)
 // 测试 303-区域和检索-数组不可变
 let numsArray = NumArray([1,2,3,4,5])
 assert(numsArray.sumRange(0, 2) == 6)
+
+// 测试977-有序数组的平方
+assert(sortedSquares([-4,-2,0,3,10]) == [0,4,9,16,100])
+
+
+
+print(coinChange([284,260,393,494],7066))
