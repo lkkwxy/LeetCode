@@ -51,5 +51,37 @@ assert(numsArray.sumRange(0, 2) == 6)
 assert(sortedSquares([-4,-2,0,3,10]) == [0,4,9,16,100])
 
 
-
+// 测试 322-零钱兑换
 print(coinChange([284,260,393,494],7066))
+
+
+//func rob(_ nums: [Int]) -> Int {
+//    guard nums.count > 0 else { return 0 }
+//    guard nums.count > 1 else { return nums[0] }
+//    guard nums.count > 2 else { return max(nums[0], nums[1]) }
+//    return max(rob1(nums, isIncludeFirst: false), rob1(nums, isIncludeFirst: true))
+////    return max(rob(nums.dropLast(), startIndex: 0), rob(nums, startIndex: 1))
+//}
+//func rob(_ nums: [Int], startIndex:Int) -> Int {
+//    if startIndex >= nums.count { return 0 }
+//    let maxRob = max(nums[startIndex] + rob(nums,startIndex: startIndex + 2), rob(nums,startIndex: startIndex + 1))
+//    return maxRob
+//}
+//
+//func rob1(_ nums: [Int], isIncludeFirst:Bool) -> Int {
+//    let numsCount = nums.count
+//    let startIndex = isIncludeFirst ? 0 : 1
+//    let endIndex = isIncludeFirst ? numsCount - 1 : numsCount
+//    var currentMax = 0
+//    var perviousMax = 0
+//    for i in startIndex..<endIndex {
+//        let tmp = currentMax
+//        currentMax = max(perviousMax + nums[i], currentMax)
+//        perviousMax = tmp
+//    }
+//    return currentMax
+//}
+
+print(rob1([1,2,3,1],isIncludeFirst: true))
+//1,3,5,2,4
+//2
