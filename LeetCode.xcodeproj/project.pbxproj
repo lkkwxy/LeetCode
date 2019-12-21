@@ -23,6 +23,8 @@
 		81A54E3823AB508000EE2CCC /* 977-有序数组的平方.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81A54E3723AB508000EE2CCC /* 977-有序数组的平方.swift */; };
 		81A54E3A23AB56B200EE2CCC /* 238-除自身以外数组的乘积.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81A54E3923AB56B200EE2CCC /* 238-除自身以外数组的乘积.swift */; };
 		81A54E3C23AC5F4E00EE2CCC /* 322-零钱兑换.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81A54E3B23AC5F4E00EE2CCC /* 322-零钱兑换.swift */; };
+		81A54E5E23ADC6FF00EE2CCC /* 304-二维区域和检索 - 矩阵不可变.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81A54E5D23ADC6FF00EE2CCC /* 304-二维区域和检索 - 矩阵不可变.swift */; };
+		81A54E6023ADF5BA00EE2CCC /* 213-打家劫舍 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81A54E5F23ADF5BA00EE2CCC /* 213-打家劫舍 II.swift */; };
 		81BD50B823A5C490008B2278 /* 205-同构字符串.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81BD50B723A5C490008B2278 /* 205-同构字符串.swift */; };
 		81C1FC43239E1D6F00F2271B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C1FC42239E1D6F00F2271B /* main.swift */; };
 		81C1FC4B239E205E00F2271B /* 31-下一个排列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C1FC4A239E205E00F2271B /* 31-下一个排列.swift */; };
@@ -58,6 +60,8 @@
 		81A54E3723AB508000EE2CCC /* 977-有序数组的平方.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "977-有序数组的平方.swift"; sourceTree = "<group>"; };
 		81A54E3923AB56B200EE2CCC /* 238-除自身以外数组的乘积.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "238-除自身以外数组的乘积.swift"; sourceTree = "<group>"; };
 		81A54E3B23AC5F4E00EE2CCC /* 322-零钱兑换.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "322-零钱兑换.swift"; sourceTree = "<group>"; };
+		81A54E5D23ADC6FF00EE2CCC /* 304-二维区域和检索 - 矩阵不可变.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "304-二维区域和检索 - 矩阵不可变.swift"; sourceTree = "<group>"; };
+		81A54E5F23ADF5BA00EE2CCC /* 213-打家劫舍 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "213-打家劫舍 II.swift"; sourceTree = "<group>"; };
 		81BD50B723A5C490008B2278 /* 205-同构字符串.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "205-同构字符串.swift"; sourceTree = "<group>"; };
 		81C1FC3F239E1D6F00F2271B /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		81C1FC42239E1D6F00F2271B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -115,6 +119,8 @@
 				81A54E3723AB508000EE2CCC /* 977-有序数组的平方.swift */,
 				81A54E3923AB56B200EE2CCC /* 238-除自身以外数组的乘积.swift */,
 				81A54E3B23AC5F4E00EE2CCC /* 322-零钱兑换.swift */,
+				81A54E5D23ADC6FF00EE2CCC /* 304-二维区域和检索 - 矩阵不可变.swift */,
+				81A54E5F23ADF5BA00EE2CCC /* 213-打家劫舍 II.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -194,8 +200,10 @@
 				818BEF3E23A22B5600382977 /* Common.swift in Sources */,
 				81BD50B823A5C490008B2278 /* 205-同构字符串.swift in Sources */,
 				81650D21239F43E400580543 /* 621-任务调度器.swift in Sources */,
+				81A54E5E23ADC6FF00EE2CCC /* 304-二维区域和检索 - 矩阵不可变.swift in Sources */,
 				81A54E3623AB502C00EE2CCC /* 876-链表的中间结点.swift in Sources */,
 				81A54E3A23AB56B200EE2CCC /* 238-除自身以外数组的乘积.swift in Sources */,
+				81A54E6023ADF5BA00EE2CCC /* 213-打家劫舍 II.swift in Sources */,
 				81A54D9623A745B500EE2CCC /* 4-寻找两个有序数组的中位数.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

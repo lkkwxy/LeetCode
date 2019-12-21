@@ -16,5 +16,7 @@
 * [977-有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)
 * [876-链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)
 * [322-零钱兑换](https://leetcode-cn.com/problems/coin-change/)
+* [304-二维区域和检索 - 矩阵不可变](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)
+* [213-打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/)
 
 
