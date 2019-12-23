@@ -18,5 +18,7 @@
 * [322-零钱兑换](https://leetcode-cn.com/problems/coin-change/)
 * [304-二维区域和检索 - 矩阵不可变](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)
 * [213-打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/)
-
-
+* [5291-统计位数为偶数的数字](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits/)
+* [5292-划分数组为连续数字的集合](https://leetcode-cn.com/problems/divide-array-in-sets-of-k-consecutive-numbers/)
+* [5293-子串的最大出现次数](https://leetcode-cn.com/problems/maximum-number-of-occurrences-of-a-substring/ccc)
+* [413-等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/)
