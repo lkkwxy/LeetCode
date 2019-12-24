@@ -22,3 +22,4 @@
 * [5292-划分数组为连续数字的集合](https://leetcode-cn.com/problems/divide-array-in-sets-of-k-consecutive-numbers/)
 * [5293-子串的最大出现次数](https://leetcode-cn.com/problems/maximum-number-of-occurrences-of-a-substring/ccc)
 * [413-等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/)
+* [494-目标和](https://leetcode-cn.com/problems/target-sum/)
