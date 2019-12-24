@@ -29,6 +29,7 @@
 		81A54E8923B05DCB00EE2CCC /* 5293-子串的最大出现次数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81A54E8823B05DCB00EE2CCC /* 5293-子串的最大出现次数.swift */; };
 		81A54E8B23B05E0200EE2CCC /* 5292-划分数组为连续数字的集合.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81A54E8A23B05E0200EE2CCC /* 5292-划分数组为连续数字的集合.swift */; };
 		81A54E8D23B05E2000EE2CCC /* 5291- 统计位数为偶数的数字.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81A54E8C23B05E2000EE2CCC /* 5291- 统计位数为偶数的数字.swift */; };
+		81A54EB823B1DD6A00EE2CCC /* 494-目标和.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81A54EB723B1DD6A00EE2CCC /* 494-目标和.swift */; };
 		81BD50B823A5C490008B2278 /* 205-同构字符串.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81BD50B723A5C490008B2278 /* 205-同构字符串.swift */; };
 		81C1FC43239E1D6F00F2271B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C1FC42239E1D6F00F2271B /* main.swift */; };
 		81C1FC4B239E205E00F2271B /* 31-下一个排列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C1FC4A239E205E00F2271B /* 31-下一个排列.swift */; };
@@ -70,6 +71,7 @@
 		81A54E8823B05DCB00EE2CCC /* 5293-子串的最大出现次数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "5293-子串的最大出现次数.swift"; sourceTree = "<group>"; };
 		81A54E8A23B05E0200EE2CCC /* 5292-划分数组为连续数字的集合.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "5292-划分数组为连续数字的集合.swift"; sourceTree = "<group>"; };
 		81A54E8C23B05E2000EE2CCC /* 5291- 统计位数为偶数的数字.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "5291- 统计位数为偶数的数字.swift"; sourceTree = "<group>"; };
+		81A54EB723B1DD6A00EE2CCC /* 494-目标和.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "494-目标和.swift"; sourceTree = "<group>"; };
 		81BD50B723A5C490008B2278 /* 205-同构字符串.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "205-同构字符串.swift"; sourceTree = "<group>"; };
 		81C1FC3F239E1D6F00F2271B /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		81C1FC42239E1D6F00F2271B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -133,6 +135,7 @@
 				81A54E8823B05DCB00EE2CCC /* 5293-子串的最大出现次数.swift */,
 				81A54E8A23B05E0200EE2CCC /* 5292-划分数组为连续数字的集合.swift */,
 				81A54E8C23B05E2000EE2CCC /* 5291- 统计位数为偶数的数字.swift */,
+				81A54EB723B1DD6A00EE2CCC /* 494-目标和.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -203,6 +206,7 @@
 				81A54DC623A9D53C00EE2CCC /* 309-最佳买卖股票时机含冷冻期.swift in Sources */,
 				81A54D9823A8752D00EE2CCC /* 6-Z 字形变换.swift in Sources */,
 				81A54E8D23B05E2000EE2CCC /* 5291- 统计位数为偶数的数字.swift in Sources */,
+				81A54EB823B1DD6A00EE2CCC /* 494-目标和.swift in Sources */,
 				818BEF4523A33E2200382977 /* 889-根据前序和后序遍历构造二叉树.swift in Sources */,
 				81A54E3823AB508000EE2CCC /* 977-有序数组的平方.swift in Sources */,
 				81A54E8723B05DAE00EE2CCC /* 413-等差数列划分.swift in Sources */,
