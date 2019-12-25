@@ -52,5 +52,10 @@ assert(sortedSquares([-4,-2,0,3,10]) == [0,4,9,16,100])
 
 
 // 测试 322-零钱兑换
-print(coinChange([284,260,393,494],7066))
+assert(coinChange([284,260,393,494],7066) == 17)
 
+
+
+
+// 测试 486-预测赢家
+assert(PredictTheWinner([1, 5, 233, 7]))

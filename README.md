@@ -23,3 +23,5 @@
 * [5293-子串的最大出现次数](https://leetcode-cn.com/problems/maximum-number-of-occurrences-of-a-substring/ccc)
 * [413-等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/)
 * [494-目标和](https://leetcode-cn.com/problems/target-sum/)
+* [486-预测赢家](https://leetcode-cn.com/problems/predict-the-winner/)
+* [1137-第 N 个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number/)
