@@ -25,3 +25,5 @@
 * [494-目标和](https://leetcode-cn.com/problems/target-sum/)
 * [486-预测赢家](https://leetcode-cn.com/problems/predict-the-winner/)
 * [1137-第 N 个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number/)
+* [1104-二叉树寻路](https://leetcode-cn.com/problems/path-in-zigzag-labelled-binary-tree/)
+* [84-柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)

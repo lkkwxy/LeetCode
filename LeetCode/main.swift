@@ -50,14 +50,14 @@ assert(numsArray.sumRange(0, 2) == 6)
 // 测试977-有序数组的平方
 assert(sortedSquares([-4,-2,0,3,10]) == [0,4,9,16,100])
 
-
 // 测试 322-零钱兑换
 assert(coinChange([284,260,393,494],7066) == 17)
 
-
-
-
 // 测试 486-预测赢家
 assert(PredictTheWinner([1, 5, 233, 7]))
+
 // 测试 1104-二叉树寻路
 assert(pathInZigZagTree(14) == [1,3,4,14])
+
+// 测试 84-柱状图中最大的矩形
+print(largestRectangleArea([5,4,1,2]))
