@@ -59,3 +59,5 @@ assert(coinChange([284,260,393,494],7066) == 17)
 
 // 测试 486-预测赢家
 assert(PredictTheWinner([1, 5, 233, 7]))
+// 测试 1104-二叉树寻路
+assert(pathInZigZagTree(14) == [1,3,4,14])
