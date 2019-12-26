@@ -32,6 +32,7 @@
 		81A54EB823B1DD6A00EE2CCC /* 494-目标和.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81A54EB723B1DD6A00EE2CCC /* 494-目标和.swift */; };
 		81A54EBC23B346D900EE2CCC /* 486-预测赢家.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81A54EBB23B346D900EE2CCC /* 486-预测赢家.swift */; };
 		81A54EBE23B3484F00EE2CCC /* 1137-第 N 个泰波那契数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81A54EBD23B3484F00EE2CCC /* 1137-第 N 个泰波那契数.swift */; };
+		81A54EC123B4490E00EE2CCC /* 1104-二叉树寻路.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81A54EC023B4490E00EE2CCC /* 1104-二叉树寻路.swift */; };
 		81BD50B823A5C490008B2278 /* 205-同构字符串.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81BD50B723A5C490008B2278 /* 205-同构字符串.swift */; };
 		81C1FC43239E1D6F00F2271B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C1FC42239E1D6F00F2271B /* main.swift */; };
 		81C1FC4B239E205E00F2271B /* 31-下一个排列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C1FC4A239E205E00F2271B /* 31-下一个排列.swift */; };
@@ -77,6 +78,7 @@
 		81A54EBB23B346D900EE2CCC /* 486-预测赢家.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "486-预测赢家.swift"; sourceTree = "<group>"; };
 		81A54EBD23B3484F00EE2CCC /* 1137-第 N 个泰波那契数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1137-第 N 个泰波那契数.swift"; sourceTree = "<group>"; };
 		81A54EBF23B34A8800EE2CCC /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		81A54EC023B4490E00EE2CCC /* 1104-二叉树寻路.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1104-二叉树寻路.swift"; sourceTree = "<group>"; };
 		81BD50B723A5C490008B2278 /* 205-同构字符串.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "205-同构字符串.swift"; sourceTree = "<group>"; };
 		81C1FC3F239E1D6F00F2271B /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		81C1FC42239E1D6F00F2271B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -144,6 +146,7 @@
 				81A54EB723B1DD6A00EE2CCC /* 494-目标和.swift */,
 				81A54EBB23B346D900EE2CCC /* 486-预测赢家.swift */,
 				81A54EBD23B3484F00EE2CCC /* 1137-第 N 个泰波那契数.swift */,
+				81A54EC023B4490E00EE2CCC /* 1104-二叉树寻路.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -220,6 +223,7 @@
 				81A54E8723B05DAE00EE2CCC /* 413-等差数列划分.swift in Sources */,
 				81C1FC4B239E205E00F2271B /* 31-下一个排列.swift in Sources */,
 				81C1FC43239E1D6F00F2271B /* main.swift in Sources */,
+				81A54EC123B4490E00EE2CCC /* 1104-二叉树寻路.swift in Sources */,
 				81A54E3C23AC5F4E00EE2CCC /* 322-零钱兑换.swift in Sources */,
 				81A54E3423AB154F00EE2CCC /* 303-区域和检索 - 数组不可变.swift in Sources */,
 				818BEF3C23A1EF6E00382977 /* 1169-查询无效交易.swift in Sources */,
