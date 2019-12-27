@@ -28,3 +28,4 @@
 * [1104-二叉树寻路](https://leetcode-cn.com/problems/path-in-zigzag-labelled-binary-tree/)
 * [84-柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)
 * [42-接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)
+* [496. 下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/)

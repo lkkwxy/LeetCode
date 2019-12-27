@@ -35,6 +35,7 @@
 		81A54EC123B4490E00EE2CCC /* 1104-二叉树寻路.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81A54EC023B4490E00EE2CCC /* 1104-二叉树寻路.swift */; };
 		81A54EC323B4577500EE2CCC /* 84-柱状图中最大的矩形.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81A54EC223B4577500EE2CCC /* 84-柱状图中最大的矩形.swift */; };
 		81A54EC523B5A70E00EE2CCC /* 42-接雨水.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81A54EC423B5A70E00EE2CCC /* 42-接雨水.swift */; };
+		81A54EC723B5D5EA00EE2CCC /* 496-下一个更大元素 I.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81A54EC623B5D5EA00EE2CCC /* 496-下一个更大元素 I.swift */; };
 		81BD50B823A5C490008B2278 /* 205-同构字符串.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81BD50B723A5C490008B2278 /* 205-同构字符串.swift */; };
 		81C1FC43239E1D6F00F2271B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C1FC42239E1D6F00F2271B /* main.swift */; };
 		81C1FC4B239E205E00F2271B /* 31-下一个排列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C1FC4A239E205E00F2271B /* 31-下一个排列.swift */; };
@@ -83,6 +84,7 @@
 		81A54EC023B4490E00EE2CCC /* 1104-二叉树寻路.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1104-二叉树寻路.swift"; sourceTree = "<group>"; };
 		81A54EC223B4577500EE2CCC /* 84-柱状图中最大的矩形.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "84-柱状图中最大的矩形.swift"; sourceTree = "<group>"; };
 		81A54EC423B5A70E00EE2CCC /* 42-接雨水.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "42-接雨水.swift"; sourceTree = "<group>"; };
+		81A54EC623B5D5EA00EE2CCC /* 496-下一个更大元素 I.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "496-下一个更大元素 I.swift"; sourceTree = "<group>"; };
 		81BD50B723A5C490008B2278 /* 205-同构字符串.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "205-同构字符串.swift"; sourceTree = "<group>"; };
 		81C1FC3F239E1D6F00F2271B /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		81C1FC42239E1D6F00F2271B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -153,6 +155,7 @@
 				81A54EC023B4490E00EE2CCC /* 1104-二叉树寻路.swift */,
 				81A54EC223B4577500EE2CCC /* 84-柱状图中最大的矩形.swift */,
 				81A54EC423B5A70E00EE2CCC /* 42-接雨水.swift */,
+				81A54EC623B5D5EA00EE2CCC /* 496-下一个更大元素 I.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -219,6 +222,7 @@
 				818BEF4023A22B8200382977 /* 109-有序链表转换二叉搜索树.swift in Sources */,
 				81A54D9423A729F000EE2CCC /* 665-非递减数列.swift in Sources */,
 				818BEF4923A377C700382977 /* 682-棒球比赛.swift in Sources */,
+				81A54EC723B5D5EA00EE2CCC /* 496-下一个更大元素 I.swift in Sources */,
 				818BEF4723A363A500382977 /* 796-旋转字符串.swift in Sources */,
 				81A54DC623A9D53C00EE2CCC /* 309-最佳买卖股票时机含冷冻期.swift in Sources */,
 				81A54EC323B4577500EE2CCC /* 84-柱状图中最大的矩形.swift in Sources */,
