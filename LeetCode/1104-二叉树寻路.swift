@@ -9,6 +9,7 @@
 import Foundation
 func pathInZigZagTree(_ label: Int) -> [Int] {
     var line = 1
+    var result = [Int]()
     while  true {
         if 1 << line >= label + 1 {
             break
@@ -22,7 +23,7 @@ func pathInZigZagTree(_ label: Int) -> [Int] {
         currentLineIndex = label - (1 << (line - 1))
     }
     
-    var result = [Int]()
+
     while line >= 1 {
         var currentLineLabel = 0
         if line % 2 == 1 {
