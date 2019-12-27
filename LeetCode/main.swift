@@ -8,7 +8,7 @@
 
 import Foundation
 
-print(trap( [0,1,0,2,1,0,1,3,2,1,2,1]))
+ListNodeTest()
 
 //测试31-下一个排列
 var nums = [2,3,1,3,3]
@@ -63,3 +63,7 @@ assert(pathInZigZagTree(14) == [1,3,4,14])
 
 // 测试 84-柱状图中最大的矩形
 print(largestRectangleArea([5,4,1,2]))
+
+print(trap([0,1,0,2,1,0,1,3,2,1,2,1]))
+
+
