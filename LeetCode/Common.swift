@@ -48,32 +48,5 @@ public class TreeNode {
     }
 }
 
-func remove(with value:Int, from listNode:ListNode?) -> ListNode? {
-    let tmpNode = ListNode(0)
-    tmpNode.next = listNode
-    var currentNode = tmpNode.next
-    var persiousNode:ListNode? = tmpNode
-    while currentNode != nil {
-        if let nodeValue = currentNode?.val, nodeValue == value {
-            persiousNode?.next = currentNode?.next
-        }else {
-            persiousNode = currentNode
-        }
-        currentNode = currentNode?.next
-    }
-    return tmpNode.next
-}
 
-func ListNodeTest() {
-    let array = [3,2,5,0,4,4,5,6,5,5]
-    let head = ListNode(5)
-    var next = head
-    for item in array {
-        let tmp = ListNode(item)
-        next.next = tmp
-        next = tmp
-    }
-    let h = remove(with: 5, from: head)
-//    head.remove(with: 5)
-    print(head)
-}
+
