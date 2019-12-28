@@ -31,3 +31,4 @@
 * [496. 下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/)
 * [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)
 * [167-两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)
+* [60-第k个排列](https://leetcode-cn.com/problems/permutation-sequence/)

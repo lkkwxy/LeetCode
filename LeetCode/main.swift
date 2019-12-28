@@ -7,7 +7,7 @@
 //
 
 import Foundation
-
+getPermutation(3,2)
 //测试31-下一个排列
 var nums = [2,3,1,3,3]
 nextPermutation(&nums)
@@ -61,7 +61,8 @@ assert(pathInZigZagTree(14) == [1,3,4,14])
 
 // 测试 84-柱状图中最大的矩形
 print(largestRectangleArea([5,4,1,2]))
-
+// 测试 42-接雨水
 print(trap([0,1,0,2,1,0,1,3,2,1,2,1]))
+
 
 
