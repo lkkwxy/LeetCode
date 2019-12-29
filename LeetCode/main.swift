@@ -7,7 +7,6 @@
 //
 
 import Foundation
-getPermutation(3,2)
 //测试31-下一个排列
 var nums = [2,3,1,3,3]
 nextPermutation(&nums)
