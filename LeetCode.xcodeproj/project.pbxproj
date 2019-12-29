@@ -47,6 +47,7 @@
 		81C1FC4B239E205E00F2271B /* 31-下一个排列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C1FC4A239E205E00F2271B /* 31-下一个排列.swift */; };
 		81E60E8A23A088D500AAE3EA /* 89-格雷编码.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81E60E8923A088D500AAE3EA /* 89-格雷编码.swift */; };
 		81FF6F4623B8B04C00814D5B /* 5295-和为零的N个唯一整数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FF6F4523B8B04C00814D5B /* 5295-和为零的N个唯一整数.swift */; };
+		81FF6F4823B8B2A700814D5B /* 5296-两棵二叉搜索树中的所有元素.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FF6F4723B8B2A700814D5B /* 5296-两棵二叉搜索树中的所有元素.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -104,6 +105,7 @@
 		81C1FC4A239E205E00F2271B /* 31-下一个排列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "31-下一个排列.swift"; sourceTree = "<group>"; };
 		81E60E8923A088D500AAE3EA /* 89-格雷编码.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "89-格雷编码.swift"; sourceTree = "<group>"; };
 		81FF6F4523B8B04C00814D5B /* 5295-和为零的N个唯一整数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "5295-和为零的N个唯一整数.swift"; sourceTree = "<group>"; };
+		81FF6F4723B8B2A700814D5B /* 5296-两棵二叉搜索树中的所有元素.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "5296-两棵二叉搜索树中的所有元素.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -177,6 +179,7 @@
 				81A54ED023B6663200EE2CCC /* 100-相同的树.swift */,
 				81A54ED223B70F6A00EE2CCC /* 60-第k个排列.swift */,
 				81FF6F4523B8B04C00814D5B /* 5295-和为零的N个唯一整数.swift */,
+				81FF6F4723B8B2A700814D5B /* 5296-两棵二叉搜索树中的所有元素.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -241,6 +244,7 @@
 			files = (
 				81E60E8A23A088D500AAE3EA /* 89-格雷编码.swift in Sources */,
 				818BEF4023A22B8200382977 /* 109-有序链表转换二叉搜索树.swift in Sources */,
+				81FF6F4823B8B2A700814D5B /* 5296-两棵二叉搜索树中的所有元素.swift in Sources */,
 				81A54ED123B6663200EE2CCC /* 100-相同的树.swift in Sources */,
 				81A54D9423A729F000EE2CCC /* 665-非递减数列.swift in Sources */,
 				818BEF4923A377C700382977 /* 682-棒球比赛.swift in Sources */,
