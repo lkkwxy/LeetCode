@@ -33,3 +33,5 @@
 * [167-两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)
 * [60-第k个排列](https://leetcode-cn.com/problems/permutation-sequence/)
 * [5295-和为零的N个唯一整数](https://leetcode-cn.com/problems/find-n-unique-integers-sum-up-to-zero/)
+* [5296-两棵二叉搜索树中的所有元素](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees/)
+
