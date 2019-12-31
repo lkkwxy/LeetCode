@@ -36,4 +36,5 @@
 * [5296-两棵二叉搜索树中的所有元素](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees/)
 * [5297-跳跃游戏 III](https://leetcode-cn.com/problems/jump-game-iii/)
 * [673-最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/)
+* [967-连续差相同的数字](https://leetcode-cn.com/problems/numbers-with-same-consecutive-differences/)
 

@@ -7,13 +7,13 @@
 //
 
 import Foundation
-func findNumberOfLIS(_ nums: [Int]) -> Int {
 //    1,5,4,3,6,7,7
 //    1,1 2,1 2,1 2,1
 //    2,1 3,1 3,2 3,3
 //    4,3 4,3
 //    1,2,2,2,3,4,4
 //    1,1,,1,1,3,3,3
+func findNumberOfLIS(_ nums: [Int]) -> Int {
     let count = nums.count
     guard count > 1 else { return count }
     var lengths = Array(repeating: 1, count: count)
