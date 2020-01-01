@@ -51,6 +51,7 @@
 		81FF6F4A23B8BEC000814D5B /* 5297-跳跃游戏 III.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FF6F4923B8BEC000814D5B /* 5297-跳跃游戏 III.swift */; };
 		81FF6F4C23B9938500814D5B /* 673-最长递增子序列的个数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FF6F4B23B9938500814D5B /* 673-最长递增子序列的个数.swift */; };
 		81FF6F4E23BAE70100814D5B /* 967-连续差相同的数字.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FF6F4D23BAE70100814D5B /* 967-连续差相同的数字.swift */; };
+		81FF6F5623BC5BE300814D5B /* 130-被围绕的区域.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FF6F5523BC5BE300814D5B /* 130-被围绕的区域.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -112,6 +113,7 @@
 		81FF6F4923B8BEC000814D5B /* 5297-跳跃游戏 III.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "5297-跳跃游戏 III.swift"; sourceTree = "<group>"; };
 		81FF6F4B23B9938500814D5B /* 673-最长递增子序列的个数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "673-最长递增子序列的个数.swift"; sourceTree = "<group>"; };
 		81FF6F4D23BAE70100814D5B /* 967-连续差相同的数字.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "967-连续差相同的数字.swift"; sourceTree = "<group>"; };
+		81FF6F5523BC5BE300814D5B /* 130-被围绕的区域.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "130-被围绕的区域.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -189,6 +191,7 @@
 				81FF6F4923B8BEC000814D5B /* 5297-跳跃游戏 III.swift */,
 				81FF6F4B23B9938500814D5B /* 673-最长递增子序列的个数.swift */,
 				81FF6F4D23BAE70100814D5B /* 967-连续差相同的数字.swift */,
+				81FF6F5523BC5BE300814D5B /* 130-被围绕的区域.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -278,6 +281,7 @@
 				81FF6F4C23B9938500814D5B /* 673-最长递增子序列的个数.swift in Sources */,
 				81A54E3423AB154F00EE2CCC /* 303-区域和检索 - 数组不可变.swift in Sources */,
 				818BEF3C23A1EF6E00382977 /* 1169-查询无效交易.swift in Sources */,
+				81FF6F5623BC5BE300814D5B /* 130-被围绕的区域.swift in Sources */,
 				81A54ECF23B662A500EE2CCC /* 删除链表中等于某个值得所有节点.swift in Sources */,
 				81A54E8923B05DCB00EE2CCC /* 5293-子串的最大出现次数.swift in Sources */,
 				818BEF3E23A22B5600382977 /* Common.swift in Sources */,
