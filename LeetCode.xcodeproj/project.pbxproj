@@ -53,6 +53,7 @@
 		81FF6F4E23BAE70100814D5B /* 967-连续差相同的数字.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FF6F4D23BAE70100814D5B /* 967-连续差相同的数字.swift */; };
 		81FF6F5623BC5BE300814D5B /* 130-被围绕的区域.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FF6F5523BC5BE300814D5B /* 130-被围绕的区域.swift */; };
 		81FF6F5923BD90A600814D5B /* 905-按奇偶排序数组.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FF6F5823BD90A600814D5B /* 905-按奇偶排序数组.swift */; };
+		81FF6F5B23BDBAEB00814D5B /* 724-寻找数组的中心索引.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FF6F5A23BDBAEA00814D5B /* 724-寻找数组的中心索引.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -116,6 +117,7 @@
 		81FF6F4D23BAE70100814D5B /* 967-连续差相同的数字.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "967-连续差相同的数字.swift"; sourceTree = "<group>"; };
 		81FF6F5523BC5BE300814D5B /* 130-被围绕的区域.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "130-被围绕的区域.swift"; sourceTree = "<group>"; };
 		81FF6F5823BD90A600814D5B /* 905-按奇偶排序数组.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "905-按奇偶排序数组.swift"; sourceTree = "<group>"; };
+		81FF6F5A23BDBAEA00814D5B /* 724-寻找数组的中心索引.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "724-寻找数组的中心索引.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -195,6 +197,7 @@
 				81FF6F4D23BAE70100814D5B /* 967-连续差相同的数字.swift */,
 				81FF6F5523BC5BE300814D5B /* 130-被围绕的区域.swift */,
 				81FF6F5823BD90A600814D5B /* 905-按奇偶排序数组.swift */,
+				81FF6F5A23BDBAEA00814D5B /* 724-寻找数组的中心索引.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -283,6 +286,7 @@
 				81A54E3C23AC5F4E00EE2CCC /* 322-零钱兑换.swift in Sources */,
 				81FF6F4C23B9938500814D5B /* 673-最长递增子序列的个数.swift in Sources */,
 				81A54E3423AB154F00EE2CCC /* 303-区域和检索 - 数组不可变.swift in Sources */,
+				81FF6F5B23BDBAEB00814D5B /* 724-寻找数组的中心索引.swift in Sources */,
 				818BEF3C23A1EF6E00382977 /* 1169-查询无效交易.swift in Sources */,
 				81FF6F5623BC5BE300814D5B /* 130-被围绕的区域.swift in Sources */,
 				81A54ECF23B662A500EE2CCC /* 删除链表中等于某个值得所有节点.swift in Sources */,
