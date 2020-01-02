@@ -52,6 +52,7 @@
 		81FF6F4C23B9938500814D5B /* 673-最长递增子序列的个数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FF6F4B23B9938500814D5B /* 673-最长递增子序列的个数.swift */; };
 		81FF6F4E23BAE70100814D5B /* 967-连续差相同的数字.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FF6F4D23BAE70100814D5B /* 967-连续差相同的数字.swift */; };
 		81FF6F5623BC5BE300814D5B /* 130-被围绕的区域.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FF6F5523BC5BE300814D5B /* 130-被围绕的区域.swift */; };
+		81FF6F5923BD90A600814D5B /* 905-按奇偶排序数组.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FF6F5823BD90A600814D5B /* 905-按奇偶排序数组.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -114,6 +115,7 @@
 		81FF6F4B23B9938500814D5B /* 673-最长递增子序列的个数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "673-最长递增子序列的个数.swift"; sourceTree = "<group>"; };
 		81FF6F4D23BAE70100814D5B /* 967-连续差相同的数字.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "967-连续差相同的数字.swift"; sourceTree = "<group>"; };
 		81FF6F5523BC5BE300814D5B /* 130-被围绕的区域.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "130-被围绕的区域.swift"; sourceTree = "<group>"; };
+		81FF6F5823BD90A600814D5B /* 905-按奇偶排序数组.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "905-按奇偶排序数组.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -192,6 +194,7 @@
 				81FF6F4B23B9938500814D5B /* 673-最长递增子序列的个数.swift */,
 				81FF6F4D23BAE70100814D5B /* 967-连续差相同的数字.swift */,
 				81FF6F5523BC5BE300814D5B /* 130-被围绕的区域.swift */,
+				81FF6F5823BD90A600814D5B /* 905-按奇偶排序数组.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -290,6 +293,7 @@
 				81FF6F4E23BAE70100814D5B /* 967-连续差相同的数字.swift in Sources */,
 				81A54E8B23B05E0200EE2CCC /* 5292-划分数组为连续数字的集合.swift in Sources */,
 				81A54ECD23B6626A00EE2CCC /* 167-两数之和 II - 输入有序数组.swift in Sources */,
+				81FF6F5923BD90A600814D5B /* 905-按奇偶排序数组.swift in Sources */,
 				81650D21239F43E400580543 /* 621-任务调度器.swift in Sources */,
 				81A54E5E23ADC6FF00EE2CCC /* 304-二维区域和检索 - 矩阵不可变.swift in Sources */,
 				81A54E3623AB502C00EE2CCC /* 876-链表的中间结点.swift in Sources */,
