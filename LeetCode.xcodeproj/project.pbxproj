@@ -56,6 +56,7 @@
 		81FF6F5B23BDBAEB00814D5B /* 724-寻找数组的中心索引.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FF6F5A23BDBAEA00814D5B /* 724-寻找数组的中心索引.swift */; };
 		81FF6F5D23BDCD7500814D5B /* 1093-大样本统计.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FF6F5C23BDCD7500814D5B /* 1093-大样本统计.swift */; };
 		81FF6F8223C2CC5800814D5B /* 657-机器人能否返回原点.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FF6F8123C2CC5800814D5B /* 657-机器人能否返回原点.swift */; };
+		81FF6F8423C2D0DF00814D5B /* 504-七进制数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FF6F8323C2D0DF00814D5B /* 504-七进制数.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -122,6 +123,7 @@
 		81FF6F5A23BDBAEA00814D5B /* 724-寻找数组的中心索引.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "724-寻找数组的中心索引.swift"; sourceTree = "<group>"; };
 		81FF6F5C23BDCD7500814D5B /* 1093-大样本统计.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1093-大样本统计.swift"; sourceTree = "<group>"; };
 		81FF6F8123C2CC5800814D5B /* 657-机器人能否返回原点.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "657-机器人能否返回原点.swift"; sourceTree = "<group>"; };
+		81FF6F8323C2D0DF00814D5B /* 504-七进制数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "504-七进制数.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -204,6 +206,7 @@
 				81FF6F5A23BDBAEA00814D5B /* 724-寻找数组的中心索引.swift */,
 				81FF6F5C23BDCD7500814D5B /* 1093-大样本统计.swift */,
 				81FF6F8123C2CC5800814D5B /* 657-机器人能否返回原点.swift */,
+				81FF6F8323C2D0DF00814D5B /* 504-七进制数.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -307,6 +310,7 @@
 				81650D21239F43E400580543 /* 621-任务调度器.swift in Sources */,
 				81A54E5E23ADC6FF00EE2CCC /* 304-二维区域和检索 - 矩阵不可变.swift in Sources */,
 				81A54E3623AB502C00EE2CCC /* 876-链表的中间结点.swift in Sources */,
+				81FF6F8423C2D0DF00814D5B /* 504-七进制数.swift in Sources */,
 				81A54EC923B5DB1700EE2CCC /* 排序.swift in Sources */,
 				81A54EC523B5A70E00EE2CCC /* 42-接雨水.swift in Sources */,
 				81A54E3A23AB56B200EE2CCC /* 238-除自身以外数组的乘积.swift in Sources */,
