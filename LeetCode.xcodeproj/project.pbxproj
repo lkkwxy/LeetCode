@@ -57,6 +57,7 @@
 		81FF6F5D23BDCD7500814D5B /* 1093-大样本统计.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FF6F5C23BDCD7500814D5B /* 1093-大样本统计.swift */; };
 		81FF6F8223C2CC5800814D5B /* 657-机器人能否返回原点.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FF6F8123C2CC5800814D5B /* 657-机器人能否返回原点.swift */; };
 		81FF6F8423C2D0DF00814D5B /* 504-七进制数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FF6F8323C2D0DF00814D5B /* 504-七进制数.swift */; };
+		81FF6F8623C2D2A800814D5B /* 74-搜索二维矩阵.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FF6F8523C2D2A800814D5B /* 74-搜索二维矩阵.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -124,6 +125,7 @@
 		81FF6F5C23BDCD7500814D5B /* 1093-大样本统计.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1093-大样本统计.swift"; sourceTree = "<group>"; };
 		81FF6F8123C2CC5800814D5B /* 657-机器人能否返回原点.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "657-机器人能否返回原点.swift"; sourceTree = "<group>"; };
 		81FF6F8323C2D0DF00814D5B /* 504-七进制数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "504-七进制数.swift"; sourceTree = "<group>"; };
+		81FF6F8523C2D2A800814D5B /* 74-搜索二维矩阵.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "74-搜索二维矩阵.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -207,6 +209,7 @@
 				81FF6F5C23BDCD7500814D5B /* 1093-大样本统计.swift */,
 				81FF6F8123C2CC5800814D5B /* 657-机器人能否返回原点.swift */,
 				81FF6F8323C2D0DF00814D5B /* 504-七进制数.swift */,
+				81FF6F8523C2D2A800814D5B /* 74-搜索二维矩阵.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -269,6 +272,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				81FF6F8623C2D2A800814D5B /* 74-搜索二维矩阵.swift in Sources */,
 				81E60E8A23A088D500AAE3EA /* 89-格雷编码.swift in Sources */,
 				818BEF4023A22B8200382977 /* 109-有序链表转换二叉搜索树.swift in Sources */,
 				81FF6F4823B8B2A700814D5B /* 5296-两棵二叉搜索树中的所有元素.swift in Sources */,
