@@ -44,6 +44,5 @@ func sampleStats(_ count: [Int]) -> [Double] {
         }
     }
     
-    
     return [Double(minValue),Double(maxValue),Double(sum) / Double(countSum),Double(midValue),Double(maxCountValue)]
 }
