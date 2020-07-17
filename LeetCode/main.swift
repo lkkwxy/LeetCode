@@ -8,6 +8,8 @@
 
 import Foundation
 
+//测试 35. 搜索插入位置
+searchInsert([1,3,5,6], 7)
 //测试31-下一个排列
 var nums = [2,3,1,3,3]
 nextPermutation(&nums)
