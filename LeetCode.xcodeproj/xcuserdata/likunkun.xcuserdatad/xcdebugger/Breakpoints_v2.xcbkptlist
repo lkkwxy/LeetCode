@@ -92,33 +92,33 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "1C751B69-3829-4B18-8078-9FD4CBE94EDF"
+            uuid = "D0238FD6-1CD5-4239-B641-7F1458504C3B"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "LeetCode/35-&#x641c;&#x7d22;&#x63d2;&#x5165;&#x4f4d;&#x7f6e;.swift"
+            filePath = "LeetCode/1365. &#x6709;&#x591a;&#x5c11;&#x5c0f;&#x4e8e;&#x5f53;&#x524d;&#x6570;&#x5b57;&#x7684;&#x6570;&#x5b57;.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "28"
-            endingLineNumber = "28"
-            landmarkName = "searchInsert(_:_:)"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "smallerNumbersThanCurrent(_:)"
             landmarkType = "9">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "E942A939-008F-4106-8936-7B79A6687351"
+            uuid = "53B9EA58-20CE-4C2C-A242-169728AEC477"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "LeetCode/main.swift"
+            filePath = "LeetCode/1365. &#x6709;&#x591a;&#x5c11;&#x5c0f;&#x4e8e;&#x5f53;&#x524d;&#x6570;&#x5b57;&#x7684;&#x6570;&#x5b57;.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "47"
-            endingLineNumber = "47"
-            landmarkName = "unknown"
-            landmarkType = "0">
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "smallerNumbersThanCurrent(_:)"
+            landmarkType = "9">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
