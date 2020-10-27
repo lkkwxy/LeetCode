@@ -49,4 +49,4 @@
 * [1041-困于环中的机器人](https://leetcode-cn.com/problems/robot-bounded-in-circle/)
 * [530-二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/)
 * [24-两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
-*[1002. 查找常用字符](https://leetcode-cn.com/problems/find-common-characters/)
+* [1002. 查找常用字符](https://leetcode-cn.com/problems/find-common-characters/)
