@@ -65,6 +65,7 @@
 		81FF6F8223C2CC5800814D5B /* 657-机器人能否返回原点.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FF6F8123C2CC5800814D5B /* 657-机器人能否返回原点.swift */; };
 		81FF6F8423C2D0DF00814D5B /* 504-七进制数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FF6F8323C2D0DF00814D5B /* 504-七进制数.swift */; };
 		81FF6F8623C2D2A800814D5B /* 74-搜索二维矩阵.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FF6F8523C2D2A800814D5B /* 74-搜索二维矩阵.swift */; };
+		F8F870FC2547BE2E0040A8B0 /* 144. 二叉树的前序遍历.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F870FB2547BE2E0040A8B0 /* 144. 二叉树的前序遍历.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -140,6 +141,7 @@
 		81FF6F8123C2CC5800814D5B /* 657-机器人能否返回原点.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "657-机器人能否返回原点.swift"; sourceTree = "<group>"; };
 		81FF6F8323C2D0DF00814D5B /* 504-七进制数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "504-七进制数.swift"; sourceTree = "<group>"; };
 		81FF6F8523C2D2A800814D5B /* 74-搜索二维矩阵.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "74-搜索二维矩阵.swift"; sourceTree = "<group>"; };
+		F8F870FB2547BE2E0040A8B0 /* 144. 二叉树的前序遍历.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "144. 二叉树的前序遍历.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -231,6 +233,7 @@
 				81654A2925351C3400848BEF /* 24. 两两交换链表中的节点.swift */,
 				81654A2C25366BDD00848BEF /* 1002. 查找常用字符.swift */,
 				81BF2CBD254642B500F2E47E /* 1365. 有多少小于当前数字的数字.swift */,
+				F8F870FB2547BE2E0040A8B0 /* 144. 二叉树的前序遍历.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -306,6 +309,7 @@
 				818BEF4723A363A500382977 /* 796-旋转字符串.swift in Sources */,
 				81A54DC623A9D53C00EE2CCC /* 309-最佳买卖股票时机含冷冻期.swift in Sources */,
 				81654A2A25351C3400848BEF /* 24. 两两交换链表中的节点.swift in Sources */,
+				F8F870FC2547BE2E0040A8B0 /* 144. 二叉树的前序遍历.swift in Sources */,
 				81A54EC323B4577500EE2CCC /* 84-柱状图中最大的矩形.swift in Sources */,
 				81A54D9823A8752D00EE2CCC /* 6-Z 字形变换.swift in Sources */,
 				81C9AAB12533D33A0007C839 /* 530. 二叉搜索树的最小绝对差.swift in Sources */,
