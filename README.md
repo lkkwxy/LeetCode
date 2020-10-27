@@ -51,3 +51,4 @@
 * [24-两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
 * [1002. 查找常用字符](https://leetcode-cn.com/problems/find-common-characters/)
 * [1365. 有多少小于当前数字的数字](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
+* [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
