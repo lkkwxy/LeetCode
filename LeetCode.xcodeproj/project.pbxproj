@@ -47,6 +47,7 @@
 		81C1FC4B239E205E00F2271B /* 31-下一个排列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C1FC4A239E205E00F2271B /* 31-下一个排列.swift */; };
 		81E60E8A23A088D500AAE3EA /* 89-格雷编码.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81E60E8923A088D500AAE3EA /* 89-格雷编码.swift */; };
 		81FE1FAB24C13933001765E5 /* 35-搜索插入位置.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FE1FAA24C13933001765E5 /* 35-搜索插入位置.swift */; };
+		81FE1FAD24C34DC7001765E5 /* 826-安排工作以达到最大收益.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FE1FAC24C34DC7001765E5 /* 826-安排工作以达到最大收益.swift */; };
 		81FF6F4623B8B04C00814D5B /* 5295-和为零的N个唯一整数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FF6F4523B8B04C00814D5B /* 5295-和为零的N个唯一整数.swift */; };
 		81FF6F4823B8B2A700814D5B /* 5296-两棵二叉搜索树中的所有元素.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FF6F4723B8B2A700814D5B /* 5296-两棵二叉搜索树中的所有元素.swift */; };
 		81FF6F4A23B8BEC000814D5B /* 5297-跳跃游戏 III.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FF6F4923B8BEC000814D5B /* 5297-跳跃游戏 III.swift */; };
@@ -116,6 +117,7 @@
 		81C1FC4A239E205E00F2271B /* 31-下一个排列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "31-下一个排列.swift"; sourceTree = "<group>"; };
 		81E60E8923A088D500AAE3EA /* 89-格雷编码.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "89-格雷编码.swift"; sourceTree = "<group>"; };
 		81FE1FAA24C13933001765E5 /* 35-搜索插入位置.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "35-搜索插入位置.swift"; sourceTree = "<group>"; };
+		81FE1FAC24C34DC7001765E5 /* 826-安排工作以达到最大收益.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "826-安排工作以达到最大收益.swift"; sourceTree = "<group>"; };
 		81FF6F4523B8B04C00814D5B /* 5295-和为零的N个唯一整数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "5295-和为零的N个唯一整数.swift"; sourceTree = "<group>"; };
 		81FF6F4723B8B2A700814D5B /* 5296-两棵二叉搜索树中的所有元素.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "5296-两棵二叉搜索树中的所有元素.swift"; sourceTree = "<group>"; };
 		81FF6F4923B8BEC000814D5B /* 5297-跳跃游戏 III.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "5297-跳跃游戏 III.swift"; sourceTree = "<group>"; };
@@ -213,6 +215,7 @@
 				81FF6F8323C2D0DF00814D5B /* 504-七进制数.swift */,
 				81FF6F8523C2D2A800814D5B /* 74-搜索二维矩阵.swift */,
 				81FE1FAA24C13933001765E5 /* 35-搜索插入位置.swift */,
+				81FE1FAC24C34DC7001765E5 /* 826-安排工作以达到最大收益.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -275,6 +278,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				81FE1FAD24C34DC7001765E5 /* 826-安排工作以达到最大收益.swift in Sources */,
 				81FF6F8623C2D2A800814D5B /* 74-搜索二维矩阵.swift in Sources */,
 				81E60E8A23A088D500AAE3EA /* 89-格雷编码.swift in Sources */,
 				818BEF4023A22B8200382977 /* 109-有序链表转换二叉搜索树.swift in Sources */,
