@@ -46,6 +46,7 @@
 		81BD50B823A5C490008B2278 /* 205-同构字符串.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81BD50B723A5C490008B2278 /* 205-同构字符串.swift */; };
 		81C1FC43239E1D6F00F2271B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C1FC42239E1D6F00F2271B /* main.swift */; };
 		81C1FC4B239E205E00F2271B /* 31-下一个排列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C1FC4A239E205E00F2271B /* 31-下一个排列.swift */; };
+		81C9AAB12533D33A0007C839 /* 530. 二叉搜索树的最小绝对差.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C9AAB02533D33A0007C839 /* 530. 二叉搜索树的最小绝对差.swift */; };
 		81E60E8A23A088D500AAE3EA /* 89-格雷编码.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81E60E8923A088D500AAE3EA /* 89-格雷编码.swift */; };
 		81FE1FAB24C13933001765E5 /* 35-搜索插入位置.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FE1FAA24C13933001765E5 /* 35-搜索插入位置.swift */; };
 		81FE1FAD24C34DC7001765E5 /* 826-安排工作以达到最大收益.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FE1FAC24C34DC7001765E5 /* 826-安排工作以达到最大收益.swift */; };
@@ -117,6 +118,7 @@
 		81C1FC3F239E1D6F00F2271B /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		81C1FC42239E1D6F00F2271B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		81C1FC4A239E205E00F2271B /* 31-下一个排列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "31-下一个排列.swift"; sourceTree = "<group>"; };
+		81C9AAB02533D33A0007C839 /* 530. 二叉搜索树的最小绝对差.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "530. 二叉搜索树的最小绝对差.swift"; sourceTree = "<group>"; };
 		81E60E8923A088D500AAE3EA /* 89-格雷编码.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "89-格雷编码.swift"; sourceTree = "<group>"; };
 		81FE1FAA24C13933001765E5 /* 35-搜索插入位置.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "35-搜索插入位置.swift"; sourceTree = "<group>"; };
 		81FE1FAC24C34DC7001765E5 /* 826-安排工作以达到最大收益.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "826-安排工作以达到最大收益.swift"; sourceTree = "<group>"; };
@@ -219,6 +221,7 @@
 				81FE1FAA24C13933001765E5 /* 35-搜索插入位置.swift */,
 				81FE1FAC24C34DC7001765E5 /* 826-安排工作以达到最大收益.swift */,
 				81949E0C24D7B7AB00823823 /* 1041-困于环中的机器人.swift */,
+				81C9AAB02533D33A0007C839 /* 530. 二叉搜索树的最小绝对差.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -294,6 +297,7 @@
 				81A54DC623A9D53C00EE2CCC /* 309-最佳买卖股票时机含冷冻期.swift in Sources */,
 				81A54EC323B4577500EE2CCC /* 84-柱状图中最大的矩形.swift in Sources */,
 				81A54D9823A8752D00EE2CCC /* 6-Z 字形变换.swift in Sources */,
+				81C9AAB12533D33A0007C839 /* 530. 二叉搜索树的最小绝对差.swift in Sources */,
 				81949E0D24D7B7AB00823823 /* 1041-困于环中的机器人.swift in Sources */,
 				81A54ED323B70F6A00EE2CCC /* 60-第k个排列.swift in Sources */,
 				81A54E8D23B05E2000EE2CCC /* 5291- 统计位数为偶数的数字.swift in Sources */,
