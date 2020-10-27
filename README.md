@@ -47,3 +47,4 @@
 * [35. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)
 * [826-安排工作以达到最大收益](https://leetcode-cn.com/problems/most-profit-assigning-work/)
 * [1041-困于环中的机器人](https://leetcode-cn.com/problems/robot-bounded-in-circle/)
+* [530. 二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/)
