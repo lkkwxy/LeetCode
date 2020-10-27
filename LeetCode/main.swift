@@ -8,6 +8,41 @@
 
 import Foundation
 
+func squareNumberCount(_ nums:[Int]) -> Int {
+    var count = 0
+    var left = 0
+    var right = nums.count - 1
+    while left <= right {
+        let tmpLeft = nums[left]
+        let tmpRight = nums[right]
+        var isAddLeft = false
+        var isSubtractRight = false
+        if abs(tmpLeft) == abs(tmpRight) {
+            isAddLeft = true
+            isSubtractRight = true
+        }else if abs(tmpLeft) < abs(tmpRight) {
+            isSubtractRight = true
+        }else {
+            isAddLeft = true
+        }
+        if isAddLeft {
+            left += 1
+            while tmpLeft == nums[left] && left < right {
+                left += 1
+            }
+        }
+        
+        if isSubtractRight {
+            right -= 1
+            while tmpRight == nums[right] && left < right {
+                right -= 1
+            }
+        }
+        count += 1
+    }
+    return count
+}
+print(squareNumberCount([-4,-2,-1,-1,0,0,2,3,5]))
 //测试 35. 搜索插入位置
 searchInsert([1,3,5,6], 7)
 //测试31-下一个排列
