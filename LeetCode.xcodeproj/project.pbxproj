@@ -66,7 +66,9 @@
 		81FF6F8223C2CC5800814D5B /* 657-机器人能否返回原点.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FF6F8123C2CC5800814D5B /* 657-机器人能否返回原点.swift */; };
 		81FF6F8423C2D0DF00814D5B /* 504-七进制数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FF6F8323C2D0DF00814D5B /* 504-七进制数.swift */; };
 		81FF6F8623C2D2A800814D5B /* 74-搜索二维矩阵.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FF6F8523C2D2A800814D5B /* 74-搜索二维矩阵.swift */; };
+		F84D776A254ABDBD00CD31E0 /* 129. 求根到叶子节点数字之和.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84D7769254ABDBD00CD31E0 /* 129. 求根到叶子节点数字之和.swift */; };
 		F8F870FC2547BE2E0040A8B0 /* 144. 二叉树的前序遍历.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F870FB2547BE2E0040A8B0 /* 144. 二叉树的前序遍历.swift */; };
+		F8F872A7254908C20040A8B0 /* 1207. 独一无二的出现次数.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F872A6254908C20040A8B0 /* 1207. 独一无二的出现次数.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -143,7 +145,9 @@
 		81FF6F8123C2CC5800814D5B /* 657-机器人能否返回原点.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "657-机器人能否返回原点.swift"; sourceTree = "<group>"; };
 		81FF6F8323C2D0DF00814D5B /* 504-七进制数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "504-七进制数.swift"; sourceTree = "<group>"; };
 		81FF6F8523C2D2A800814D5B /* 74-搜索二维矩阵.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "74-搜索二维矩阵.swift"; sourceTree = "<group>"; };
+		F84D7769254ABDBD00CD31E0 /* 129. 求根到叶子节点数字之和.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "129. 求根到叶子节点数字之和.swift"; sourceTree = "<group>"; };
 		F8F870FB2547BE2E0040A8B0 /* 144. 二叉树的前序遍历.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "144. 二叉树的前序遍历.swift"; sourceTree = "<group>"; };
+		F8F872A6254908C20040A8B0 /* 1207. 独一无二的出现次数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1207. 独一无二的出现次数.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -237,6 +241,8 @@
 				81BF2CBD254642B500F2E47E /* 1365. 有多少小于当前数字的数字.swift */,
 				F8F870FB2547BE2E0040A8B0 /* 144. 二叉树的前序遍历.swift */,
 				81BF2CEE254B8D3A00F2E47E /* 463. 岛屿的周长.swift */,
+				F8F872A6254908C20040A8B0 /* 1207. 独一无二的出现次数.swift */,
+				F84D7769254ABDBD00CD31E0 /* 129. 求根到叶子节点数字之和.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -301,6 +307,7 @@
 			files = (
 				81FE1FAD24C34DC7001765E5 /* 826-安排工作以达到最大收益.swift in Sources */,
 				81FF6F8623C2D2A800814D5B /* 74-搜索二维矩阵.swift in Sources */,
+				F84D776A254ABDBD00CD31E0 /* 129. 求根到叶子节点数字之和.swift in Sources */,
 				81E60E8A23A088D500AAE3EA /* 89-格雷编码.swift in Sources */,
 				818BEF4023A22B8200382977 /* 109-有序链表转换二叉搜索树.swift in Sources */,
 				81FF6F4823B8B2A700814D5B /* 5296-两棵二叉搜索树中的所有元素.swift in Sources */,
@@ -318,6 +325,7 @@
 				81C9AAB12533D33A0007C839 /* 530. 二叉搜索树的最小绝对差.swift in Sources */,
 				81949E0D24D7B7AB00823823 /* 1041-困于环中的机器人.swift in Sources */,
 				81A54ED323B70F6A00EE2CCC /* 60-第k个排列.swift in Sources */,
+				F8F872A7254908C20040A8B0 /* 1207. 独一无二的出现次数.swift in Sources */,
 				81A54E8D23B05E2000EE2CCC /* 5291- 统计位数为偶数的数字.swift in Sources */,
 				81A54ECB23B6607E00EE2CCC /* 88-合并两个有序数组.swift in Sources */,
 				81FF6F4623B8B04C00814D5B /* 5295-和为零的N个唯一整数.swift in Sources */,
