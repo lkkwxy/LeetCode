@@ -10,6 +10,7 @@
 		81650D21239F43E400580543 /* 621-任务调度器.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81650D20239F43E400580543 /* 621-任务调度器.swift */; };
 		81654A2A25351C3400848BEF /* 24. 两两交换链表中的节点.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81654A2925351C3400848BEF /* 24. 两两交换链表中的节点.swift */; };
 		81654A2D25366BDD00848BEF /* 1002. 查找常用字符.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81654A2C25366BDD00848BEF /* 1002. 查找常用字符.swift */; };
+		816F1B9E254D797700D0EE5D /* 381. O(1) 时间插入、删除和获取随机元素 - 允许重复.swift in Sources */ = {isa = PBXBuildFile; fileRef = 816F1B9D254D797700D0EE5D /* 381. O(1) 时间插入、删除和获取随机元素 - 允许重复.swift */; };
 		818BEF3C23A1EF6E00382977 /* 1169-查询无效交易.swift in Sources */ = {isa = PBXBuildFile; fileRef = 818BEF3B23A1EF6E00382977 /* 1169-查询无效交易.swift */; };
 		818BEF3E23A22B5600382977 /* Common.swift in Sources */ = {isa = PBXBuildFile; fileRef = 818BEF3D23A22B5600382977 /* Common.swift */; };
 		818BEF4023A22B8200382977 /* 109-有序链表转换二叉搜索树.swift in Sources */ = {isa = PBXBuildFile; fileRef = 818BEF3F23A22B8200382977 /* 109-有序链表转换二叉搜索树.swift */; };
@@ -87,6 +88,7 @@
 		81650D20239F43E400580543 /* 621-任务调度器.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "621-任务调度器.swift"; sourceTree = "<group>"; };
 		81654A2925351C3400848BEF /* 24. 两两交换链表中的节点.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "24. 两两交换链表中的节点.swift"; sourceTree = "<group>"; };
 		81654A2C25366BDD00848BEF /* 1002. 查找常用字符.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1002. 查找常用字符.swift"; sourceTree = "<group>"; };
+		816F1B9D254D797700D0EE5D /* 381. O(1) 时间插入、删除和获取随机元素 - 允许重复.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "381. O(1) 时间插入、删除和获取随机元素 - 允许重复.swift"; sourceTree = "<group>"; };
 		818BEF3B23A1EF6E00382977 /* 1169-查询无效交易.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1169-查询无效交易.swift"; sourceTree = "<group>"; };
 		818BEF3D23A22B5600382977 /* Common.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Common.swift; sourceTree = "<group>"; };
 		818BEF3F23A22B8200382977 /* 109-有序链表转换二叉搜索树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "109-有序链表转换二叉搜索树.swift"; sourceTree = "<group>"; };
@@ -243,6 +245,7 @@
 				81BF2CEE254B8D3A00F2E47E /* 463. 岛屿的周长.swift */,
 				F8F872A6254908C20040A8B0 /* 1207. 独一无二的出现次数.swift */,
 				F84D7769254ABDBD00CD31E0 /* 129. 求根到叶子节点数字之和.swift */,
+				816F1B9D254D797700D0EE5D /* 381. O(1) 时间插入、删除和获取随机元素 - 允许重复.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -356,6 +359,7 @@
 				81FF6F5923BD90A600814D5B /* 905-按奇偶排序数组.swift in Sources */,
 				81BF2CBE254642B500F2E47E /* 1365. 有多少小于当前数字的数字.swift in Sources */,
 				81650D21239F43E400580543 /* 621-任务调度器.swift in Sources */,
+				816F1B9E254D797700D0EE5D /* 381. O(1) 时间插入、删除和获取随机元素 - 允许重复.swift in Sources */,
 				81A54E5E23ADC6FF00EE2CCC /* 304-二维区域和检索 - 矩阵不可变.swift in Sources */,
 				81A54E3623AB502C00EE2CCC /* 876-链表的中间结点.swift in Sources */,
 				81FF6F8423C2D0DF00814D5B /* 504-七进制数.swift in Sources */,
