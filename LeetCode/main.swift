@@ -100,4 +100,7 @@ assert(pathInZigZagTree(14) == [1,3,4,14])
 print(largestRectangleArea([5,4,1,2]))
 // 测试 42-接雨水
 print(trap([0,1,0,2,1,0,1,3,2,1,2,1]))
-smallerNumbersThanCurrent([8,1,2,2,3])
+print(islandPerimeter([[0,1,0,0],
+                       [1,1,1,0],
+                       [0,1,0,0],
+                       [1,1,0,0]]))
