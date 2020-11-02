@@ -67,6 +67,7 @@
 		81FF6F8223C2CC5800814D5B /* 657-机器人能否返回原点.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FF6F8123C2CC5800814D5B /* 657-机器人能否返回原点.swift */; };
 		81FF6F8423C2D0DF00814D5B /* 504-七进制数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FF6F8323C2D0DF00814D5B /* 504-七进制数.swift */; };
 		81FF6F8623C2D2A800814D5B /* 74-搜索二维矩阵.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FF6F8523C2D2A800814D5B /* 74-搜索二维矩阵.swift */; };
+		F840C529254F9BBF008DDFC4 /* 349. 两个数组的交集.swift in Sources */ = {isa = PBXBuildFile; fileRef = F840C528254F9BBF008DDFC4 /* 349. 两个数组的交集.swift */; };
 		F84D776A254ABDBD00CD31E0 /* 129. 求根到叶子节点数字之和.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84D7769254ABDBD00CD31E0 /* 129. 求根到叶子节点数字之和.swift */; };
 		F8F870FC2547BE2E0040A8B0 /* 144. 二叉树的前序遍历.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F870FB2547BE2E0040A8B0 /* 144. 二叉树的前序遍历.swift */; };
 		F8F872A7254908C20040A8B0 /* 1207. 独一无二的出现次数.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F872A6254908C20040A8B0 /* 1207. 独一无二的出现次数.swift */; };
@@ -147,6 +148,7 @@
 		81FF6F8123C2CC5800814D5B /* 657-机器人能否返回原点.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "657-机器人能否返回原点.swift"; sourceTree = "<group>"; };
 		81FF6F8323C2D0DF00814D5B /* 504-七进制数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "504-七进制数.swift"; sourceTree = "<group>"; };
 		81FF6F8523C2D2A800814D5B /* 74-搜索二维矩阵.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "74-搜索二维矩阵.swift"; sourceTree = "<group>"; };
+		F840C528254F9BBF008DDFC4 /* 349. 两个数组的交集.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "349. 两个数组的交集.swift"; sourceTree = "<group>"; };
 		F84D7769254ABDBD00CD31E0 /* 129. 求根到叶子节点数字之和.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "129. 求根到叶子节点数字之和.swift"; sourceTree = "<group>"; };
 		F8F870FB2547BE2E0040A8B0 /* 144. 二叉树的前序遍历.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "144. 二叉树的前序遍历.swift"; sourceTree = "<group>"; };
 		F8F872A6254908C20040A8B0 /* 1207. 独一无二的出现次数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1207. 独一无二的出现次数.swift"; sourceTree = "<group>"; };
@@ -246,6 +248,7 @@
 				F8F872A6254908C20040A8B0 /* 1207. 独一无二的出现次数.swift */,
 				F84D7769254ABDBD00CD31E0 /* 129. 求根到叶子节点数字之和.swift */,
 				816F1B9D254D797700D0EE5D /* 381. O(1) 时间插入、删除和获取随机元素 - 允许重复.swift */,
+				F840C528254F9BBF008DDFC4 /* 349. 两个数组的交集.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -319,6 +322,7 @@
 				818BEF4923A377C700382977 /* 682-棒球比赛.swift in Sources */,
 				81654A2D25366BDD00848BEF /* 1002. 查找常用字符.swift in Sources */,
 				81A54EC723B5D5EA00EE2CCC /* 496-下一个更大元素 I.swift in Sources */,
+				F840C529254F9BBF008DDFC4 /* 349. 两个数组的交集.swift in Sources */,
 				818BEF4723A363A500382977 /* 796-旋转字符串.swift in Sources */,
 				81A54DC623A9D53C00EE2CCC /* 309-最佳买卖股票时机含冷冻期.swift in Sources */,
 				81654A2A25351C3400848BEF /* 24. 两两交换链表中的节点.swift in Sources */,
