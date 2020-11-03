@@ -53,6 +53,7 @@
 		81C1FC4B239E205E00F2271B /* 31-下一个排列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C1FC4A239E205E00F2271B /* 31-下一个排列.swift */; };
 		81C9AAB12533D33A0007C839 /* 530. 二叉搜索树的最小绝对差.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C9AAB02533D33A0007C839 /* 530. 二叉搜索树的最小绝对差.swift */; };
 		81E1555F2550D81F00FB7360 /* 941. 有效的山脉数组.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81E1555E2550D81F00FB7360 /* 941. 有效的山脉数组.swift */; };
+		81E1557A255222DB00FB7360 /* 57. 插入区间.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81E15579255222DB00FB7360 /* 57. 插入区间.swift */; };
 		81E60E8A23A088D500AAE3EA /* 89-格雷编码.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81E60E8923A088D500AAE3EA /* 89-格雷编码.swift */; };
 		81FE1FAB24C13933001765E5 /* 35-搜索插入位置.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FE1FAA24C13933001765E5 /* 35-搜索插入位置.swift */; };
 		81FE1FAD24C34DC7001765E5 /* 826-安排工作以达到最大收益.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FE1FAC24C34DC7001765E5 /* 826-安排工作以达到最大收益.swift */; };
@@ -135,6 +136,7 @@
 		81C1FC4A239E205E00F2271B /* 31-下一个排列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "31-下一个排列.swift"; sourceTree = "<group>"; };
 		81C9AAB02533D33A0007C839 /* 530. 二叉搜索树的最小绝对差.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "530. 二叉搜索树的最小绝对差.swift"; sourceTree = "<group>"; };
 		81E1555E2550D81F00FB7360 /* 941. 有效的山脉数组.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "941. 有效的山脉数组.swift"; sourceTree = "<group>"; };
+		81E15579255222DB00FB7360 /* 57. 插入区间.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "57. 插入区间.swift"; sourceTree = "<group>"; };
 		81E60E8923A088D500AAE3EA /* 89-格雷编码.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "89-格雷编码.swift"; sourceTree = "<group>"; };
 		81FE1FAA24C13933001765E5 /* 35-搜索插入位置.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "35-搜索插入位置.swift"; sourceTree = "<group>"; };
 		81FE1FAC24C34DC7001765E5 /* 826-安排工作以达到最大收益.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "826-安排工作以达到最大收益.swift"; sourceTree = "<group>"; };
@@ -250,6 +252,7 @@
 				F8F872A6254908C20040A8B0 /* 1207. 独一无二的出现次数.swift */,
 				F84D7769254ABDBD00CD31E0 /* 129. 求根到叶子节点数字之和.swift */,
 				816F1B9D254D797700D0EE5D /* 381. O(1) 时间插入、删除和获取随机元素 - 允许重复.swift */,
+				81E15579255222DB00FB7360 /* 57. 插入区间.swift */,
 				F840C528254F9BBF008DDFC4 /* 349. 两个数组的交集.swift */,
 				81E1555E2550D81F00FB7360 /* 941. 有效的山脉数组.swift */,
 			);
@@ -320,6 +323,7 @@
 				81E60E8A23A088D500AAE3EA /* 89-格雷编码.swift in Sources */,
 				818BEF4023A22B8200382977 /* 109-有序链表转换二叉搜索树.swift in Sources */,
 				81FF6F4823B8B2A700814D5B /* 5296-两棵二叉搜索树中的所有元素.swift in Sources */,
+				81E1557A255222DB00FB7360 /* 57. 插入区间.swift in Sources */,
 				81A54ED123B6663200EE2CCC /* 100-相同的树.swift in Sources */,
 				81A54D9423A729F000EE2CCC /* 665-非递减数列.swift in Sources */,
 				818BEF4923A377C700382977 /* 682-棒球比赛.swift in Sources */,
