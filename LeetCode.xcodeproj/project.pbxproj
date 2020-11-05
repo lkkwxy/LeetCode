@@ -71,6 +71,7 @@
 		81FF6F8623C2D2A800814D5B /* 74-搜索二维矩阵.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FF6F8523C2D2A800814D5B /* 74-搜索二维矩阵.swift */; };
 		F840C529254F9BBF008DDFC4 /* 349. 两个数组的交集.swift in Sources */ = {isa = PBXBuildFile; fileRef = F840C528254F9BBF008DDFC4 /* 349. 两个数组的交集.swift */; };
 		F84D776A254ABDBD00CD31E0 /* 129. 求根到叶子节点数字之和.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84D7769254ABDBD00CD31E0 /* 129. 求根到叶子节点数字之和.swift */; };
+		F8AB679B2553FAAA005D0EC4 /* 127. 单词接龙.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8AB679A2553FAAA005D0EC4 /* 127. 单词接龙.swift */; };
 		F8F870FC2547BE2E0040A8B0 /* 144. 二叉树的前序遍历.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F870FB2547BE2E0040A8B0 /* 144. 二叉树的前序遍历.swift */; };
 		F8F872A7254908C20040A8B0 /* 1207. 独一无二的出现次数.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F872A6254908C20040A8B0 /* 1207. 独一无二的出现次数.swift */; };
 /* End PBXBuildFile section */
@@ -154,6 +155,7 @@
 		81FF6F8523C2D2A800814D5B /* 74-搜索二维矩阵.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "74-搜索二维矩阵.swift"; sourceTree = "<group>"; };
 		F840C528254F9BBF008DDFC4 /* 349. 两个数组的交集.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "349. 两个数组的交集.swift"; sourceTree = "<group>"; };
 		F84D7769254ABDBD00CD31E0 /* 129. 求根到叶子节点数字之和.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "129. 求根到叶子节点数字之和.swift"; sourceTree = "<group>"; };
+		F8AB679A2553FAAA005D0EC4 /* 127. 单词接龙.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "127. 单词接龙.swift"; sourceTree = "<group>"; };
 		F8F870FB2547BE2E0040A8B0 /* 144. 二叉树的前序遍历.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "144. 二叉树的前序遍历.swift"; sourceTree = "<group>"; };
 		F8F872A6254908C20040A8B0 /* 1207. 独一无二的出现次数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1207. 独一无二的出现次数.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -190,9 +192,9 @@
 			isa = PBXGroup;
 			children = (
 				81C1FC42239E1D6F00F2271B /* main.swift */,
-				81C1FC4A239E205E00F2271B /* 31-下一个排列.swift */,
 				81650D20239F43E400580543 /* 621-任务调度器.swift */,
 				81E60E8923A088D500AAE3EA /* 89-格雷编码.swift */,
+				81C1FC4A239E205E00F2271B /* 31-下一个排列.swift */,
 				818BEF3B23A1EF6E00382977 /* 1169-查询无效交易.swift */,
 				818BEF3D23A22B5600382977 /* Common.swift */,
 				818BEF3F23A22B8200382977 /* 109-有序链表转换二叉搜索树.swift */,
@@ -255,6 +257,7 @@
 				81E15579255222DB00FB7360 /* 57. 插入区间.swift */,
 				F840C528254F9BBF008DDFC4 /* 349. 两个数组的交集.swift */,
 				81E1555E2550D81F00FB7360 /* 941. 有效的山脉数组.swift */,
+				F8AB679A2553FAAA005D0EC4 /* 127. 单词接龙.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -344,6 +347,7 @@
 				81A54ECB23B6607E00EE2CCC /* 88-合并两个有序数组.swift in Sources */,
 				81FF6F4623B8B04C00814D5B /* 5295-和为零的N个唯一整数.swift in Sources */,
 				81A54EB823B1DD6A00EE2CCC /* 494-目标和.swift in Sources */,
+				F8AB679B2553FAAA005D0EC4 /* 127. 单词接龙.swift in Sources */,
 				818BEF4523A33E2200382977 /* 889-根据前序和后序遍历构造二叉树.swift in Sources */,
 				81A54E3823AB508000EE2CCC /* 977-有序数组的平方.swift in Sources */,
 				81A54E8723B05DAE00EE2CCC /* 413-等差数列划分.swift in Sources */,
