@@ -57,6 +57,8 @@
 		81E1557A255222DB00FB7360 /* 57. 插入区间.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81E15579255222DB00FB7360 /* 57. 插入区间.swift */; };
 		81E60E8A23A088D500AAE3EA /* 89-格雷编码.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81E60E8923A088D500AAE3EA /* 89-格雷编码.swift */; };
 		81E9F2442560304C00E2F4D7 /* 1122. 数组的相对排序.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81E9F2432560304C00E2F4D7 /* 1122. 数组的相对排序.swift */; };
+		81E9F2482560345300E2F4D7 /* 515. 在每个树行中找最大值.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81E9F2472560345300E2F4D7 /* 515. 在每个树行中找最大值.swift */; };
+		81E9F24B25603A7100E2F4D7 /* 516. 最长回文子序列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81E9F24A25603A7100E2F4D7 /* 516. 最长回文子序列.swift */; };
 		81E9F6AE2558BEF500B1F198 /* 973. 最接近原点的 K 个点.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81E9F6AD2558BEF500B1F198 /* 973. 最接近原点的 K 个点.swift */; };
 		81FE1FAB24C13933001765E5 /* 35-搜索插入位置.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FE1FAA24C13933001765E5 /* 35-搜索插入位置.swift */; };
 		81FE1FAD24C34DC7001765E5 /* 826-安排工作以达到最大收益.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FE1FAC24C34DC7001765E5 /* 826-安排工作以达到最大收益.swift */; };
@@ -147,6 +149,8 @@
 		81E15579255222DB00FB7360 /* 57. 插入区间.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "57. 插入区间.swift"; sourceTree = "<group>"; };
 		81E60E8923A088D500AAE3EA /* 89-格雷编码.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "89-格雷编码.swift"; sourceTree = "<group>"; };
 		81E9F2432560304C00E2F4D7 /* 1122. 数组的相对排序.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1122. 数组的相对排序.swift"; sourceTree = "<group>"; };
+		81E9F2472560345300E2F4D7 /* 515. 在每个树行中找最大值.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "515. 在每个树行中找最大值.swift"; sourceTree = "<group>"; };
+		81E9F24A25603A7100E2F4D7 /* 516. 最长回文子序列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "516. 最长回文子序列.swift"; sourceTree = "<group>"; };
 		81E9F6AD2558BEF500B1F198 /* 973. 最接近原点的 K 个点.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "973. 最接近原点的 K 个点.swift"; sourceTree = "<group>"; };
 		81FE1FAA24C13933001765E5 /* 35-搜索插入位置.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "35-搜索插入位置.swift"; sourceTree = "<group>"; };
 		81FE1FAC24C34DC7001765E5 /* 826-安排工作以达到最大收益.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "826-安排工作以达到最大收益.swift"; sourceTree = "<group>"; };
@@ -276,6 +280,8 @@
 				81E9F2432560304C00E2F4D7 /* 1122. 数组的相对排序.swift */,
 				F8896D18255CEBED008E131D /* 922. 按奇偶排序数组 II.swift */,
 				F8A49033255E30DD0045DD43 /* 328. 奇偶链表.swift */,
+				81E9F2472560345300E2F4D7 /* 515. 在每个树行中找最大值.swift */,
+				81E9F24A25603A7100E2F4D7 /* 516. 最长回文子序列.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -346,6 +352,7 @@
 				818BEF4023A22B8200382977 /* 109-有序链表转换二叉搜索树.swift in Sources */,
 				81FF6F4823B8B2A700814D5B /* 5296-两棵二叉搜索树中的所有元素.swift in Sources */,
 				81E1557A255222DB00FB7360 /* 57. 插入区间.swift in Sources */,
+				81E9F24B25603A7100E2F4D7 /* 516. 最长回文子序列.swift in Sources */,
 				81A54ED123B6663200EE2CCC /* 100-相同的树.swift in Sources */,
 				81A54D9423A729F000EE2CCC /* 665-非递减数列.swift in Sources */,
 				818BEF4923A377C700382977 /* 682-棒球比赛.swift in Sources */,
@@ -409,6 +416,7 @@
 				81A54E6023ADF5BA00EE2CCC /* 213-打家劫舍 II.swift in Sources */,
 				81A54D9623A745B500EE2CCC /* 4-寻找两个有序数组的中位数.swift in Sources */,
 				81A54EBE23B3484F00EE2CCC /* 1137-第 N 个泰波那契数.swift in Sources */,
+				81E9F2482560345300E2F4D7 /* 515. 在每个树行中找最大值.swift in Sources */,
 				81FF6F8223C2CC5800814D5B /* 657-机器人能否返回原点.swift in Sources */,
 				81FF6F5D23BDCD7500814D5B /* 1093-大样本统计.swift in Sources */,
 			);
