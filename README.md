@@ -64,3 +64,7 @@
 * [1122. 数组的相对排序](https://leetcode-cn.com/problems/relative-sort-array/)
 * [922. 按奇偶排序数组 II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)
 * [515. 在每个树行中找最大值](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/)
+* [402. 移掉K位数字](https://leetcode-cn.com/problems/remove-k-digits/)
+* [405. 数字转换为十六进制数](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/)
+* [15. 三数之和](https://leetcode-cn.com/problems/3sum/submissions/)
+
