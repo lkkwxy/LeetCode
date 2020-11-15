@@ -77,6 +77,7 @@
 		F8896D19255CEBED008E131D /* 922. 按奇偶排序数组 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8896D18255CEBED008E131D /* 922. 按奇偶排序数组 II.swift */; };
 		F889CBA82560CE720049C446 /* 402. 移掉K位数字.swift in Sources */ = {isa = PBXBuildFile; fileRef = F889CBA72560CE720049C446 /* 402. 移掉K位数字.swift */; };
 		F889CC6B256108DD0049C446 /* 405. 数字转换为十六进制数 .swift in Sources */ = {isa = PBXBuildFile; fileRef = F889CC6A256108DD0049C446 /* 405. 数字转换为十六进制数 .swift */; };
+		F889CC6E25613FE00049C446 /* 15. 三数之和.swift in Sources */ = {isa = PBXBuildFile; fileRef = F889CC6D25613FE00049C446 /* 15. 三数之和.swift */; };
 		F8A49034255E30DD0045DD43 /* 328. 奇偶链表.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8A49033255E30DD0045DD43 /* 328. 奇偶链表.swift */; };
 		F8AB679B2553FAAA005D0EC4 /* 127. 单词接龙.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8AB679A2553FAAA005D0EC4 /* 127. 单词接龙.swift */; };
 		F8AB690725554A26005D0EC4 /* 1356. 根据数字二进制下 1 的数目排序.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8AB690625554A26005D0EC4 /* 1356. 根据数字二进制下 1 的数目排序.swift */; };
@@ -169,6 +170,7 @@
 		F8896D18255CEBED008E131D /* 922. 按奇偶排序数组 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "922. 按奇偶排序数组 II.swift"; sourceTree = "<group>"; };
 		F889CBA72560CE720049C446 /* 402. 移掉K位数字.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "402. 移掉K位数字.swift"; sourceTree = "<group>"; };
 		F889CC6A256108DD0049C446 /* 405. 数字转换为十六进制数 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "405. 数字转换为十六进制数 .swift"; sourceTree = "<group>"; };
+		F889CC6D25613FE00049C446 /* 15. 三数之和.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "15. 三数之和.swift"; sourceTree = "<group>"; };
 		F8A49033255E30DD0045DD43 /* 328. 奇偶链表.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "328. 奇偶链表.swift"; sourceTree = "<group>"; };
 		F8AB679A2553FAAA005D0EC4 /* 127. 单词接龙.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "127. 单词接龙.swift"; sourceTree = "<group>"; };
 		F8AB690625554A26005D0EC4 /* 1356. 根据数字二进制下 1 的数目排序.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1356. 根据数字二进制下 1 的数目排序.swift"; sourceTree = "<group>"; };
@@ -282,6 +284,7 @@
 				F8A49033255E30DD0045DD43 /* 328. 奇偶链表.swift */,
 				F889CBA72560CE720049C446 /* 402. 移掉K位数字.swift */,
 				F889CC6A256108DD0049C446 /* 405. 数字转换为十六进制数 .swift */,
+				F889CC6D25613FE00049C446 /* 15. 三数之和.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -345,6 +348,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				81FE1FAD24C34DC7001765E5 /* 826-安排工作以达到最大收益.swift in Sources */,
+				F889CC6E25613FE00049C446 /* 15. 三数之和.swift in Sources */,
 				81E9F2442560304C00E2F4D7 /* 1122. 数组的相对排序.swift in Sources */,
 				81FF6F8623C2D2A800814D5B /* 74-搜索二维矩阵.swift in Sources */,
 				F84D776A254ABDBD00CD31E0 /* 129. 求根到叶子节点数字之和.swift in Sources */,
