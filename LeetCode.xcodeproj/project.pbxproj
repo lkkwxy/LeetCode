@@ -15,6 +15,7 @@
 		817CEAEF2561E2D400105A26 /* 406. 根据身高重建队列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 817CEAEE2561E2D400105A26 /* 406. 根据身高重建队列.swift */; };
 		817CEAF22561F7DB00105A26 /* 12. 整数转罗马数字.swift in Sources */ = {isa = PBXBuildFile; fileRef = 817CEAF12561F7DB00105A26 /* 12. 整数转罗马数字.swift */; };
 		817CEAF52561FA9600105A26 /* 13. 罗马数字转整数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 817CEAF42561FA9600105A26 /* 13. 罗马数字转整数.swift */; };
+		817CEAF8256417DD00105A26 /* 1030. 距离顺序排列矩阵单元格.swift in Sources */ = {isa = PBXBuildFile; fileRef = 817CEAF7256417DD00105A26 /* 1030. 距离顺序排列矩阵单元格.swift */; };
 		818BEF3C23A1EF6E00382977 /* 1169-查询无效交易.swift in Sources */ = {isa = PBXBuildFile; fileRef = 818BEF3B23A1EF6E00382977 /* 1169-查询无效交易.swift */; };
 		818BEF3E23A22B5600382977 /* Common.swift in Sources */ = {isa = PBXBuildFile; fileRef = 818BEF3D23A22B5600382977 /* Common.swift */; };
 		818BEF4023A22B8200382977 /* 109-有序链表转换二叉搜索树.swift in Sources */ = {isa = PBXBuildFile; fileRef = 818BEF3F23A22B8200382977 /* 109-有序链表转换二叉搜索树.swift */; };
@@ -111,6 +112,7 @@
 		817CEAEE2561E2D400105A26 /* 406. 根据身高重建队列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "406. 根据身高重建队列.swift"; sourceTree = "<group>"; };
 		817CEAF12561F7DB00105A26 /* 12. 整数转罗马数字.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "12. 整数转罗马数字.swift"; sourceTree = "<group>"; };
 		817CEAF42561FA9600105A26 /* 13. 罗马数字转整数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "13. 罗马数字转整数.swift"; sourceTree = "<group>"; };
+		817CEAF7256417DD00105A26 /* 1030. 距离顺序排列矩阵单元格.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1030. 距离顺序排列矩阵单元格.swift"; sourceTree = "<group>"; };
 		818BEF3B23A1EF6E00382977 /* 1169-查询无效交易.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1169-查询无效交易.swift"; sourceTree = "<group>"; };
 		818BEF3D23A22B5600382977 /* Common.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Common.swift; sourceTree = "<group>"; };
 		818BEF3F23A22B8200382977 /* 109-有序链表转换二叉搜索树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "109-有序链表转换二叉搜索树.swift"; sourceTree = "<group>"; };
@@ -300,6 +302,7 @@
 				817CEAEE2561E2D400105A26 /* 406. 根据身高重建队列.swift */,
 				817CEAF12561F7DB00105A26 /* 12. 整数转罗马数字.swift */,
 				817CEAF42561FA9600105A26 /* 13. 罗马数字转整数.swift */,
+				817CEAF7256417DD00105A26 /* 1030. 距离顺序排列矩阵单元格.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -382,6 +385,7 @@
 				F840C529254F9BBF008DDFC4 /* 349. 两个数组的交集.swift in Sources */,
 				818BEF4723A363A500382977 /* 796-旋转字符串.swift in Sources */,
 				81A54DC623A9D53C00EE2CCC /* 309-最佳买卖股票时机含冷冻期.swift in Sources */,
+				817CEAF8256417DD00105A26 /* 1030. 距离顺序排列矩阵单元格.swift in Sources */,
 				81654A2A25351C3400848BEF /* 24. 两两交换链表中的节点.swift in Sources */,
 				F8F870FC2547BE2E0040A8B0 /* 144. 二叉树的前序遍历.swift in Sources */,
 				81A54EC323B4577500EE2CCC /* 84-柱状图中最大的矩形.swift in Sources */,
