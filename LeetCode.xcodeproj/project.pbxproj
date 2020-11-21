@@ -89,6 +89,8 @@
 		F8AB679B2553FAAA005D0EC4 /* 127. 单词接龙.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8AB679A2553FAAA005D0EC4 /* 127. 单词接龙.swift */; };
 		F8AB690725554A26005D0EC4 /* 1356. 根据数字二进制下 1 的数目排序.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8AB690625554A26005D0EC4 /* 1356. 根据数字二进制下 1 的数目排序.swift */; };
 		F8AF4734256790330027B3EA /* 147. 对链表进行插入排序.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8AF4733256790330027B3EA /* 147. 对链表进行插入排序.swift */; };
+		F8AF47602567E58B0027B3EA /* 1324. 竖直打印单词.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8AF475F2567E58B0027B3EA /* 1324. 竖直打印单词.swift */; };
+		F8AF47632568C3990027B3EA /* 148. 排序链表.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8AF47622568C3990027B3EA /* 148. 排序链表.swift */; };
 		F8F870FC2547BE2E0040A8B0 /* 144. 二叉树的前序遍历.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F870FB2547BE2E0040A8B0 /* 144. 二叉树的前序遍历.swift */; };
 		F8F872A7254908C20040A8B0 /* 1207. 独一无二的出现次数.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F872A6254908C20040A8B0 /* 1207. 独一无二的出现次数.swift */; };
 /* End PBXBuildFile section */
@@ -190,6 +192,8 @@
 		F8AB679A2553FAAA005D0EC4 /* 127. 单词接龙.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "127. 单词接龙.swift"; sourceTree = "<group>"; };
 		F8AB690625554A26005D0EC4 /* 1356. 根据数字二进制下 1 的数目排序.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1356. 根据数字二进制下 1 的数目排序.swift"; sourceTree = "<group>"; };
 		F8AF4733256790330027B3EA /* 147. 对链表进行插入排序.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "147. 对链表进行插入排序.swift"; sourceTree = "<group>"; };
+		F8AF475F2567E58B0027B3EA /* 1324. 竖直打印单词.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1324. 竖直打印单词.swift"; sourceTree = "<group>"; };
+		F8AF47622568C3990027B3EA /* 148. 排序链表.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "148. 排序链表.swift"; sourceTree = "<group>"; };
 		F8F870FB2547BE2E0040A8B0 /* 144. 二叉树的前序遍历.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "144. 二叉树的前序遍历.swift"; sourceTree = "<group>"; };
 		F8F872A6254908C20040A8B0 /* 1207. 独一无二的出现次数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1207. 独一无二的出现次数.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -309,6 +313,8 @@
 				F8AF4733256790330027B3EA /* 147. 对链表进行插入排序.swift */,
 				817CEAF7256417DD00105A26 /* 1030. 距离顺序排列矩阵单元格.swift */,
 				817CEAFA256498FC00105A26 /* 134. 加油站 .swift */,
+				F8AF475F2567E58B0027B3EA /* 1324. 竖直打印单词.swift */,
+				F8AF47622568C3990027B3EA /* 148. 排序链表.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -417,6 +423,7 @@
 				F889CBA82560CE720049C446 /* 402. 移掉K位数字.swift in Sources */,
 				81BF2CEF254B8D3A00F2E47E /* 463. 岛屿的周长.swift in Sources */,
 				81C1FC43239E1D6F00F2271B /* main.swift in Sources */,
+				F8AF47632568C3990027B3EA /* 148. 排序链表.swift in Sources */,
 				F8AB690725554A26005D0EC4 /* 1356. 根据数字二进制下 1 的数目排序.swift in Sources */,
 				81A54EC123B4490E00EE2CCC /* 1104-二叉树寻路.swift in Sources */,
 				81FE1FAB24C13933001765E5 /* 35-搜索插入位置.swift in Sources */,
@@ -449,6 +456,7 @@
 				81A54EC923B5DB1700EE2CCC /* 排序.swift in Sources */,
 				81A54EC523B5A70E00EE2CCC /* 42-接雨水.swift in Sources */,
 				81A54E3A23AB56B200EE2CCC /* 238-除自身以外数组的乘积.swift in Sources */,
+				F8AF47602567E58B0027B3EA /* 1324. 竖直打印单词.swift in Sources */,
 				81A54E6023ADF5BA00EE2CCC /* 213-打家劫舍 II.swift in Sources */,
 				81A54D9623A745B500EE2CCC /* 4-寻找两个有序数组的中位数.swift in Sources */,
 				81A54EBE23B3484F00EE2CCC /* 1137-第 N 个泰波那契数.swift in Sources */,
