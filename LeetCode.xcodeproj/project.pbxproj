@@ -91,6 +91,7 @@
 		F8AF4734256790330027B3EA /* 147. 对链表进行插入排序.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8AF4733256790330027B3EA /* 147. 对链表进行插入排序.swift */; };
 		F8AF47602567E58B0027B3EA /* 1324. 竖直打印单词.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8AF475F2567E58B0027B3EA /* 1324. 竖直打印单词.swift */; };
 		F8AF47632568C3990027B3EA /* 148. 排序链表.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8AF47622568C3990027B3EA /* 148. 排序链表.swift */; };
+		F8AF49CC256910B30027B3EA /* 22. 括号生成.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8AF49CB256910B30027B3EA /* 22. 括号生成.swift */; };
 		F8F870FC2547BE2E0040A8B0 /* 144. 二叉树的前序遍历.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F870FB2547BE2E0040A8B0 /* 144. 二叉树的前序遍历.swift */; };
 		F8F872A7254908C20040A8B0 /* 1207. 独一无二的出现次数.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F872A6254908C20040A8B0 /* 1207. 独一无二的出现次数.swift */; };
 /* End PBXBuildFile section */
@@ -194,6 +195,7 @@
 		F8AF4733256790330027B3EA /* 147. 对链表进行插入排序.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "147. 对链表进行插入排序.swift"; sourceTree = "<group>"; };
 		F8AF475F2567E58B0027B3EA /* 1324. 竖直打印单词.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1324. 竖直打印单词.swift"; sourceTree = "<group>"; };
 		F8AF47622568C3990027B3EA /* 148. 排序链表.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "148. 排序链表.swift"; sourceTree = "<group>"; };
+		F8AF49CB256910B30027B3EA /* 22. 括号生成.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "22. 括号生成.swift"; sourceTree = "<group>"; };
 		F8F870FB2547BE2E0040A8B0 /* 144. 二叉树的前序遍历.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "144. 二叉树的前序遍历.swift"; sourceTree = "<group>"; };
 		F8F872A6254908C20040A8B0 /* 1207. 独一无二的出现次数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1207. 独一无二的出现次数.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -315,6 +317,7 @@
 				817CEAFA256498FC00105A26 /* 134. 加油站 .swift */,
 				F8AF475F2567E58B0027B3EA /* 1324. 竖直打印单词.swift */,
 				F8AF47622568C3990027B3EA /* 148. 排序链表.swift */,
+				F8AF49CB256910B30027B3EA /* 22. 括号生成.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -458,6 +461,7 @@
 				81A54E3A23AB56B200EE2CCC /* 238-除自身以外数组的乘积.swift in Sources */,
 				F8AF47602567E58B0027B3EA /* 1324. 竖直打印单词.swift in Sources */,
 				81A54E6023ADF5BA00EE2CCC /* 213-打家劫舍 II.swift in Sources */,
+				F8AF49CC256910B30027B3EA /* 22. 括号生成.swift in Sources */,
 				81A54D9623A745B500EE2CCC /* 4-寻找两个有序数组的中位数.swift in Sources */,
 				81A54EBE23B3484F00EE2CCC /* 1137-第 N 个泰波那契数.swift in Sources */,
 				81E9F2482560345300E2F4D7 /* 515. 在每个树行中找最大值.swift in Sources */,
