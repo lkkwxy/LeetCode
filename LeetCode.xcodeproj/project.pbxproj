@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		811D6F6B256A62920034D56B /* 242. 有效的字母异位词.swift in Sources */ = {isa = PBXBuildFile; fileRef = 811D6F6A256A62920034D56B /* 242. 有效的字母异位词.swift */; };
 		816209402557F992000C31B0 /* 122. 买卖股票的最佳时机 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8162093F2557F992000C31B0 /* 122. 买卖股票的最佳时机 II.swift */; };
 		81650D21239F43E400580543 /* 621-任务调度器.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81650D20239F43E400580543 /* 621-任务调度器.swift */; };
 		81654A2A25351C3400848BEF /* 24. 两两交换链表中的节点.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81654A2925351C3400848BEF /* 24. 两两交换链表中的节点.swift */; };
@@ -110,6 +111,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		811D6F6A256A62920034D56B /* 242. 有效的字母异位词.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "242. 有效的字母异位词.swift"; sourceTree = "<group>"; };
 		8162093F2557F992000C31B0 /* 122. 买卖股票的最佳时机 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "122. 买卖股票的最佳时机 II.swift"; sourceTree = "<group>"; };
 		81650D20239F43E400580543 /* 621-任务调度器.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "621-任务调度器.swift"; sourceTree = "<group>"; };
 		81654A2925351C3400848BEF /* 24. 两两交换链表中的节点.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "24. 两两交换链表中的节点.swift"; sourceTree = "<group>"; };
@@ -321,6 +323,7 @@
 				F8AF475F2567E58B0027B3EA /* 1324. 竖直打印单词.swift */,
 				F8AF47622568C3990027B3EA /* 148. 排序链表.swift */,
 				F8AF49CB256910B30027B3EA /* 22. 括号生成.swift */,
+				811D6F6A256A62920034D56B /* 242. 有效的字母异位词.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -449,6 +452,7 @@
 				81BD50B823A5C490008B2278 /* 205-同构字符串.swift in Sources */,
 				81FF6F4E23BAE70100814D5B /* 967-连续差相同的数字.swift in Sources */,
 				817CEAFB256498FC00105A26 /* 134. 加油站 .swift in Sources */,
+				811D6F6B256A62920034D56B /* 242. 有效的字母异位词.swift in Sources */,
 				81A54E8B23B05E0200EE2CCC /* 5292-划分数组为连续数字的集合.swift in Sources */,
 				81A54ECD23B6626A00EE2CCC /* 167-两数之和 II - 输入有序数组.swift in Sources */,
 				81FF6F5923BD90A600814D5B /* 905-按奇偶排序数组.swift in Sources */,

@@ -72,4 +72,5 @@
 * [147. 对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/)
 * [1030. 距离顺序排列矩阵单元格](https://leetcode-cn.com/problems/matrix-cells-in-distance-order/)
 * [134. 加油站](https://leetcode-cn.com/problems/gas-station/) 
+* [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)
 
