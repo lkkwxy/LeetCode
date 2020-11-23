@@ -73,4 +73,4 @@
 * [1030. 距离顺序排列矩阵单元格](https://leetcode-cn.com/problems/matrix-cells-in-distance-order/)
 * [134. 加油站](https://leetcode-cn.com/problems/gas-station/) 
 * [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)
-
+* [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/)
