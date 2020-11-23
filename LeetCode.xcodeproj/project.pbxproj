@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		811D6F6B256A62920034D56B /* 242. 有效的字母异位词.swift in Sources */ = {isa = PBXBuildFile; fileRef = 811D6F6A256A62920034D56B /* 242. 有效的字母异位词.swift */; };
+		811D6F6E256B28CA0034D56B /* 452. 用最少数量的箭引爆气球.swift in Sources */ = {isa = PBXBuildFile; fileRef = 811D6F6D256B28CA0034D56B /* 452. 用最少数量的箭引爆气球.swift */; };
 		816209402557F992000C31B0 /* 122. 买卖股票的最佳时机 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8162093F2557F992000C31B0 /* 122. 买卖股票的最佳时机 II.swift */; };
 		81650D21239F43E400580543 /* 621-任务调度器.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81650D20239F43E400580543 /* 621-任务调度器.swift */; };
 		81654A2A25351C3400848BEF /* 24. 两两交换链表中的节点.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81654A2925351C3400848BEF /* 24. 两两交换链表中的节点.swift */; };
@@ -112,6 +113,7 @@
 
 /* Begin PBXFileReference section */
 		811D6F6A256A62920034D56B /* 242. 有效的字母异位词.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "242. 有效的字母异位词.swift"; sourceTree = "<group>"; };
+		811D6F6D256B28CA0034D56B /* 452. 用最少数量的箭引爆气球.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "452. 用最少数量的箭引爆气球.swift"; sourceTree = "<group>"; };
 		8162093F2557F992000C31B0 /* 122. 买卖股票的最佳时机 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "122. 买卖股票的最佳时机 II.swift"; sourceTree = "<group>"; };
 		81650D20239F43E400580543 /* 621-任务调度器.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "621-任务调度器.swift"; sourceTree = "<group>"; };
 		81654A2925351C3400848BEF /* 24. 两两交换链表中的节点.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "24. 两两交换链表中的节点.swift"; sourceTree = "<group>"; };
@@ -324,6 +326,7 @@
 				F8AF47622568C3990027B3EA /* 148. 排序链表.swift */,
 				F8AF49CB256910B30027B3EA /* 22. 括号生成.swift */,
 				811D6F6A256A62920034D56B /* 242. 有效的字母异位词.swift */,
+				811D6F6D256B28CA0034D56B /* 452. 用最少数量的箭引爆气球.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -389,6 +392,7 @@
 				81FE1FAD24C34DC7001765E5 /* 826-安排工作以达到最大收益.swift in Sources */,
 				F889CC6E25613FE00049C446 /* 15. 三数之和.swift in Sources */,
 				81E9F2442560304C00E2F4D7 /* 1122. 数组的相对排序.swift in Sources */,
+				811D6F6E256B28CA0034D56B /* 452. 用最少数量的箭引爆气球.swift in Sources */,
 				81FF6F8623C2D2A800814D5B /* 74-搜索二维矩阵.swift in Sources */,
 				F84D776A254ABDBD00CD31E0 /* 129. 求根到叶子节点数字之和.swift in Sources */,
 				817CEAF52561FA9600105A26 /* 13. 罗马数字转整数.swift in Sources */,
