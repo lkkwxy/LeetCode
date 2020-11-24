@@ -8,6 +8,29 @@
 
 import Foundation
 func countNodes(_ root: TreeNode?) -> Int {
+    if root == nil {
+        return 0
+    }
+    var left = root
+    var right = root
+    var leftHeight = 0
+    var rightHeight = 0
+    while left != nil {
+        left = left?.left
+        leftHeight += 1
+    }
+    
+    while right != nil {
+        right = right?.right
+        rightHeight += 1
+    }
+    
+    if leftHeight == rightHeight {
+        return 1 << leftHeight - 1
+    }
+    return 1 + countNodes(root?.left) + countNodes(root?.right)
+}
+func countNodes1(_ root: TreeNode?) -> Int {
     var cur = root
     var level = -1
     while cur != nil {
