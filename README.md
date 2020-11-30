@@ -77,3 +77,4 @@
 * [222. 完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes/)
 * [164. 最大间距](https://leetcode-cn.com/problems/maximum-gap/)
 * [454. 四数相加 II](https://leetcode-cn.com/problems/4sum-ii/)
+* [767. 重构字符串](https://leetcode-cn.com/problems/reorganize-string/)
