@@ -101,6 +101,7 @@
 		F8AF49CC256910B30027B3EA /* 22. 括号生成.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8AF49CB256910B30027B3EA /* 22. 括号生成.swift */; };
 		F8AF49D0256B46EF0027B3EA /* 34. 在排序数组中查找元素的第一个和最后一个位置.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8AF49CF256B46EF0027B3EA /* 34. 在排序数组中查找元素的第一个和最后一个位置.swift */; };
 		F8B9C906257490AD00C9696A /* 767. 重构字符串.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B9C905257490AD00C9696A /* 767. 重构字符串.swift */; };
+		F8B9C9092574997500C9696A /* 976. 三角形的最大周长.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B9C9082574997500C9696A /* 976. 三角形的最大周长.swift */; };
 		F8F870FC2547BE2E0040A8B0 /* 144. 二叉树的前序遍历.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F870FB2547BE2E0040A8B0 /* 144. 二叉树的前序遍历.swift */; };
 		F8F872A7254908C20040A8B0 /* 1207. 独一无二的出现次数.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F872A6254908C20040A8B0 /* 1207. 独一无二的出现次数.swift */; };
 /* End PBXBuildFile section */
@@ -214,6 +215,7 @@
 		F8AF49CB256910B30027B3EA /* 22. 括号生成.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "22. 括号生成.swift"; sourceTree = "<group>"; };
 		F8AF49CF256B46EF0027B3EA /* 34. 在排序数组中查找元素的第一个和最后一个位置.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "34. 在排序数组中查找元素的第一个和最后一个位置.swift"; sourceTree = "<group>"; };
 		F8B9C905257490AD00C9696A /* 767. 重构字符串.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "767. 重构字符串.swift"; sourceTree = "<group>"; };
+		F8B9C9082574997500C9696A /* 976. 三角形的最大周长.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "976. 三角形的最大周长.swift"; sourceTree = "<group>"; };
 		F8F870FB2547BE2E0040A8B0 /* 144. 二叉树的前序遍历.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "144. 二叉树的前序遍历.swift"; sourceTree = "<group>"; };
 		F8F872A6254908C20040A8B0 /* 1207. 独一无二的出现次数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1207. 独一无二的出现次数.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -345,6 +347,7 @@
 				81263364256F1E81007749B8 /* 164. 最大间距.swift */,
 				8126336725707102007749B8 /* 454. 四数相加 II.swift */,
 				F8B9C905257490AD00C9696A /* 767. 重构字符串.swift */,
+				F8B9C9082574997500C9696A /* 976. 三角形的最大周长.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -482,6 +485,7 @@
 				811D6F6B256A62920034D56B /* 242. 有效的字母异位词.swift in Sources */,
 				81A54E8B23B05E0200EE2CCC /* 5292-划分数组为连续数字的集合.swift in Sources */,
 				81A54ECD23B6626A00EE2CCC /* 167-两数之和 II - 输入有序数组.swift in Sources */,
+				F8B9C9092574997500C9696A /* 976. 三角形的最大周长.swift in Sources */,
 				81FF6F5923BD90A600814D5B /* 905-按奇偶排序数组.swift in Sources */,
 				F8A49034255E30DD0045DD43 /* 328. 奇偶链表.swift in Sources */,
 				81BF2CBE254642B500F2E47E /* 1365. 有多少小于当前数字的数字.swift in Sources */,

@@ -42,3 +42,4 @@ func squareNumberCount(_ nums:[Int]) -> Int {
     }
     return count
 }
+largestPerimeter([2,1,2])
