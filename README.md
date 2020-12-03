@@ -80,3 +80,4 @@
 * [767. 重构字符串](https://leetcode-cn.com/problems/reorganize-string/)
 * [976. 三角形的最大周长](https://leetcode-cn.com/problems/largest-perimeter-triangle/)
 * [321. 拼接最大数](https://leetcode-cn.com/problems/create-maximum-number/)
+* [204. 计数质数](https://leetcode-cn.com/problems/count-primes/)

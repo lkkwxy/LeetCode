@@ -103,6 +103,7 @@
 		F8B9C906257490AD00C9696A /* 767. 重构字符串.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B9C905257490AD00C9696A /* 767. 重构字符串.swift */; };
 		F8B9C9092574997500C9696A /* 976. 三角形的最大周长.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B9C9082574997500C9696A /* 976. 三角形的最大周长.swift */; };
 		F8B9CC3D25772B9400C9696A /* 321. 拼接最大数.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B9CC3C25772B9400C9696A /* 321. 拼接最大数.swift */; };
+		F8B9CC4825787C4A00C9696A /* 204. 计数质数 .swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B9CC4725787C4A00C9696A /* 204. 计数质数 .swift */; };
 		F8F870FC2547BE2E0040A8B0 /* 144. 二叉树的前序遍历.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F870FB2547BE2E0040A8B0 /* 144. 二叉树的前序遍历.swift */; };
 		F8F872A7254908C20040A8B0 /* 1207. 独一无二的出现次数.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F872A6254908C20040A8B0 /* 1207. 独一无二的出现次数.swift */; };
 /* End PBXBuildFile section */
@@ -218,6 +219,7 @@
 		F8B9C905257490AD00C9696A /* 767. 重构字符串.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "767. 重构字符串.swift"; sourceTree = "<group>"; };
 		F8B9C9082574997500C9696A /* 976. 三角形的最大周长.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "976. 三角形的最大周长.swift"; sourceTree = "<group>"; };
 		F8B9CC3C25772B9400C9696A /* 321. 拼接最大数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "321. 拼接最大数.swift"; sourceTree = "<group>"; };
+		F8B9CC4725787C4A00C9696A /* 204. 计数质数 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "204. 计数质数 .swift"; sourceTree = "<group>"; };
 		F8F870FB2547BE2E0040A8B0 /* 144. 二叉树的前序遍历.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "144. 二叉树的前序遍历.swift"; sourceTree = "<group>"; };
 		F8F872A6254908C20040A8B0 /* 1207. 独一无二的出现次数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1207. 独一无二的出现次数.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -351,6 +353,7 @@
 				F8B9C905257490AD00C9696A /* 767. 重构字符串.swift */,
 				F8B9C9082574997500C9696A /* 976. 三角形的最大周长.swift */,
 				F8B9CC3C25772B9400C9696A /* 321. 拼接最大数.swift */,
+				F8B9CC4725787C4A00C9696A /* 204. 计数质数 .swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -416,6 +419,7 @@
 				81FE1FAD24C34DC7001765E5 /* 826-安排工作以达到最大收益.swift in Sources */,
 				F889CC6E25613FE00049C446 /* 15. 三数之和.swift in Sources */,
 				81E9F2442560304C00E2F4D7 /* 1122. 数组的相对排序.swift in Sources */,
+				F8B9CC4825787C4A00C9696A /* 204. 计数质数 .swift in Sources */,
 				811D6F6E256B28CA0034D56B /* 452. 用最少数量的箭引爆气球.swift in Sources */,
 				8126336825707102007749B8 /* 454. 四数相加 II.swift in Sources */,
 				81FF6F8623C2D2A800814D5B /* 74-搜索二维矩阵.swift in Sources */,
