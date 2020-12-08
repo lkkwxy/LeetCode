@@ -43,12 +43,4 @@ func squareNumberCount(_ nums:[Int]) -> Int {
     return count
 }
 
-
-print(maxNumber([2,5,6,4,4,0], [7,3,8,0,6,5,7,6,2], 15))
-
-//print(maxNumber([3,4,6,5], [9,1,2,5,8,3], 5))
-
-//[3,4,6,5]
-//[9,1,2,5,8,3]
-//5
-
+print(largestSumOfAverages([3748,521,7935,3665,5337], 3))
