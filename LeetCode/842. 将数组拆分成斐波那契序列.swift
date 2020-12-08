@@ -62,6 +62,8 @@ func backtrack(nums: [Int], res: inout [Int], index: Int) -> Bool {
 }
 
 func splitIntoFibonacci(_ S: String) -> [Int] {
-    
-    return []
+    let nums = S.map { Int(String($0))!}
+    var res = [Int]()
+    let _ = backtrack(nums: nums, res: &res, index: 0)
+    return res
 }
