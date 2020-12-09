@@ -40,7 +40,7 @@ func backtrack(nums: [Int], res: inout [Int], index: Int) -> Bool {
         return true
     }
     for i in index..<nums.count {
-        if nums[i] == 0 && i > index {
+        if nums[index] == 0 && i > index {
             break
         }
         let num = subDigit(nums: nums, start: index, end: i + 1)

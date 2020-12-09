@@ -43,5 +43,5 @@ func squareNumberCount(_ nums:[Int]) -> Int {
     return count
 }
 
-print(largestSumOfAverages([3748,521,7935,3665,5337], 3))
-splitIntoFibonacci("0123")
+
+print(uniquePaths(3, 3))
