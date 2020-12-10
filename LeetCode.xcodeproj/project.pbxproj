@@ -104,6 +104,8 @@
 		F8B0724A257DC6B5009B33C0 /* 861. 翻转矩阵后的得分.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B07249257DC6B5009B33C0 /* 861. 翻转矩阵后的得分.swift */; };
 		F8B072DB257F1893009B33C0 /* 842. 将数组拆分成斐波那契序列.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B072DA257F1893009B33C0 /* 842. 将数组拆分成斐波那契序列.swift */; };
 		F8B072E4258067E9009B33C0 /* 62. 不同路径.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B072E3258067E9009B33C0 /* 62. 不同路径.swift */; };
+		F8B0756725811494009B33C0 /* 63. 不同路径 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B0756625811494009B33C0 /* 63. 不同路径 II.swift */; };
+		F8B0756A2581BBBF009B33C0 /* 860. 柠檬水找零.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B075692581BBBF009B33C0 /* 860. 柠檬水找零.swift */; };
 		F8B9C906257490AD00C9696A /* 767. 重构字符串.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B9C905257490AD00C9696A /* 767. 重构字符串.swift */; };
 		F8B9C9092574997500C9696A /* 976. 三角形的最大周长.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B9C9082574997500C9696A /* 976. 三角形的最大周长.swift */; };
 		F8B9CC3D25772B9400C9696A /* 321. 拼接最大数.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B9CC3C25772B9400C9696A /* 321. 拼接最大数.swift */; };
@@ -225,6 +227,8 @@
 		F8B07249257DC6B5009B33C0 /* 861. 翻转矩阵后的得分.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "861. 翻转矩阵后的得分.swift"; sourceTree = "<group>"; };
 		F8B072DA257F1893009B33C0 /* 842. 将数组拆分成斐波那契序列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "842. 将数组拆分成斐波那契序列.swift"; sourceTree = "<group>"; };
 		F8B072E3258067E9009B33C0 /* 62. 不同路径.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "62. 不同路径.swift"; sourceTree = "<group>"; };
+		F8B0756625811494009B33C0 /* 63. 不同路径 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "63. 不同路径 II.swift"; sourceTree = "<group>"; };
+		F8B075692581BBBF009B33C0 /* 860. 柠檬水找零.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "860. 柠檬水找零.swift"; sourceTree = "<group>"; };
 		F8B9C905257490AD00C9696A /* 767. 重构字符串.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "767. 重构字符串.swift"; sourceTree = "<group>"; };
 		F8B9C9082574997500C9696A /* 976. 三角形的最大周长.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "976. 三角形的最大周长.swift"; sourceTree = "<group>"; };
 		F8B9CC3C25772B9400C9696A /* 321. 拼接最大数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "321. 拼接最大数.swift"; sourceTree = "<group>"; };
@@ -369,6 +373,8 @@
 				F8B07249257DC6B5009B33C0 /* 861. 翻转矩阵后的得分.swift */,
 				F8B072DA257F1893009B33C0 /* 842. 将数组拆分成斐波那契序列.swift */,
 				F8B072E3258067E9009B33C0 /* 62. 不同路径.swift */,
+				F8B0756625811494009B33C0 /* 63. 不同路径 II.swift */,
+				F8B075692581BBBF009B33C0 /* 860. 柠檬水找零.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -466,6 +472,7 @@
 				811D6F72256C78A00034D56B /* 222. 完全二叉树的节点个数.swift in Sources */,
 				817CEAF22561F7DB00105A26 /* 12. 整数转罗马数字.swift in Sources */,
 				F8896D19255CEBED008E131D /* 922. 按奇偶排序数组 II.swift in Sources */,
+				F8B0756A2581BBBF009B33C0 /* 860. 柠檬水找零.swift in Sources */,
 				F8AF49D0256B46EF0027B3EA /* 34. 在排序数组中查找元素的第一个和最后一个位置.swift in Sources */,
 				81C9AAB12533D33A0007C839 /* 530. 二叉搜索树的最小绝对差.swift in Sources */,
 				81949E0D24D7B7AB00823823 /* 1041-困于环中的机器人.swift in Sources */,
@@ -478,6 +485,7 @@
 				81A54EB823B1DD6A00EE2CCC /* 494-目标和.swift in Sources */,
 				F8AB679B2553FAAA005D0EC4 /* 127. 单词接龙.swift in Sources */,
 				817CEAEF2561E2D400105A26 /* 406. 根据身高重建队列.swift in Sources */,
+				F8B0756725811494009B33C0 /* 63. 不同路径 II.swift in Sources */,
 				818BEF4523A33E2200382977 /* 889-根据前序和后序遍历构造二叉树.swift in Sources */,
 				81A54E3823AB508000EE2CCC /* 977-有序数组的平方.swift in Sources */,
 				81E9F6AE2558BEF500B1F198 /* 973. 最接近原点的 K 个点.swift in Sources */,

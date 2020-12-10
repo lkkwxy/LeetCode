@@ -44,4 +44,6 @@ func squareNumberCount(_ nums:[Int]) -> Int {
 }
 
 
-print(uniquePaths(3, 3))
+print(uniquePathsWithObstacles([[0,0,0],[0,1,0],[0,0,0]]))
+
+
