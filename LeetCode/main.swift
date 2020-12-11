@@ -42,21 +42,3 @@ func squareNumberCount(_ nums:[Int]) -> Int {
     }
     return count
 }
-
-func fourSum(_ nums: [Int], _ target: Int) -> [[Int]] {
-    var map = [Int: Int]()
-    nums.forEach { (num) in
-        map[num, default: 0] += 1
-    }
-    var res = [[Int]]()
-    while !map.isEmpty {
-        if let ele = map.randomElement() {
-            
-            map.removeValue(forKey: ele.key)
-        } else {
-            break
-        }
-    }
-    
-    return []
-}
