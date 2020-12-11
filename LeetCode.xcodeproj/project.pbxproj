@@ -24,6 +24,7 @@
 		817CEAF8256417DD00105A26 /* 1030. 距离顺序排列矩阵单元格.swift in Sources */ = {isa = PBXBuildFile; fileRef = 817CEAF7256417DD00105A26 /* 1030. 距离顺序排列矩阵单元格.swift */; };
 		817CEAFB256498FC00105A26 /* 134. 加油站 .swift in Sources */ = {isa = PBXBuildFile; fileRef = 817CEAFA256498FC00105A26 /* 134. 加油站 .swift */; };
 		817CEAFE2565DC4500105A26 /* 283. 移动零.swift in Sources */ = {isa = PBXBuildFile; fileRef = 817CEAFD2565DC4500105A26 /* 283. 移动零.swift */; };
+		818A1C052583C9E300692E2A /* 649. Dota2 参议院.swift in Sources */ = {isa = PBXBuildFile; fileRef = 818A1C042583C9E300692E2A /* 649. Dota2 参议院.swift */; };
 		818BEF3C23A1EF6E00382977 /* 1169-查询无效交易.swift in Sources */ = {isa = PBXBuildFile; fileRef = 818BEF3B23A1EF6E00382977 /* 1169-查询无效交易.swift */; };
 		818BEF3E23A22B5600382977 /* Common.swift in Sources */ = {isa = PBXBuildFile; fileRef = 818BEF3D23A22B5600382977 /* Common.swift */; };
 		818BEF4023A22B8200382977 /* 109-有序链表转换二叉搜索树.swift in Sources */ = {isa = PBXBuildFile; fileRef = 818BEF3F23A22B8200382977 /* 109-有序链表转换二叉搜索树.swift */; };
@@ -145,6 +146,7 @@
 		817CEAF7256417DD00105A26 /* 1030. 距离顺序排列矩阵单元格.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1030. 距离顺序排列矩阵单元格.swift"; sourceTree = "<group>"; };
 		817CEAFA256498FC00105A26 /* 134. 加油站 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "134. 加油站 .swift"; sourceTree = "<group>"; };
 		817CEAFD2565DC4500105A26 /* 283. 移动零.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "283. 移动零.swift"; sourceTree = "<group>"; };
+		818A1C042583C9E300692E2A /* 649. Dota2 参议院.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "649. Dota2 参议院.swift"; sourceTree = "<group>"; };
 		818BEF3B23A1EF6E00382977 /* 1169-查询无效交易.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1169-查询无效交易.swift"; sourceTree = "<group>"; };
 		818BEF3D23A22B5600382977 /* Common.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Common.swift; sourceTree = "<group>"; };
 		818BEF3F23A22B8200382977 /* 109-有序链表转换二叉搜索树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "109-有序链表转换二叉搜索树.swift"; sourceTree = "<group>"; };
@@ -375,6 +377,7 @@
 				F8B072E3258067E9009B33C0 /* 62. 不同路径.swift */,
 				F8B0756625811494009B33C0 /* 63. 不同路径 II.swift */,
 				F8B075692581BBBF009B33C0 /* 860. 柠檬水找零.swift */,
+				818A1C042583C9E300692E2A /* 649. Dota2 参议院.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -532,6 +535,7 @@
 				81A54E3623AB502C00EE2CCC /* 876-链表的中间结点.swift in Sources */,
 				81FF6F8423C2D0DF00814D5B /* 504-七进制数.swift in Sources */,
 				81A54EC923B5DB1700EE2CCC /* 排序.swift in Sources */,
+				818A1C052583C9E300692E2A /* 649. Dota2 参议院.swift in Sources */,
 				81A54EC523B5A70E00EE2CCC /* 42-接雨水.swift in Sources */,
 				81A54E3A23AB56B200EE2CCC /* 238-除自身以外数组的乘积.swift in Sources */,
 				F8AF47602567E58B0027B3EA /* 1324. 竖直打印单词.swift in Sources */,
