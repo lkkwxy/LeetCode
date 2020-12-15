@@ -13,6 +13,7 @@
 		81263362256DCBF5007749B8 /* 1370. 上升下降字符串.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81263361256DCBF5007749B8 /* 1370. 上升下降字符串.swift */; };
 		81263365256F1E81007749B8 /* 164. 最大间距.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81263364256F1E81007749B8 /* 164. 最大间距.swift */; };
 		8126336825707102007749B8 /* 454. 四数相加 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8126336725707102007749B8 /* 454. 四数相加 II.swift */; };
+		813FAF7E25890E7D00892072 /* 738. 单调递增的数字.swift in Sources */ = {isa = PBXBuildFile; fileRef = 813FAF7D25890E7D00892072 /* 738. 单调递增的数字.swift */; };
 		816209402557F992000C31B0 /* 122. 买卖股票的最佳时机 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8162093F2557F992000C31B0 /* 122. 买卖股票的最佳时机 II.swift */; };
 		81650D21239F43E400580543 /* 621-任务调度器.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81650D20239F43E400580543 /* 621-任务调度器.swift */; };
 		81654A2A25351C3400848BEF /* 24. 两两交换链表中的节点.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81654A2925351C3400848BEF /* 24. 两两交换链表中的节点.swift */; };
@@ -135,6 +136,7 @@
 		81263361256DCBF5007749B8 /* 1370. 上升下降字符串.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1370. 上升下降字符串.swift"; sourceTree = "<group>"; };
 		81263364256F1E81007749B8 /* 164. 最大间距.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "164. 最大间距.swift"; sourceTree = "<group>"; };
 		8126336725707102007749B8 /* 454. 四数相加 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "454. 四数相加 II.swift"; sourceTree = "<group>"; };
+		813FAF7D25890E7D00892072 /* 738. 单调递增的数字.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "738. 单调递增的数字.swift"; sourceTree = "<group>"; };
 		8162093F2557F992000C31B0 /* 122. 买卖股票的最佳时机 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "122. 买卖股票的最佳时机 II.swift"; sourceTree = "<group>"; };
 		81650D20239F43E400580543 /* 621-任务调度器.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "621-任务调度器.swift"; sourceTree = "<group>"; };
 		81654A2925351C3400848BEF /* 24. 两两交换链表中的节点.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "24. 两两交换链表中的节点.swift"; sourceTree = "<group>"; };
@@ -378,6 +380,7 @@
 				F8B0756625811494009B33C0 /* 63. 不同路径 II.swift */,
 				F8B075692581BBBF009B33C0 /* 860. 柠檬水找零.swift */,
 				818A1C042583C9E300692E2A /* 649. Dota2 参议院.swift */,
+				813FAF7D25890E7D00892072 /* 738. 单调递增的数字.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -456,6 +459,7 @@
 				F889CC6B256108DD0049C446 /* 405. 数字转换为十六进制数 .swift in Sources */,
 				81E1557A255222DB00FB7360 /* 57. 插入区间.swift in Sources */,
 				F8AF4734256790330027B3EA /* 147. 对链表进行插入排序.swift in Sources */,
+				813FAF7E25890E7D00892072 /* 738. 单调递增的数字.swift in Sources */,
 				81E9F24B25603A7100E2F4D7 /* 516. 最长回文子序列.swift in Sources */,
 				81A54ED123B6663200EE2CCC /* 100-相同的树.swift in Sources */,
 				81A54D9423A729F000EE2CCC /* 665-非递减数列.swift in Sources */,
