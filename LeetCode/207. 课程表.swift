@@ -34,7 +34,7 @@ func isCanLearn(course: Int, depends: [Int], prerequisites: [Int: [Int]], res: i
         let isLearn = res[item]
         if isLearn == false {
             return false
-        }else  if isLearn == nil, let depend = depend, isCanLearn(course: item, depends: depend, prerequisites: prerequisites, res: &res) == false {
+        }else if isLearn == nil, let depend = depend, isCanLearn(course: item, depends: depend, prerequisites: prerequisites, res: &res) == false {
             return false
         }
     }

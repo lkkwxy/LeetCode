@@ -113,6 +113,7 @@
 		F8B9C9092574997500C9696A /* 976. 三角形的最大周长.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B9C9082574997500C9696A /* 976. 三角形的最大周长.swift */; };
 		F8B9CC3D25772B9400C9696A /* 321. 拼接最大数.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B9CC3C25772B9400C9696A /* 321. 拼接最大数.swift */; };
 		F8B9CC4825787C4A00C9696A /* 204. 计数质数 .swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B9CC4725787C4A00C9696A /* 204. 计数质数 .swift */; };
+		F8EDCF452589A0FD00913224 /* 290. 单词规律.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8EDCF442589A0FD00913224 /* 290. 单词规律.swift */; };
 		F8F11DA22579311E00ADCCD1 /* 813. 最大平均值和的分组.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F11DA12579311E00ADCCD1 /* 813. 最大平均值和的分组.swift */; };
 		F8F870FC2547BE2E0040A8B0 /* 144. 二叉树的前序遍历.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F870FB2547BE2E0040A8B0 /* 144. 二叉树的前序遍历.swift */; };
 		F8F872A7254908C20040A8B0 /* 1207. 独一无二的出现次数.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F872A6254908C20040A8B0 /* 1207. 独一无二的出现次数.swift */; };
@@ -239,6 +240,7 @@
 		F8B9C9082574997500C9696A /* 976. 三角形的最大周长.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "976. 三角形的最大周长.swift"; sourceTree = "<group>"; };
 		F8B9CC3C25772B9400C9696A /* 321. 拼接最大数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "321. 拼接最大数.swift"; sourceTree = "<group>"; };
 		F8B9CC4725787C4A00C9696A /* 204. 计数质数 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "204. 计数质数 .swift"; sourceTree = "<group>"; };
+		F8EDCF442589A0FD00913224 /* 290. 单词规律.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "290. 单词规律.swift"; sourceTree = "<group>"; };
 		F8F11DA12579311E00ADCCD1 /* 813. 最大平均值和的分组.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "813. 最大平均值和的分组.swift"; sourceTree = "<group>"; };
 		F8F870FB2547BE2E0040A8B0 /* 144. 二叉树的前序遍历.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "144. 二叉树的前序遍历.swift"; sourceTree = "<group>"; };
 		F8F872A6254908C20040A8B0 /* 1207. 独一无二的出现次数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1207. 独一无二的出现次数.swift"; sourceTree = "<group>"; };
@@ -384,6 +386,7 @@
 				F8B0793525823AC0009B33C0 /* 207. 课程表.swift */,
 				818A1C042583C9E300692E2A /* 649. Dota2 参议院.swift */,
 				813FAF7D25890E7D00892072 /* 738. 单调递增的数字.swift */,
+				F8EDCF442589A0FD00913224 /* 290. 单词规律.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -452,6 +455,7 @@
 				F8B9CC4825787C4A00C9696A /* 204. 计数质数 .swift in Sources */,
 				811D6F6E256B28CA0034D56B /* 452. 用最少数量的箭引爆气球.swift in Sources */,
 				8126336825707102007749B8 /* 454. 四数相加 II.swift in Sources */,
+				F8EDCF452589A0FD00913224 /* 290. 单词规律.swift in Sources */,
 				81FF6F8623C2D2A800814D5B /* 74-搜索二维矩阵.swift in Sources */,
 				81263365256F1E81007749B8 /* 164. 最大间距.swift in Sources */,
 				F84D776A254ABDBD00CD31E0 /* 129. 求根到叶子节点数字之和.swift in Sources */,
