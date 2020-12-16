@@ -42,8 +42,3 @@ func squareNumberCount(_ nums:[Int]) -> Int {
     }
     return count
 }
-
-
-print(canFinish(3, [[1,0],[1,2],[0,1]]))
-
-
