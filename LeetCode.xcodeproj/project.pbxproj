@@ -106,6 +106,7 @@
 		F8B072E4258067E9009B33C0 /* 62. 不同路径.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B072E3258067E9009B33C0 /* 62. 不同路径.swift */; };
 		F8B0756725811494009B33C0 /* 63. 不同路径 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B0756625811494009B33C0 /* 63. 不同路径 II.swift */; };
 		F8B0756A2581BBBF009B33C0 /* 860. 柠檬水找零.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B075692581BBBF009B33C0 /* 860. 柠檬水找零.swift */; };
+		F8B0793625823AC0009B33C0 /* 207. 课程表.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B0793525823AC0009B33C0 /* 207. 课程表.swift */; };
 		F8B9C906257490AD00C9696A /* 767. 重构字符串.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B9C905257490AD00C9696A /* 767. 重构字符串.swift */; };
 		F8B9C9092574997500C9696A /* 976. 三角形的最大周长.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B9C9082574997500C9696A /* 976. 三角形的最大周长.swift */; };
 		F8B9CC3D25772B9400C9696A /* 321. 拼接最大数.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B9CC3C25772B9400C9696A /* 321. 拼接最大数.swift */; };
@@ -229,6 +230,7 @@
 		F8B072E3258067E9009B33C0 /* 62. 不同路径.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "62. 不同路径.swift"; sourceTree = "<group>"; };
 		F8B0756625811494009B33C0 /* 63. 不同路径 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "63. 不同路径 II.swift"; sourceTree = "<group>"; };
 		F8B075692581BBBF009B33C0 /* 860. 柠檬水找零.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "860. 柠檬水找零.swift"; sourceTree = "<group>"; };
+		F8B0793525823AC0009B33C0 /* 207. 课程表.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "207. 课程表.swift"; sourceTree = "<group>"; };
 		F8B9C905257490AD00C9696A /* 767. 重构字符串.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "767. 重构字符串.swift"; sourceTree = "<group>"; };
 		F8B9C9082574997500C9696A /* 976. 三角形的最大周长.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "976. 三角形的最大周长.swift"; sourceTree = "<group>"; };
 		F8B9CC3C25772B9400C9696A /* 321. 拼接最大数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "321. 拼接最大数.swift"; sourceTree = "<group>"; };
@@ -375,6 +377,7 @@
 				F8B072E3258067E9009B33C0 /* 62. 不同路径.swift */,
 				F8B0756625811494009B33C0 /* 63. 不同路径 II.swift */,
 				F8B075692581BBBF009B33C0 /* 860. 柠檬水找零.swift */,
+				F8B0793525823AC0009B33C0 /* 207. 课程表.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -450,6 +453,7 @@
 				81E60E8A23A088D500AAE3EA /* 89-格雷编码.swift in Sources */,
 				818BEF4023A22B8200382977 /* 109-有序链表转换二叉搜索树.swift in Sources */,
 				81FF6F4823B8B2A700814D5B /* 5296-两棵二叉搜索树中的所有元素.swift in Sources */,
+				F8B0793625823AC0009B33C0 /* 207. 课程表.swift in Sources */,
 				F889CC6B256108DD0049C446 /* 405. 数字转换为十六进制数 .swift in Sources */,
 				81E1557A255222DB00FB7360 /* 57. 插入区间.swift in Sources */,
 				F8AF4734256790330027B3EA /* 147. 对链表进行插入排序.swift in Sources */,
