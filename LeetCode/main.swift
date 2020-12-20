@@ -42,4 +42,5 @@ func squareNumberCount(_ nums:[Int]) -> Int {
     }
     return count
 }
-predictPartyVictory("DRRDRDRDRDDRDRDR")
+
+removeDuplicateLetters("bbcaac")
