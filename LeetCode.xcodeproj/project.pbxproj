@@ -90,6 +90,7 @@
 		81FF6F8623C2D2A800814D5B /* 74-搜索二维矩阵.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FF6F8523C2D2A800814D5B /* 74-搜索二维矩阵.swift */; };
 		F8209DB1258CDFE100BB4A3B /* 389. 找不同.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8209DB0258CDFE100BB4A3B /* 389. 找不同.swift */; };
 		F8209DBA258DD08000BB4A3B /* 48. 旋转图像.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8209DB9258DD08000BB4A3B /* 48. 旋转图像.swift */; };
+		F8209E202590C68600BB4A3B /* 746. 使用最小花费爬楼梯.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8209E1F2590C68600BB4A3B /* 746. 使用最小花费爬楼梯.swift */; };
 		F840C529254F9BBF008DDFC4 /* 349. 两个数组的交集.swift in Sources */ = {isa = PBXBuildFile; fileRef = F840C528254F9BBF008DDFC4 /* 349. 两个数组的交集.swift */; };
 		F84D776A254ABDBD00CD31E0 /* 129. 求根到叶子节点数字之和.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84D7769254ABDBD00CD31E0 /* 129. 求根到叶子节点数字之和.swift */; };
 		F8896D19255CEBED008E131D /* 922. 按奇偶排序数组 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8896D18255CEBED008E131D /* 922. 按奇偶排序数组 II.swift */; };
@@ -219,6 +220,7 @@
 		81FF6F8523C2D2A800814D5B /* 74-搜索二维矩阵.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "74-搜索二维矩阵.swift"; sourceTree = "<group>"; };
 		F8209DB0258CDFE100BB4A3B /* 389. 找不同.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "389. 找不同.swift"; sourceTree = "<group>"; };
 		F8209DB9258DD08000BB4A3B /* 48. 旋转图像.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "48. 旋转图像.swift"; sourceTree = "<group>"; };
+		F8209E1F2590C68600BB4A3B /* 746. 使用最小花费爬楼梯.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "746. 使用最小花费爬楼梯.swift"; sourceTree = "<group>"; };
 		F840C528254F9BBF008DDFC4 /* 349. 两个数组的交集.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "349. 两个数组的交集.swift"; sourceTree = "<group>"; };
 		F84D7769254ABDBD00CD31E0 /* 129. 求根到叶子节点数字之和.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "129. 求根到叶子节点数字之和.swift"; sourceTree = "<group>"; };
 		F8896D18255CEBED008E131D /* 922. 按奇偶排序数组 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "922. 按奇偶排序数组 II.swift"; sourceTree = "<group>"; };
@@ -393,6 +395,7 @@
 				F8EDCF442589A0FD00913224 /* 290. 单词规律.swift */,
 				F8209DB0258CDFE100BB4A3B /* 389. 找不同.swift */,
 				F8209DB9258DD08000BB4A3B /* 48. 旋转图像.swift */,
+				F8209E1F2590C68600BB4A3B /* 746. 使用最小花费爬楼梯.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -523,6 +526,7 @@
 				81FF6F4A23B8BEC000814D5B /* 5297-跳跃游戏 III.swift in Sources */,
 				81263362256DCBF5007749B8 /* 1370. 上升下降字符串.swift in Sources */,
 				817CEAFE2565DC4500105A26 /* 283. 移动零.swift in Sources */,
+				F8209E202590C68600BB4A3B /* 746. 使用最小花费爬楼梯.swift in Sources */,
 				81A54E3C23AC5F4E00EE2CCC /* 322-零钱兑换.swift in Sources */,
 				81FF6F4C23B9938500814D5B /* 673-最长递增子序列的个数.swift in Sources */,
 				81A54E3423AB154F00EE2CCC /* 303-区域和检索 - 数组不可变.swift in Sources */,
