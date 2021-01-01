@@ -14,6 +14,7 @@
 		81263365256F1E81007749B8 /* 164. 最大间距.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81263364256F1E81007749B8 /* 164. 最大间距.swift */; };
 		8126336825707102007749B8 /* 454. 四数相加 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8126336725707102007749B8 /* 454. 四数相加 II.swift */; };
 		8130A464259F79970076BC82 /* 605. 种花问题.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8130A463259F79970076BC82 /* 605. 种花问题.swift */; };
+		8130A467259F8C7D0076BC82 /* 239. 滑动窗口最大值.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8130A466259F8C7D0076BC82 /* 239. 滑动窗口最大值.swift */; };
 		813FAF7E25890E7D00892072 /* 738. 单调递增的数字.swift in Sources */ = {isa = PBXBuildFile; fileRef = 813FAF7D25890E7D00892072 /* 738. 单调递增的数字.swift */; };
 		8151A933258F9F7D004AF4DF /* 316. 去除重复字母.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8151A932258F9F7D004AF4DF /* 316. 去除重复字母.swift */; };
 		8151A93B2594E17D004AF4DF /* 135. 分发糖果.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8151A93A2594E17D004AF4DF /* 135. 分发糖果.swift */; };
@@ -150,6 +151,7 @@
 		81263364256F1E81007749B8 /* 164. 最大间距.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "164. 最大间距.swift"; sourceTree = "<group>"; };
 		8126336725707102007749B8 /* 454. 四数相加 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "454. 四数相加 II.swift"; sourceTree = "<group>"; };
 		8130A463259F79970076BC82 /* 605. 种花问题.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "605. 种花问题.swift"; sourceTree = "<group>"; };
+		8130A466259F8C7D0076BC82 /* 239. 滑动窗口最大值.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "239. 滑动窗口最大值.swift"; sourceTree = "<group>"; };
 		813FAF7D25890E7D00892072 /* 738. 单调递增的数字.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "738. 单调递增的数字.swift"; sourceTree = "<group>"; };
 		8151A932258F9F7D004AF4DF /* 316. 去除重复字母.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "316. 去除重复字母.swift"; sourceTree = "<group>"; };
 		8151A93A2594E17D004AF4DF /* 135. 分发糖果.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "135. 分发糖果.swift"; sourceTree = "<group>"; };
@@ -420,6 +422,7 @@
 				81EBE6062598DCFD00F8AAC0 /* 103. 二叉树的锯齿形层序遍历.swift */,
 				81EBE609259DE02E00F8AAC0 /* 435. 无重叠区间.swift */,
 				8130A463259F79970076BC82 /* 605. 种花问题.swift */,
+				8130A466259F8C7D0076BC82 /* 239. 滑动窗口最大值.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -547,6 +550,7 @@
 				F889CBA82560CE720049C446 /* 402. 移掉K位数字.swift in Sources */,
 				81BF2CEF254B8D3A00F2E47E /* 463. 岛屿的周长.swift in Sources */,
 				F8B071E3257CCC2A009B33C0 /* 118. 杨辉三角.swift in Sources */,
+				8130A467259F8C7D0076BC82 /* 239. 滑动窗口最大值.swift in Sources */,
 				81C1FC43239E1D6F00F2271B /* main.swift in Sources */,
 				F8AF47632568C3990027B3EA /* 148. 排序链表.swift in Sources */,
 				F8AB690725554A26005D0EC4 /* 1356. 根据数字二进制下 1 的数目排序.swift in Sources */,
