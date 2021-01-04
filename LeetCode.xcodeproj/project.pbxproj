@@ -109,6 +109,8 @@
 		F8A49034255E30DD0045DD43 /* 328. 奇偶链表.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8A49033255E30DD0045DD43 /* 328. 奇偶链表.swift */; };
 		F8A5920B25A2E84B00F57560 /* 641. 设计循环双端队列.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8A5920A25A2E84B00F57560 /* 641. 设计循环双端队列.swift */; };
 		F8A5921825A2FD0E00F57560 /* 646. 最长数对链.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8A5921725A2FD0E00F57560 /* 646. 最长数对链.swift */; };
+		F8A5923C25A31FB600F57560 /* 1614. 括号的最大嵌套深度.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8A5923B25A31FB600F57560 /* 1614. 括号的最大嵌套深度.swift */; };
+		F8A5923F25A3342600F57560 /* 面试题 16.26. 计算器.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8A5923E25A3342600F57560 /* 面试题 16.26. 计算器.swift */; };
 		F8AB679B2553FAAA005D0EC4 /* 127. 单词接龙.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8AB679A2553FAAA005D0EC4 /* 127. 单词接龙.swift */; };
 		F8AB690725554A26005D0EC4 /* 1356. 根据数字二进制下 1 的数目排序.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8AB690625554A26005D0EC4 /* 1356. 根据数字二进制下 1 的数目排序.swift */; };
 		F8AF4734256790330027B3EA /* 147. 对链表进行插入排序.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8AF4733256790330027B3EA /* 147. 对链表进行插入排序.swift */; };
@@ -250,6 +252,8 @@
 		F8A49033255E30DD0045DD43 /* 328. 奇偶链表.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "328. 奇偶链表.swift"; sourceTree = "<group>"; };
 		F8A5920A25A2E84B00F57560 /* 641. 设计循环双端队列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "641. 设计循环双端队列.swift"; sourceTree = "<group>"; };
 		F8A5921725A2FD0E00F57560 /* 646. 最长数对链.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "646. 最长数对链.swift"; sourceTree = "<group>"; };
+		F8A5923B25A31FB600F57560 /* 1614. 括号的最大嵌套深度.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1614. 括号的最大嵌套深度.swift"; sourceTree = "<group>"; };
+		F8A5923E25A3342600F57560 /* 面试题 16.26. 计算器.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "面试题 16.26. 计算器.swift"; sourceTree = "<group>"; };
 		F8AB679A2553FAAA005D0EC4 /* 127. 单词接龙.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "127. 单词接龙.swift"; sourceTree = "<group>"; };
 		F8AB690625554A26005D0EC4 /* 1356. 根据数字二进制下 1 的数目排序.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1356. 根据数字二进制下 1 的数目排序.swift"; sourceTree = "<group>"; };
 		F8AF4733256790330027B3EA /* 147. 对链表进行插入排序.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "147. 对链表进行插入排序.swift"; sourceTree = "<group>"; };
@@ -429,6 +433,8 @@
 				8130A463259F79970076BC82 /* 605. 种花问题.swift */,
 				8130A466259F8C7D0076BC82 /* 239. 滑动窗口最大值.swift */,
 				F8A5921725A2FD0E00F57560 /* 646. 最长数对链.swift */,
+				F8A5923B25A31FB600F57560 /* 1614. 括号的最大嵌套深度.swift */,
+				F8A5923E25A3342600F57560 /* 面试题 16.26. 计算器.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -610,9 +616,11 @@
 				F8AF49CC256910B30027B3EA /* 22. 括号生成.swift in Sources */,
 				81A54D9623A745B500EE2CCC /* 4-寻找两个有序数组的中位数.swift in Sources */,
 				81A54EBE23B3484F00EE2CCC /* 1137-第 N 个泰波那契数.swift in Sources */,
+				F8A5923F25A3342600F57560 /* 面试题 16.26. 计算器.swift in Sources */,
 				81E9F2482560345300E2F4D7 /* 515. 在每个树行中找最大值.swift in Sources */,
 				F8B9C906257490AD00C9696A /* 767. 重构字符串.swift in Sources */,
 				81FF6F8223C2CC5800814D5B /* 657-机器人能否返回原点.swift in Sources */,
+				F8A5923C25A31FB600F57560 /* 1614. 括号的最大嵌套深度.swift in Sources */,
 				81FF6F5D23BDCD7500814D5B /* 1093-大样本统计.swift in Sources */,
 				81EBE6042598DA8E00F8AAC0 /* 659. 分割数组为连续子序列.swift in Sources */,
 			);
