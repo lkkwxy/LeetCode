@@ -100,6 +100,7 @@
 		F889CC6B256108DD0049C446 /* 405. 数字转换为十六进制数 .swift in Sources */ = {isa = PBXBuildFile; fileRef = F889CC6A256108DD0049C446 /* 405. 数字转换为十六进制数 .swift */; };
 		F889CC6E25613FE00049C446 /* 15. 三数之和.swift in Sources */ = {isa = PBXBuildFile; fileRef = F889CC6D25613FE00049C446 /* 15. 三数之和.swift */; };
 		F8A49034255E30DD0045DD43 /* 328. 奇偶链表.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8A49033255E30DD0045DD43 /* 328. 奇偶链表.swift */; };
+		F8A5920B25A2E84B00F57560 /* 641. 设计循环双端队列.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8A5920A25A2E84B00F57560 /* 641. 设计循环双端队列.swift */; };
 		F8AB679B2553FAAA005D0EC4 /* 127. 单词接龙.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8AB679A2553FAAA005D0EC4 /* 127. 单词接龙.swift */; };
 		F8AB690725554A26005D0EC4 /* 1356. 根据数字二进制下 1 的数目排序.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8AB690625554A26005D0EC4 /* 1356. 根据数字二进制下 1 的数目排序.swift */; };
 		F8AF4734256790330027B3EA /* 147. 对链表进行插入排序.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8AF4733256790330027B3EA /* 147. 对链表进行插入排序.swift */; };
@@ -232,6 +233,7 @@
 		F889CC6A256108DD0049C446 /* 405. 数字转换为十六进制数 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "405. 数字转换为十六进制数 .swift"; sourceTree = "<group>"; };
 		F889CC6D25613FE00049C446 /* 15. 三数之和.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "15. 三数之和.swift"; sourceTree = "<group>"; };
 		F8A49033255E30DD0045DD43 /* 328. 奇偶链表.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "328. 奇偶链表.swift"; sourceTree = "<group>"; };
+		F8A5920A25A2E84B00F57560 /* 641. 设计循环双端队列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "641. 设计循环双端队列.swift"; sourceTree = "<group>"; };
 		F8AB679A2553FAAA005D0EC4 /* 127. 单词接龙.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "127. 单词接龙.swift"; sourceTree = "<group>"; };
 		F8AB690625554A26005D0EC4 /* 1356. 根据数字二进制下 1 的数目排序.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1356. 根据数字二进制下 1 的数目排序.swift"; sourceTree = "<group>"; };
 		F8AF4733256790330027B3EA /* 147. 对链表进行插入排序.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "147. 对链表进行插入排序.swift"; sourceTree = "<group>"; };
@@ -402,6 +404,7 @@
 				F8209DB0258CDFE100BB4A3B /* 389. 找不同.swift */,
 				F8209DB9258DD08000BB4A3B /* 48. 旋转图像.swift */,
 				F8209E1F2590C68600BB4A3B /* 746. 使用最小花费爬楼梯.swift */,
+				F8A5920A25A2E84B00F57560 /* 641. 设计循环双端队列.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -564,6 +567,7 @@
 				816F1B9E254D797700D0EE5D /* 381. O(1) 时间插入、删除和获取随机元素 - 允许重复.swift in Sources */,
 				F8F11DA22579311E00ADCCD1 /* 813. 最大平均值和的分组.swift in Sources */,
 				81A54E5E23ADC6FF00EE2CCC /* 304-二维区域和检索 - 矩阵不可变.swift in Sources */,
+				F8A5920B25A2E84B00F57560 /* 641. 设计循环双端队列.swift in Sources */,
 				81A54E3623AB502C00EE2CCC /* 876-链表的中间结点.swift in Sources */,
 				81FF6F8423C2D0DF00814D5B /* 504-七进制数.swift in Sources */,
 				81A54EC923B5DB1700EE2CCC /* 排序.swift in Sources */,
