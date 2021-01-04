@@ -42,3 +42,4 @@ func squareNumberCount(_ nums:[Int]) -> Int {
     }
     return count
 }
+findLongestChain([[-6,9],[1,6],[8,10],[-1,4],[-6,-2],[-9,8],[-5,3],[0,3]])
