@@ -42,4 +42,3 @@ func squareNumberCount(_ nums:[Int]) -> Int {
     }
     return count
 }
-
