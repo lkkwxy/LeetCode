@@ -42,11 +42,7 @@ func squareNumberCount(_ nums:[Int]) -> Int {
     }
     return count
 }
-let a = [["a","b"],["c","d"],["e","f"],["a","c"],["c","f"]]
-let b = [2.0,3.0,4.0,5.0,6.0]
-let c = [["c","e"]]
-calcEquation(a,b,c
-)
+findCircleNum([[1,0,0,1],[0,1,1,0],[0,1,1,1],[1,0,1,1]])
 
 
 
