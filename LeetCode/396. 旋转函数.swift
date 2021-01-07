@@ -44,7 +44,7 @@ func maxRotateFunction(_ A: [Int]) -> Int {
     var res = curr
     var i = 1
     while i < count {
-        curr = curr + A[i - 1] * count - sum 
+        curr = curr + A[i - 1] * count - sum
         res = max(res, curr)
         i += 1
     }
