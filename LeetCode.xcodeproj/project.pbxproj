@@ -134,6 +134,7 @@
 		F8C8F0FE25A6EF8F00E302FB /* 547. 省份数量.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8C8F0FD25A6EF8F00E302FB /* 547. 省份数量.swift */; };
 		F8C8F10125A727BE00E302FB /* 396. 旋转函数.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8C8F10025A727BE00E302FB /* 396. 旋转函数.swift */; };
 		F8C8F10425A7306D00E302FB /* 477. 汉明距离总和.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8C8F10325A7306D00E302FB /* 477. 汉明距离总和.swift */; };
+		F8C8F10725A7F69000E302FB /* 29. 两数相除.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8C8F10625A7F69000E302FB /* 29. 两数相除.swift */; };
 		F8EDCF452589A0FD00913224 /* 290. 单词规律.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8EDCF442589A0FD00913224 /* 290. 单词规律.swift */; };
 		F8F11DA22579311E00ADCCD1 /* 813. 最大平均值和的分组.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F11DA12579311E00ADCCD1 /* 813. 最大平均值和的分组.swift */; };
 		F8F870FC2547BE2E0040A8B0 /* 144. 二叉树的前序遍历.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F870FB2547BE2E0040A8B0 /* 144. 二叉树的前序遍历.swift */; };
@@ -282,6 +283,7 @@
 		F8C8F0FD25A6EF8F00E302FB /* 547. 省份数量.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "547. 省份数量.swift"; sourceTree = "<group>"; };
 		F8C8F10025A727BE00E302FB /* 396. 旋转函数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "396. 旋转函数.swift"; sourceTree = "<group>"; };
 		F8C8F10325A7306D00E302FB /* 477. 汉明距离总和.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "477. 汉明距离总和.swift"; sourceTree = "<group>"; };
+		F8C8F10625A7F69000E302FB /* 29. 两数相除.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "29. 两数相除.swift"; sourceTree = "<group>"; };
 		F8EDCF442589A0FD00913224 /* 290. 单词规律.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "290. 单词规律.swift"; sourceTree = "<group>"; };
 		F8F11DA12579311E00ADCCD1 /* 813. 最大平均值和的分组.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "813. 最大平均值和的分组.swift"; sourceTree = "<group>"; };
 		F8F870FB2547BE2E0040A8B0 /* 144. 二叉树的前序遍历.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "144. 二叉树的前序遍历.swift"; sourceTree = "<group>"; };
@@ -450,6 +452,7 @@
 				F8C8F0FD25A6EF8F00E302FB /* 547. 省份数量.swift */,
 				F8C8F10025A727BE00E302FB /* 396. 旋转函数.swift */,
 				F8C8F10325A7306D00E302FB /* 477. 汉明距离总和.swift */,
+				F8C8F10625A7F69000E302FB /* 29. 两数相除.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -570,6 +573,7 @@
 				81FF6F4623B8B04C00814D5B /* 5295-和为零的N个唯一整数.swift in Sources */,
 				F8B0724A257DC6B5009B33C0 /* 861. 翻转矩阵后的得分.swift in Sources */,
 				81A54EB823B1DD6A00EE2CCC /* 494-目标和.swift in Sources */,
+				F8C8F10725A7F69000E302FB /* 29. 两数相除.swift in Sources */,
 				F8AB679B2553FAAA005D0EC4 /* 127. 单词接龙.swift in Sources */,
 				817CEAEF2561E2D400105A26 /* 406. 根据身高重建队列.swift in Sources */,
 				F8B0756725811494009B33C0 /* 63. 不同路径 II.swift in Sources */,

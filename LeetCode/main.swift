@@ -45,5 +45,5 @@ func squareNumberCount(_ nums:[Int]) -> Int {
 findCircleNum([[1,0,0,1],[0,1,1,0],[0,1,1,1],[1,0,1,1]])
 
 
-
+divide(-2147483648,-1)
 
