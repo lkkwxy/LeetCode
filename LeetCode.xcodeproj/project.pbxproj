@@ -109,6 +109,12 @@
 		F889CC6B256108DD0049C446 /* 405. 数字转换为十六进制数 .swift in Sources */ = {isa = PBXBuildFile; fileRef = F889CC6A256108DD0049C446 /* 405. 数字转换为十六进制数 .swift */; };
 		F889CC6E25613FE00049C446 /* 15. 三数之和.swift in Sources */ = {isa = PBXBuildFile; fileRef = F889CC6D25613FE00049C446 /* 15. 三数之和.swift */; };
 		F8A49034255E30DD0045DD43 /* 328. 奇偶链表.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8A49033255E30DD0045DD43 /* 328. 奇偶链表.swift */; };
+		F8A5920B25A2E84B00F57560 /* 641. 设计循环双端队列.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8A5920A25A2E84B00F57560 /* 641. 设计循环双端队列.swift */; };
+		F8A5921825A2FD0E00F57560 /* 646. 最长数对链.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8A5921725A2FD0E00F57560 /* 646. 最长数对链.swift */; };
+		F8A5923C25A31FB600F57560 /* 1614. 括号的最大嵌套深度.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8A5923B25A31FB600F57560 /* 1614. 括号的最大嵌套深度.swift */; };
+		F8A5923F25A3342600F57560 /* 面试题 16.26. 计算器.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8A5923E25A3342600F57560 /* 面试题 16.26. 计算器.swift */; };
+		F8A5924225A340E100F57560 /* 面试题 17.04. 消失的数字.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8A5924125A340E100F57560 /* 面试题 17.04. 消失的数字.swift */; };
+		F8A5924725A55BF100F57560 /* 399. 除法求值.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8A5924625A55BF100F57560 /* 399. 除法求值.swift */; };
 		F8AB679B2553FAAA005D0EC4 /* 127. 单词接龙.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8AB679A2553FAAA005D0EC4 /* 127. 单词接龙.swift */; };
 		F8AB690725554A26005D0EC4 /* 1356. 根据数字二进制下 1 的数目排序.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8AB690625554A26005D0EC4 /* 1356. 根据数字二进制下 1 的数目排序.swift */; };
 		F8AF4734256790330027B3EA /* 147. 对链表进行插入排序.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8AF4733256790330027B3EA /* 147. 对链表进行插入排序.swift */; };
@@ -127,6 +133,10 @@
 		F8B9C9092574997500C9696A /* 976. 三角形的最大周长.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B9C9082574997500C9696A /* 976. 三角形的最大周长.swift */; };
 		F8B9CC3D25772B9400C9696A /* 321. 拼接最大数.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B9CC3C25772B9400C9696A /* 321. 拼接最大数.swift */; };
 		F8B9CC4825787C4A00C9696A /* 204. 计数质数 .swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B9CC4725787C4A00C9696A /* 204. 计数质数 .swift */; };
+		F8C8F0FE25A6EF8F00E302FB /* 547. 省份数量.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8C8F0FD25A6EF8F00E302FB /* 547. 省份数量.swift */; };
+		F8C8F10125A727BE00E302FB /* 396. 旋转函数.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8C8F10025A727BE00E302FB /* 396. 旋转函数.swift */; };
+		F8C8F10425A7306D00E302FB /* 477. 汉明距离总和.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8C8F10325A7306D00E302FB /* 477. 汉明距离总和.swift */; };
+		F8C8F10725A7F69000E302FB /* 29. 两数相除.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8C8F10625A7F69000E302FB /* 29. 两数相除.swift */; };
 		F8EDCF452589A0FD00913224 /* 290. 单词规律.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8EDCF442589A0FD00913224 /* 290. 单词规律.swift */; };
 		F8F11DA22579311E00ADCCD1 /* 813. 最大平均值和的分组.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F11DA12579311E00ADCCD1 /* 813. 最大平均值和的分组.swift */; };
 		F8F870FC2547BE2E0040A8B0 /* 144. 二叉树的前序遍历.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F870FB2547BE2E0040A8B0 /* 144. 二叉树的前序遍历.swift */; };
@@ -250,6 +260,12 @@
 		F889CC6A256108DD0049C446 /* 405. 数字转换为十六进制数 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "405. 数字转换为十六进制数 .swift"; sourceTree = "<group>"; };
 		F889CC6D25613FE00049C446 /* 15. 三数之和.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "15. 三数之和.swift"; sourceTree = "<group>"; };
 		F8A49033255E30DD0045DD43 /* 328. 奇偶链表.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "328. 奇偶链表.swift"; sourceTree = "<group>"; };
+		F8A5920A25A2E84B00F57560 /* 641. 设计循环双端队列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "641. 设计循环双端队列.swift"; sourceTree = "<group>"; };
+		F8A5921725A2FD0E00F57560 /* 646. 最长数对链.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "646. 最长数对链.swift"; sourceTree = "<group>"; };
+		F8A5923B25A31FB600F57560 /* 1614. 括号的最大嵌套深度.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1614. 括号的最大嵌套深度.swift"; sourceTree = "<group>"; };
+		F8A5923E25A3342600F57560 /* 面试题 16.26. 计算器.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "面试题 16.26. 计算器.swift"; sourceTree = "<group>"; };
+		F8A5924125A340E100F57560 /* 面试题 17.04. 消失的数字.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "面试题 17.04. 消失的数字.swift"; sourceTree = "<group>"; };
+		F8A5924625A55BF100F57560 /* 399. 除法求值.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "399. 除法求值.swift"; sourceTree = "<group>"; };
 		F8AB679A2553FAAA005D0EC4 /* 127. 单词接龙.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "127. 单词接龙.swift"; sourceTree = "<group>"; };
 		F8AB690625554A26005D0EC4 /* 1356. 根据数字二进制下 1 的数目排序.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1356. 根据数字二进制下 1 的数目排序.swift"; sourceTree = "<group>"; };
 		F8AF4733256790330027B3EA /* 147. 对链表进行插入排序.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "147. 对链表进行插入排序.swift"; sourceTree = "<group>"; };
@@ -268,6 +284,10 @@
 		F8B9C9082574997500C9696A /* 976. 三角形的最大周长.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "976. 三角形的最大周长.swift"; sourceTree = "<group>"; };
 		F8B9CC3C25772B9400C9696A /* 321. 拼接最大数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "321. 拼接最大数.swift"; sourceTree = "<group>"; };
 		F8B9CC4725787C4A00C9696A /* 204. 计数质数 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "204. 计数质数 .swift"; sourceTree = "<group>"; };
+		F8C8F0FD25A6EF8F00E302FB /* 547. 省份数量.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "547. 省份数量.swift"; sourceTree = "<group>"; };
+		F8C8F10025A727BE00E302FB /* 396. 旋转函数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "396. 旋转函数.swift"; sourceTree = "<group>"; };
+		F8C8F10325A7306D00E302FB /* 477. 汉明距离总和.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "477. 汉明距离总和.swift"; sourceTree = "<group>"; };
+		F8C8F10625A7F69000E302FB /* 29. 两数相除.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "29. 两数相除.swift"; sourceTree = "<group>"; };
 		F8EDCF442589A0FD00913224 /* 290. 单词规律.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "290. 单词规律.swift"; sourceTree = "<group>"; };
 		F8F11DA12579311E00ADCCD1 /* 813. 最大平均值和的分组.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "813. 最大平均值和的分组.swift"; sourceTree = "<group>"; };
 		F8F870FB2547BE2E0040A8B0 /* 144. 二叉树的前序遍历.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "144. 二叉树的前序遍历.swift"; sourceTree = "<group>"; };
@@ -422,6 +442,7 @@
 				8151A93A2594E17D004AF4DF /* 135. 分发糖果.swift */,
 				81EBE5FF2598D01A00F8AAC0 /* 85. 最大矩形.swift */,
 				F8209E1F2590C68600BB4A3B /* 746. 使用最小花费爬楼梯.swift */,
+				F8A5920A25A2E84B00F57560 /* 641. 设计循环双端队列.swift */,
 				81EBE6032598DA8E00F8AAC0 /* 659. 分割数组为连续子序列.swift */,
 				81EBE6062598DCFD00F8AAC0 /* 103. 二叉树的锯齿形层序遍历.swift */,
 				81EBE609259DE02E00F8AAC0 /* 435. 无重叠区间.swift */,
@@ -429,6 +450,15 @@
 				8130A466259F8C7D0076BC82 /* 239. 滑动窗口最大值.swift */,
 				813515B125A3758E00DAB7DA /* 830. 较大分组的位置.swift */,
 				8135161225A9D11900DAB7DA /* 123. 买卖股票的最佳时机 III.swift */,
+				F8A5921725A2FD0E00F57560 /* 646. 最长数对链.swift */,
+				F8A5923B25A31FB600F57560 /* 1614. 括号的最大嵌套深度.swift */,
+				F8A5923E25A3342600F57560 /* 面试题 16.26. 计算器.swift */,
+				F8A5924125A340E100F57560 /* 面试题 17.04. 消失的数字.swift */,
+				F8A5924625A55BF100F57560 /* 399. 除法求值.swift */,
+				F8C8F0FD25A6EF8F00E302FB /* 547. 省份数量.swift */,
+				F8C8F10025A727BE00E302FB /* 396. 旋转函数.swift */,
+				F8C8F10325A7306D00E302FB /* 477. 汉明距离总和.swift */,
+				F8C8F10625A7F69000E302FB /* 29. 两数相除.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -503,6 +533,7 @@
 				81263365256F1E81007749B8 /* 164. 最大间距.swift in Sources */,
 				F84D776A254ABDBD00CD31E0 /* 129. 求根到叶子节点数字之和.swift in Sources */,
 				817CEAF52561FA9600105A26 /* 13. 罗马数字转整数.swift in Sources */,
+				F8C8F0FE25A6EF8F00E302FB /* 547. 省份数量.swift in Sources */,
 				81EBE6072598DCFD00F8AAC0 /* 103. 二叉树的锯齿形层序遍历.swift in Sources */,
 				81E60E8A23A088D500AAE3EA /* 89-格雷编码.swift in Sources */,
 				818EF0C5258BB3B60066399D /* 714. 买卖股票的最佳时机含手续费.swift in Sources */,
@@ -511,9 +542,11 @@
 				F8B0793625823AC0009B33C0 /* 207. 课程表.swift in Sources */,
 				F889CC6B256108DD0049C446 /* 405. 数字转换为十六进制数 .swift in Sources */,
 				81E1557A255222DB00FB7360 /* 57. 插入区间.swift in Sources */,
+				F8A5924725A55BF100F57560 /* 399. 除法求值.swift in Sources */,
 				F8AF4734256790330027B3EA /* 147. 对链表进行插入排序.swift in Sources */,
 				813FAF7E25890E7D00892072 /* 738. 单调递增的数字.swift in Sources */,
 				81E9F24B25603A7100E2F4D7 /* 516. 最长回文子序列.swift in Sources */,
+				F8A5921825A2FD0E00F57560 /* 646. 最长数对链.swift in Sources */,
 				81A54ED123B6663200EE2CCC /* 100-相同的树.swift in Sources */,
 				81A54D9423A729F000EE2CCC /* 665-非递减数列.swift in Sources */,
 				F8B072E4258067E9009B33C0 /* 62. 不同路径.swift in Sources */,
@@ -539,6 +572,7 @@
 				F8AF49D0256B46EF0027B3EA /* 34. 在排序数组中查找元素的第一个和最后一个位置.swift in Sources */,
 				81C9AAB12533D33A0007C839 /* 530. 二叉搜索树的最小绝对差.swift in Sources */,
 				81949E0D24D7B7AB00823823 /* 1041-困于环中的机器人.swift in Sources */,
+				F8C8F10425A7306D00E302FB /* 477. 汉明距离总和.swift in Sources */,
 				81A54ED323B70F6A00EE2CCC /* 60-第k个排列.swift in Sources */,
 				F8F872A7254908C20040A8B0 /* 1207. 独一无二的出现次数.swift in Sources */,
 				81A54E8D23B05E2000EE2CCC /* 5291- 统计位数为偶数的数字.swift in Sources */,
@@ -546,6 +580,7 @@
 				81FF6F4623B8B04C00814D5B /* 5295-和为零的N个唯一整数.swift in Sources */,
 				F8B0724A257DC6B5009B33C0 /* 861. 翻转矩阵后的得分.swift in Sources */,
 				81A54EB823B1DD6A00EE2CCC /* 494-目标和.swift in Sources */,
+				F8C8F10725A7F69000E302FB /* 29. 两数相除.swift in Sources */,
 				F8AB679B2553FAAA005D0EC4 /* 127. 单词接龙.swift in Sources */,
 				817CEAEF2561E2D400105A26 /* 406. 根据身高重建队列.swift in Sources */,
 				F8B0756725811494009B33C0 /* 63. 不同路径 II.swift in Sources */,
@@ -563,6 +598,7 @@
 				F8AF47632568C3990027B3EA /* 148. 排序链表.swift in Sources */,
 				F8AB690725554A26005D0EC4 /* 1356. 根据数字二进制下 1 的数目排序.swift in Sources */,
 				81A54EC123B4490E00EE2CCC /* 1104-二叉树寻路.swift in Sources */,
+				F8A5924225A340E100F57560 /* 面试题 17.04. 消失的数字.swift in Sources */,
 				81EBE6002598D01A00F8AAC0 /* 85. 最大矩形.swift in Sources */,
 				81FE1FAB24C13933001765E5 /* 35-搜索插入位置.swift in Sources */,
 				81FF6F4A23B8BEC000814D5B /* 5297-跳跃游戏 III.swift in Sources */,
@@ -598,10 +634,12 @@
 				816F1B9E254D797700D0EE5D /* 381. O(1) 时间插入、删除和获取随机元素 - 允许重复.swift in Sources */,
 				F8F11DA22579311E00ADCCD1 /* 813. 最大平均值和的分组.swift in Sources */,
 				81A54E5E23ADC6FF00EE2CCC /* 304-二维区域和检索 - 矩阵不可变.swift in Sources */,
+				F8A5920B25A2E84B00F57560 /* 641. 设计循环双端队列.swift in Sources */,
 				81A54E3623AB502C00EE2CCC /* 876-链表的中间结点.swift in Sources */,
 				81FF6F8423C2D0DF00814D5B /* 504-七进制数.swift in Sources */,
 				81A54EC923B5DB1700EE2CCC /* 排序.swift in Sources */,
 				818A1C052583C9E300692E2A /* 649. Dota2 参议院.swift in Sources */,
+				F8C8F10125A727BE00E302FB /* 396. 旋转函数.swift in Sources */,
 				81A54EC523B5A70E00EE2CCC /* 42-接雨水.swift in Sources */,
 				81A54E3A23AB56B200EE2CCC /* 238-除自身以外数组的乘积.swift in Sources */,
 				F8AF47602567E58B0027B3EA /* 1324. 竖直打印单词.swift in Sources */,
@@ -610,9 +648,11 @@
 				F8AF49CC256910B30027B3EA /* 22. 括号生成.swift in Sources */,
 				81A54D9623A745B500EE2CCC /* 4-寻找两个有序数组的中位数.swift in Sources */,
 				81A54EBE23B3484F00EE2CCC /* 1137-第 N 个泰波那契数.swift in Sources */,
+				F8A5923F25A3342600F57560 /* 面试题 16.26. 计算器.swift in Sources */,
 				81E9F2482560345300E2F4D7 /* 515. 在每个树行中找最大值.swift in Sources */,
 				F8B9C906257490AD00C9696A /* 767. 重构字符串.swift in Sources */,
 				81FF6F8223C2CC5800814D5B /* 657-机器人能否返回原点.swift in Sources */,
+				F8A5923C25A31FB600F57560 /* 1614. 括号的最大嵌套深度.swift in Sources */,
 				81FF6F5D23BDCD7500814D5B /* 1093-大样本统计.swift in Sources */,
 				81EBE6042598DA8E00F8AAC0 /* 659. 分割数组为连续子序列.swift in Sources */,
 			);
