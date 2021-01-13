@@ -44,3 +44,4 @@ func squareNumberCount(_ nums:[Int]) -> Int {
 }
 
 
+findRedundantConnection([[1,2],[1,3],[2,3]])
