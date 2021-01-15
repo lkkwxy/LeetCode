@@ -42,3 +42,4 @@ func squareNumberCount(_ nums:[Int]) -> Int {
     }
     return count
 }
+removeStones([[0,0],[0,1],[1,0],[1,1]])
