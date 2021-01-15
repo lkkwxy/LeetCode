@@ -102,6 +102,7 @@
 		F8209E202590C68600BB4A3B /* 746. 使用最小花费爬楼梯.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8209E1F2590C68600BB4A3B /* 746. 使用最小花费爬楼梯.swift */; };
 		F840C529254F9BBF008DDFC4 /* 349. 两个数组的交集.swift in Sources */ = {isa = PBXBuildFile; fileRef = F840C528254F9BBF008DDFC4 /* 349. 两个数组的交集.swift */; };
 		F84D776A254ABDBD00CD31E0 /* 129. 求根到叶子节点数字之和.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84D7769254ABDBD00CD31E0 /* 129. 求根到叶子节点数字之和.swift */; };
+		F855B61025B13381006A9D06 /* 947. 移除最多的同行或同列石头 .swift in Sources */ = {isa = PBXBuildFile; fileRef = F855B60F25B13381006A9D06 /* 947. 移除最多的同行或同列石头 .swift */; };
 		F8896D19255CEBED008E131D /* 922. 按奇偶排序数组 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8896D18255CEBED008E131D /* 922. 按奇偶排序数组 II.swift */; };
 		F889CBA82560CE720049C446 /* 402. 移掉K位数字.swift in Sources */ = {isa = PBXBuildFile; fileRef = F889CBA72560CE720049C446 /* 402. 移掉K位数字.swift */; };
 		F889CC6B256108DD0049C446 /* 405. 数字转换为十六进制数 .swift in Sources */ = {isa = PBXBuildFile; fileRef = F889CC6A256108DD0049C446 /* 405. 数字转换为十六进制数 .swift */; };
@@ -135,6 +136,7 @@
 		F8C8F10125A727BE00E302FB /* 396. 旋转函数.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8C8F10025A727BE00E302FB /* 396. 旋转函数.swift */; };
 		F8C8F10425A7306D00E302FB /* 477. 汉明距离总和.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8C8F10325A7306D00E302FB /* 477. 汉明距离总和.swift */; };
 		F8C8F10725A7F69000E302FB /* 29. 两数相除.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8C8F10625A7F69000E302FB /* 29. 两数相除.swift */; };
+		F8C8F24325AC29E200E302FB /* 1202. 交换字符串中的元素.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8C8F24225AC29E200E302FB /* 1202. 交换字符串中的元素.swift */; };
 		F8EDCF452589A0FD00913224 /* 290. 单词规律.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8EDCF442589A0FD00913224 /* 290. 单词规律.swift */; };
 		F8F11DA22579311E00ADCCD1 /* 813. 最大平均值和的分组.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F11DA12579311E00ADCCD1 /* 813. 最大平均值和的分组.swift */; };
 		F8F870FC2547BE2E0040A8B0 /* 144. 二叉树的前序遍历.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F870FB2547BE2E0040A8B0 /* 144. 二叉树的前序遍历.swift */; };
@@ -251,6 +253,7 @@
 		F8209E1F2590C68600BB4A3B /* 746. 使用最小花费爬楼梯.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "746. 使用最小花费爬楼梯.swift"; sourceTree = "<group>"; };
 		F840C528254F9BBF008DDFC4 /* 349. 两个数组的交集.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "349. 两个数组的交集.swift"; sourceTree = "<group>"; };
 		F84D7769254ABDBD00CD31E0 /* 129. 求根到叶子节点数字之和.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "129. 求根到叶子节点数字之和.swift"; sourceTree = "<group>"; };
+		F855B60F25B13381006A9D06 /* 947. 移除最多的同行或同列石头 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "947. 移除最多的同行或同列石头 .swift"; sourceTree = "<group>"; };
 		F8896D18255CEBED008E131D /* 922. 按奇偶排序数组 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "922. 按奇偶排序数组 II.swift"; sourceTree = "<group>"; };
 		F889CBA72560CE720049C446 /* 402. 移掉K位数字.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "402. 移掉K位数字.swift"; sourceTree = "<group>"; };
 		F889CC6A256108DD0049C446 /* 405. 数字转换为十六进制数 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "405. 数字转换为十六进制数 .swift"; sourceTree = "<group>"; };
@@ -284,6 +287,7 @@
 		F8C8F10025A727BE00E302FB /* 396. 旋转函数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "396. 旋转函数.swift"; sourceTree = "<group>"; };
 		F8C8F10325A7306D00E302FB /* 477. 汉明距离总和.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "477. 汉明距离总和.swift"; sourceTree = "<group>"; };
 		F8C8F10625A7F69000E302FB /* 29. 两数相除.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "29. 两数相除.swift"; sourceTree = "<group>"; };
+		F8C8F24225AC29E200E302FB /* 1202. 交换字符串中的元素.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1202. 交换字符串中的元素.swift"; sourceTree = "<group>"; };
 		F8EDCF442589A0FD00913224 /* 290. 单词规律.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "290. 单词规律.swift"; sourceTree = "<group>"; };
 		F8F11DA12579311E00ADCCD1 /* 813. 最大平均值和的分组.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "813. 最大平均值和的分组.swift"; sourceTree = "<group>"; };
 		F8F870FB2547BE2E0040A8B0 /* 144. 二叉树的前序遍历.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "144. 二叉树的前序遍历.swift"; sourceTree = "<group>"; };
@@ -453,6 +457,8 @@
 				F8C8F10025A727BE00E302FB /* 396. 旋转函数.swift */,
 				F8C8F10325A7306D00E302FB /* 477. 汉明距离总和.swift */,
 				F8C8F10625A7F69000E302FB /* 29. 两数相除.swift */,
+				F8C8F24225AC29E200E302FB /* 1202. 交换字符串中的元素.swift */,
+				F855B60F25B13381006A9D06 /* 947. 移除最多的同行或同列石头 .swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -555,7 +561,9 @@
 				81A54DC623A9D53C00EE2CCC /* 309-最佳买卖股票时机含冷冻期.swift in Sources */,
 				817CEAF8256417DD00105A26 /* 1030. 距离顺序排列矩阵单元格.swift in Sources */,
 				81654A2A25351C3400848BEF /* 24. 两两交换链表中的节点.swift in Sources */,
+				F855B61025B13381006A9D06 /* 947. 移除最多的同行或同列石头 .swift in Sources */,
 				F8F870FC2547BE2E0040A8B0 /* 144. 二叉树的前序遍历.swift in Sources */,
+				F8C8F24325AC29E200E302FB /* 1202. 交换字符串中的元素.swift in Sources */,
 				81A54EC323B4577500EE2CCC /* 84-柱状图中最大的矩形.swift in Sources */,
 				81A54D9823A8752D00EE2CCC /* 6-Z 字形变换.swift in Sources */,
 				811D6F72256C78A00034D56B /* 222. 完全二叉树的节点个数.swift in Sources */,
