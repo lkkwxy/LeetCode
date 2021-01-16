@@ -87,6 +87,7 @@
 		81EBE60A259DE02E00F8AAC0 /* 435. 无重叠区间.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81EBE609259DE02E00F8AAC0 /* 435. 无重叠区间.swift */; };
 		81FD32C225AADD2400774231 /* 228. 汇总区间 .swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FD32C125AADD2400774231 /* 228. 汇总区间 .swift */; };
 		81FD32C525AF45DE00774231 /* 684. 冗余连接.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FD32C425AF45DE00774231 /* 684. 冗余连接.swift */; };
+		81FD32C825B305D500774231 /* 803. 打砖块.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FD32C725B305D500774231 /* 803. 打砖块.swift */; };
 		81FE1FAB24C13933001765E5 /* 35-搜索插入位置.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FE1FAA24C13933001765E5 /* 35-搜索插入位置.swift */; };
 		81FE1FAD24C34DC7001765E5 /* 826-安排工作以达到最大收益.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FE1FAC24C34DC7001765E5 /* 826-安排工作以达到最大收益.swift */; };
 		81FF6F4623B8B04C00814D5B /* 5295-和为零的N个唯一整数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FF6F4523B8B04C00814D5B /* 5295-和为零的N个唯一整数.swift */; };
@@ -240,6 +241,7 @@
 		81EBE609259DE02E00F8AAC0 /* 435. 无重叠区间.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "435. 无重叠区间.swift"; sourceTree = "<group>"; };
 		81FD32C125AADD2400774231 /* 228. 汇总区间 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "228. 汇总区间 .swift"; sourceTree = "<group>"; };
 		81FD32C425AF45DE00774231 /* 684. 冗余连接.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "684. 冗余连接.swift"; sourceTree = "<group>"; };
+		81FD32C725B305D500774231 /* 803. 打砖块.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "803. 打砖块.swift"; sourceTree = "<group>"; };
 		81FE1FAA24C13933001765E5 /* 35-搜索插入位置.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "35-搜索插入位置.swift"; sourceTree = "<group>"; };
 		81FE1FAC24C34DC7001765E5 /* 826-安排工作以达到最大收益.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "826-安排工作以达到最大收益.swift"; sourceTree = "<group>"; };
 		81FF6F4523B8B04C00814D5B /* 5295-和为零的N个唯一整数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "5295-和为零的N个唯一整数.swift"; sourceTree = "<group>"; };
@@ -465,6 +467,7 @@
 				F8C8F10625A7F69000E302FB /* 29. 两数相除.swift */,
 				81FD32C125AADD2400774231 /* 228. 汇总区间 .swift */,
 				81FD32C425AF45DE00774231 /* 684. 冗余连接.swift */,
+				81FD32C725B305D500774231 /* 803. 打砖块.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -643,6 +646,7 @@
 				F8F11DA22579311E00ADCCD1 /* 813. 最大平均值和的分组.swift in Sources */,
 				81A54E5E23ADC6FF00EE2CCC /* 304-二维区域和检索 - 矩阵不可变.swift in Sources */,
 				F8A5920B25A2E84B00F57560 /* 641. 设计循环双端队列.swift in Sources */,
+				81FD32C825B305D500774231 /* 803. 打砖块.swift in Sources */,
 				81A54E3623AB502C00EE2CCC /* 876-链表的中间结点.swift in Sources */,
 				81FF6F8423C2D0DF00814D5B /* 504-七进制数.swift in Sources */,
 				81A54EC923B5DB1700EE2CCC /* 排序.swift in Sources */,
