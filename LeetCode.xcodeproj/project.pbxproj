@@ -73,6 +73,7 @@
 		81BF2CEF254B8D3A00F2E47E /* 463. 岛屿的周长.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81BF2CEE254B8D3A00F2E47E /* 463. 岛屿的周长.swift */; };
 		81C1FC43239E1D6F00F2271B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C1FC42239E1D6F00F2271B /* main.swift */; };
 		81C1FC4B239E205E00F2271B /* 31-下一个排列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C1FC4A239E205E00F2271B /* 31-下一个排列.swift */; };
+		81C79DE125B4999100885FF1 /* 721. 账户合并.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C79DE025B4999100885FF1 /* 721. 账户合并.swift */; };
 		81C9AAB12533D33A0007C839 /* 530. 二叉搜索树的最小绝对差.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C9AAB02533D33A0007C839 /* 530. 二叉搜索树的最小绝对差.swift */; };
 		81E1555F2550D81F00FB7360 /* 941. 有效的山脉数组.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81E1555E2550D81F00FB7360 /* 941. 有效的山脉数组.swift */; };
 		81E1557A255222DB00FB7360 /* 57. 插入区间.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81E15579255222DB00FB7360 /* 57. 插入区间.swift */; };
@@ -230,6 +231,7 @@
 		81C1FC3F239E1D6F00F2271B /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		81C1FC42239E1D6F00F2271B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		81C1FC4A239E205E00F2271B /* 31-下一个排列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "31-下一个排列.swift"; sourceTree = "<group>"; };
+		81C79DE025B4999100885FF1 /* 721. 账户合并.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "721. 账户合并.swift"; sourceTree = "<group>"; };
 		81C9AAB02533D33A0007C839 /* 530. 二叉搜索树的最小绝对差.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "530. 二叉搜索树的最小绝对差.swift"; sourceTree = "<group>"; };
 		81E1555E2550D81F00FB7360 /* 941. 有效的山脉数组.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "941. 有效的山脉数组.swift"; sourceTree = "<group>"; };
 		81E15579255222DB00FB7360 /* 57. 插入区间.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "57. 插入区间.swift"; sourceTree = "<group>"; };
@@ -477,6 +479,7 @@
 				81FD32C425AF45DE00774231 /* 684. 冗余连接.swift */,
 				81FD32C725B305D500774231 /* 803. 打砖块.swift */,
 				81FD32CB25B4133300774231 /* 1232. 缀点成线.swift */,
+				81C79DE025B4999100885FF1 /* 721. 账户合并.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -627,6 +630,7 @@
 				81FF6F4A23B8BEC000814D5B /* 5297-跳跃游戏 III.swift in Sources */,
 				81263362256DCBF5007749B8 /* 1370. 上升下降字符串.swift in Sources */,
 				817CEAFE2565DC4500105A26 /* 283. 移动零.swift in Sources */,
+				81C79DE125B4999100885FF1 /* 721. 账户合并.swift in Sources */,
 				F8209E202590C68600BB4A3B /* 746. 使用最小花费爬楼梯.swift in Sources */,
 				81A54E3C23AC5F4E00EE2CCC /* 322-零钱兑换.swift in Sources */,
 				81FF6F4C23B9938500814D5B /* 673-最长递增子序列的个数.swift in Sources */,
