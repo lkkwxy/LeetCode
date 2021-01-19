@@ -42,3 +42,6 @@ func squareNumberCount(_ nums:[Int]) -> Int {
     }
     return count
 }
+
+
+numIslands([["1"],["1"]])
