@@ -42,5 +42,3 @@ func squareNumberCount(_ nums:[Int]) -> Int {
     }
     return count
 }
-let a = [[0,0],[2,2],[3,10],[5,2],[7,0]]
-minCostConnectPoints(a)
