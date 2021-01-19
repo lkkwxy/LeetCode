@@ -42,4 +42,5 @@ func squareNumberCount(_ nums:[Int]) -> Int {
     }
     return count
 }
-removeStones([[0,0],[0,1],[1,0],[1,1]])
+let a = [[0,0],[2,2],[3,10],[5,2],[7,0]]
+minCostConnectPoints(a)
