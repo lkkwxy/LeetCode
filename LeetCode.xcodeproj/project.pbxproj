@@ -112,6 +112,7 @@
 		F855B61025B13381006A9D06 /* 947. 移除最多的同行或同列石头 .swift in Sources */ = {isa = PBXBuildFile; fileRef = F855B60F25B13381006A9D06 /* 947. 移除最多的同行或同列石头 .swift */; };
 		F858707925B6792E00B670D7 /* 1584. 连接所有点的最小费用.swift in Sources */ = {isa = PBXBuildFile; fileRef = F858707825B6792E00B670D7 /* 1584. 连接所有点的最小费用.swift */; };
 		F858715425B6EA4800B670D7 /* 200. 岛屿数量.swift in Sources */ = {isa = PBXBuildFile; fileRef = F858715325B6EA4800B670D7 /* 200. 岛屿数量.swift */; };
+		F858715925B7CA9500B670D7 /* 628. 三个数的最大乘积.swift in Sources */ = {isa = PBXBuildFile; fileRef = F858715825B7CA9500B670D7 /* 628. 三个数的最大乘积.swift */; };
 		F8896D19255CEBED008E131D /* 922. 按奇偶排序数组 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8896D18255CEBED008E131D /* 922. 按奇偶排序数组 II.swift */; };
 		F889CBA82560CE720049C446 /* 402. 移掉K位数字.swift in Sources */ = {isa = PBXBuildFile; fileRef = F889CBA72560CE720049C446 /* 402. 移掉K位数字.swift */; };
 		F889CC6B256108DD0049C446 /* 405. 数字转换为十六进制数 .swift in Sources */ = {isa = PBXBuildFile; fileRef = F889CC6A256108DD0049C446 /* 405. 数字转换为十六进制数 .swift */; };
@@ -272,6 +273,7 @@
 		F855B60F25B13381006A9D06 /* 947. 移除最多的同行或同列石头 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "947. 移除最多的同行或同列石头 .swift"; sourceTree = "<group>"; };
 		F858707825B6792E00B670D7 /* 1584. 连接所有点的最小费用.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1584. 连接所有点的最小费用.swift"; sourceTree = "<group>"; };
 		F858715325B6EA4800B670D7 /* 200. 岛屿数量.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "200. 岛屿数量.swift"; sourceTree = "<group>"; };
+		F858715825B7CA9500B670D7 /* 628. 三个数的最大乘积.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "628. 三个数的最大乘积.swift"; sourceTree = "<group>"; };
 		F8896D18255CEBED008E131D /* 922. 按奇偶排序数组 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "922. 按奇偶排序数组 II.swift"; sourceTree = "<group>"; };
 		F889CBA72560CE720049C446 /* 402. 移掉K位数字.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "402. 移掉K位数字.swift"; sourceTree = "<group>"; };
 		F889CC6A256108DD0049C446 /* 405. 数字转换为十六进制数 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "405. 数字转换为十六进制数 .swift"; sourceTree = "<group>"; };
@@ -486,6 +488,7 @@
 				81FD32CB25B4133300774231 /* 1232. 缀点成线.swift */,
 				81C79DE025B4999100885FF1 /* 721. 账户合并.swift */,
 				F858715325B6EA4800B670D7 /* 200. 岛屿数量.swift */,
+				F858715825B7CA9500B670D7 /* 628. 三个数的最大乘积.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -549,6 +552,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				81FE1FAD24C34DC7001765E5 /* 826-安排工作以达到最大收益.swift in Sources */,
+				F858715925B7CA9500B670D7 /* 628. 三个数的最大乘积.swift in Sources */,
 				F889CC6E25613FE00049C446 /* 15. 三数之和.swift in Sources */,
 				81E9F2442560304C00E2F4D7 /* 1122. 数组的相对排序.swift in Sources */,
 				F8B9CC4825787C4A00C9696A /* 204. 计数质数 .swift in Sources */,

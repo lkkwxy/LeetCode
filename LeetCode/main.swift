@@ -44,4 +44,4 @@ func squareNumberCount(_ nums:[Int]) -> Int {
 }
 
 
-numIslands([["1"],["1"]])
+maximumProduct([6,2,6,5,1,2])
