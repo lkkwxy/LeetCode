@@ -9,18 +9,16 @@
 import Foundation
 func smallestDivisor(_ nums: [Int], _ threshold: Int) -> Int {
     var min = 1
-    var max = 1
-    var than = false
+    var max = 1000000
     var result = 0
     while min <= max {
-        let dividend = than ? (min + max) / 2 : max
+        let dividend = (min + max) / 2
         let res = nums.reduce(0) { $0 + ($1 + dividend - 1) / dividend}
         if res <= threshold {
-            max = than ? dividend - 1 : max + max
+            max = dividend - 1
             result = dividend
         } else if res > threshold {
             min = dividend + 1
-            than = true
         }
     }
     return result
