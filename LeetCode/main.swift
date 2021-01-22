@@ -45,6 +45,5 @@ func squareNumberCount(_ nums:[Int]) -> Int {
 
 
 let n = 5
-let edges = [[0,1,1],[1,2,1],[2,3,2],[0,3,2],[0,4,3],[3,4,3],[1,4,6]]
-
-findCriticalAndPseudoCriticalEdges(n, edges)
+let edges = [44,22,33,11,1]
+smallestDivisor(edges, 5)

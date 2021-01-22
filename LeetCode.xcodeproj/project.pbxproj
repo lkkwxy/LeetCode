@@ -114,6 +114,7 @@
 		F858715425B6EA4800B670D7 /* 200. 岛屿数量.swift in Sources */ = {isa = PBXBuildFile; fileRef = F858715325B6EA4800B670D7 /* 200. 岛屿数量.swift */; };
 		F858715925B7CA9500B670D7 /* 628. 三个数的最大乘积.swift in Sources */ = {isa = PBXBuildFile; fileRef = F858715825B7CA9500B670D7 /* 628. 三个数的最大乘积.swift */; };
 		F866E49325B964800076CE4E /* 1489. 找到最小生成树里的关键边和伪关键边.swift in Sources */ = {isa = PBXBuildFile; fileRef = F866E49225B964800076CE4E /* 1489. 找到最小生成树里的关键边和伪关键边.swift */; };
+		F866E68A25BB1D260076CE4E /* 1283. 使结果不超过阈值的最小除数.swift in Sources */ = {isa = PBXBuildFile; fileRef = F866E68925BB1D260076CE4E /* 1283. 使结果不超过阈值的最小除数.swift */; };
 		F8896D19255CEBED008E131D /* 922. 按奇偶排序数组 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8896D18255CEBED008E131D /* 922. 按奇偶排序数组 II.swift */; };
 		F889CBA82560CE720049C446 /* 402. 移掉K位数字.swift in Sources */ = {isa = PBXBuildFile; fileRef = F889CBA72560CE720049C446 /* 402. 移掉K位数字.swift */; };
 		F889CC6B256108DD0049C446 /* 405. 数字转换为十六进制数 .swift in Sources */ = {isa = PBXBuildFile; fileRef = F889CC6A256108DD0049C446 /* 405. 数字转换为十六进制数 .swift */; };
@@ -276,6 +277,7 @@
 		F858715325B6EA4800B670D7 /* 200. 岛屿数量.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "200. 岛屿数量.swift"; sourceTree = "<group>"; };
 		F858715825B7CA9500B670D7 /* 628. 三个数的最大乘积.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "628. 三个数的最大乘积.swift"; sourceTree = "<group>"; };
 		F866E49225B964800076CE4E /* 1489. 找到最小生成树里的关键边和伪关键边.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1489. 找到最小生成树里的关键边和伪关键边.swift"; sourceTree = "<group>"; };
+		F866E68925BB1D260076CE4E /* 1283. 使结果不超过阈值的最小除数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1283. 使结果不超过阈值的最小除数.swift"; sourceTree = "<group>"; };
 		F8896D18255CEBED008E131D /* 922. 按奇偶排序数组 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "922. 按奇偶排序数组 II.swift"; sourceTree = "<group>"; };
 		F889CBA72560CE720049C446 /* 402. 移掉K位数字.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "402. 移掉K位数字.swift"; sourceTree = "<group>"; };
 		F889CC6A256108DD0049C446 /* 405. 数字转换为十六进制数 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "405. 数字转换为十六进制数 .swift"; sourceTree = "<group>"; };
@@ -492,6 +494,7 @@
 				F858715325B6EA4800B670D7 /* 200. 岛屿数量.swift */,
 				F858715825B7CA9500B670D7 /* 628. 三个数的最大乘积.swift */,
 				F866E49225B964800076CE4E /* 1489. 找到最小生成树里的关键边和伪关键边.swift */,
+				F866E68925BB1D260076CE4E /* 1283. 使结果不超过阈值的最小除数.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -570,6 +573,7 @@
 				F8C8F0FE25A6EF8F00E302FB /* 547. 省份数量.swift in Sources */,
 				81FD32CC25B4133300774231 /* 1232. 缀点成线.swift in Sources */,
 				81EBE6072598DCFD00F8AAC0 /* 103. 二叉树的锯齿形层序遍历.swift in Sources */,
+				F866E68A25BB1D260076CE4E /* 1283. 使结果不超过阈值的最小除数.swift in Sources */,
 				81E60E8A23A088D500AAE3EA /* 89-格雷编码.swift in Sources */,
 				818EF0C5258BB3B60066399D /* 714. 买卖股票的最佳时机含手续费.swift in Sources */,
 				818BEF4023A22B8200382977 /* 109-有序链表转换二叉搜索树.swift in Sources */,
