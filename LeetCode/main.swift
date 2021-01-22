@@ -44,4 +44,7 @@ func squareNumberCount(_ nums:[Int]) -> Int {
 }
 
 
-maximumProduct([6,2,6,5,1,2])
+let n = 5
+let edges = [[0,1,1],[1,2,1],[2,3,2],[0,3,2],[0,4,3],[3,4,3],[1,4,6]]
+
+findCriticalAndPseudoCriticalEdges(n, edges)
