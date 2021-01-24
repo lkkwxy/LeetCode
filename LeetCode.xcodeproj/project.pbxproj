@@ -113,6 +113,11 @@
 		F840C529254F9BBF008DDFC4 /* 349. 两个数组的交集.swift in Sources */ = {isa = PBXBuildFile; fileRef = F840C528254F9BBF008DDFC4 /* 349. 两个数组的交集.swift */; };
 		F84D776A254ABDBD00CD31E0 /* 129. 求根到叶子节点数字之和.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84D7769254ABDBD00CD31E0 /* 129. 求根到叶子节点数字之和.swift */; };
 		F855B61025B13381006A9D06 /* 947. 移除最多的同行或同列石头 .swift in Sources */ = {isa = PBXBuildFile; fileRef = F855B60F25B13381006A9D06 /* 947. 移除最多的同行或同列石头 .swift */; };
+		F858707925B6792E00B670D7 /* 1584. 连接所有点的最小费用.swift in Sources */ = {isa = PBXBuildFile; fileRef = F858707825B6792E00B670D7 /* 1584. 连接所有点的最小费用.swift */; };
+		F858715425B6EA4800B670D7 /* 200. 岛屿数量.swift in Sources */ = {isa = PBXBuildFile; fileRef = F858715325B6EA4800B670D7 /* 200. 岛屿数量.swift */; };
+		F858715925B7CA9500B670D7 /* 628. 三个数的最大乘积.swift in Sources */ = {isa = PBXBuildFile; fileRef = F858715825B7CA9500B670D7 /* 628. 三个数的最大乘积.swift */; };
+		F866E49325B964800076CE4E /* 1489. 找到最小生成树里的关键边和伪关键边.swift in Sources */ = {isa = PBXBuildFile; fileRef = F866E49225B964800076CE4E /* 1489. 找到最小生成树里的关键边和伪关键边.swift */; };
+		F866E68A25BB1D260076CE4E /* 1283. 使结果不超过阈值的最小除数.swift in Sources */ = {isa = PBXBuildFile; fileRef = F866E68925BB1D260076CE4E /* 1283. 使结果不超过阈值的最小除数.swift */; };
 		F8896D19255CEBED008E131D /* 922. 按奇偶排序数组 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8896D18255CEBED008E131D /* 922. 按奇偶排序数组 II.swift */; };
 		F889CBA82560CE720049C446 /* 402. 移掉K位数字.swift in Sources */ = {isa = PBXBuildFile; fileRef = F889CBA72560CE720049C446 /* 402. 移掉K位数字.swift */; };
 		F889CC6B256108DD0049C446 /* 405. 数字转换为十六进制数 .swift in Sources */ = {isa = PBXBuildFile; fileRef = F889CC6A256108DD0049C446 /* 405. 数字转换为十六进制数 .swift */; };
@@ -274,6 +279,11 @@
 		F840C528254F9BBF008DDFC4 /* 349. 两个数组的交集.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "349. 两个数组的交集.swift"; sourceTree = "<group>"; };
 		F84D7769254ABDBD00CD31E0 /* 129. 求根到叶子节点数字之和.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "129. 求根到叶子节点数字之和.swift"; sourceTree = "<group>"; };
 		F855B60F25B13381006A9D06 /* 947. 移除最多的同行或同列石头 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "947. 移除最多的同行或同列石头 .swift"; sourceTree = "<group>"; };
+		F858707825B6792E00B670D7 /* 1584. 连接所有点的最小费用.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1584. 连接所有点的最小费用.swift"; sourceTree = "<group>"; };
+		F858715325B6EA4800B670D7 /* 200. 岛屿数量.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "200. 岛屿数量.swift"; sourceTree = "<group>"; };
+		F858715825B7CA9500B670D7 /* 628. 三个数的最大乘积.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "628. 三个数的最大乘积.swift"; sourceTree = "<group>"; };
+		F866E49225B964800076CE4E /* 1489. 找到最小生成树里的关键边和伪关键边.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1489. 找到最小生成树里的关键边和伪关键边.swift"; sourceTree = "<group>"; };
+		F866E68925BB1D260076CE4E /* 1283. 使结果不超过阈值的最小除数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1283. 使结果不超过阈值的最小除数.swift"; sourceTree = "<group>"; };
 		F8896D18255CEBED008E131D /* 922. 按奇偶排序数组 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "922. 按奇偶排序数组 II.swift"; sourceTree = "<group>"; };
 		F889CBA72560CE720049C446 /* 402. 移掉K位数字.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "402. 移掉K位数字.swift"; sourceTree = "<group>"; };
 		F889CC6A256108DD0049C446 /* 405. 数字转换为十六进制数 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "405. 数字转换为十六进制数 .swift"; sourceTree = "<group>"; };
@@ -483,12 +493,18 @@
 				F855B60F25B13381006A9D06 /* 947. 移除最多的同行或同列石头 .swift */,
 				81FD32C125AADD2400774231 /* 228. 汇总区间 .swift */,
 				81FD32C425AF45DE00774231 /* 684. 冗余连接.swift */,
+				F858707825B6792E00B670D7 /* 1584. 连接所有点的最小费用.swift */,
 				81FD32C725B305D500774231 /* 803. 打砖块.swift */,
 				81FD32CB25B4133300774231 /* 1232. 缀点成线.swift */,
 				81C79DE025B4999100885FF1 /* 721. 账户合并.swift */,
 				81C79DE325BA59AC00885FF1 /*  721. 账户合并.swift */,
 				81C79E0625BC342200885FF1 /* 1319. 连通网络的操作次数.swift */,
 				81C79E7525BD0A9200885FF1 /* 674. 最长连续递增序列.swift */,
+				F858715325B6EA4800B670D7 /* 200. 岛屿数量.swift */,
+				F858715825B7CA9500B670D7 /* 628. 三个数的最大乘积.swift */,
+				F866E49225B964800076CE4E /* 1489. 找到最小生成树里的关键边和伪关键边.swift */,
+				F866E68925BB1D260076CE4E /* 1283. 使结果不超过阈值的最小除数.swift */,
+
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -552,6 +568,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				81FE1FAD24C34DC7001765E5 /* 826-安排工作以达到最大收益.swift in Sources */,
+				F858715925B7CA9500B670D7 /* 628. 三个数的最大乘积.swift in Sources */,
 				F889CC6E25613FE00049C446 /* 15. 三数之和.swift in Sources */,
 				81E9F2442560304C00E2F4D7 /* 1122. 数组的相对排序.swift in Sources */,
 				F8B9CC4825787C4A00C9696A /* 204. 计数质数 .swift in Sources */,
@@ -567,14 +584,17 @@
 				81C79E7625BD0A9200885FF1 /* 674. 最长连续递增序列.swift in Sources */,
 				81FD32CC25B4133300774231 /* 1232. 缀点成线.swift in Sources */,
 				81EBE6072598DCFD00F8AAC0 /* 103. 二叉树的锯齿形层序遍历.swift in Sources */,
+				F866E68A25BB1D260076CE4E /* 1283. 使结果不超过阈值的最小除数.swift in Sources */,
 				81E60E8A23A088D500AAE3EA /* 89-格雷编码.swift in Sources */,
 				818EF0C5258BB3B60066399D /* 714. 买卖股票的最佳时机含手续费.swift in Sources */,
 				818BEF4023A22B8200382977 /* 109-有序链表转换二叉搜索树.swift in Sources */,
+				F858715425B6EA4800B670D7 /* 200. 岛屿数量.swift in Sources */,
 				81FF6F4823B8B2A700814D5B /* 5296-两棵二叉搜索树中的所有元素.swift in Sources */,
 				F8B0793625823AC0009B33C0 /* 207. 课程表.swift in Sources */,
 				F889CC6B256108DD0049C446 /* 405. 数字转换为十六进制数 .swift in Sources */,
 				81E1557A255222DB00FB7360 /* 57. 插入区间.swift in Sources */,
 				F8A5924725A55BF100F57560 /* 399. 除法求值.swift in Sources */,
+				F858707925B6792E00B670D7 /* 1584. 连接所有点的最小费用.swift in Sources */,
 				F8AF4734256790330027B3EA /* 147. 对链表进行插入排序.swift in Sources */,
 				813FAF7E25890E7D00892072 /* 738. 单调递增的数字.swift in Sources */,
 				81E9F24B25603A7100E2F4D7 /* 516. 最长回文子序列.swift in Sources */,
@@ -609,6 +629,7 @@
 				F8AF49D0256B46EF0027B3EA /* 34. 在排序数组中查找元素的第一个和最后一个位置.swift in Sources */,
 				81C9AAB12533D33A0007C839 /* 530. 二叉搜索树的最小绝对差.swift in Sources */,
 				81949E0D24D7B7AB00823823 /* 1041-困于环中的机器人.swift in Sources */,
+				F866E49325B964800076CE4E /* 1489. 找到最小生成树里的关键边和伪关键边.swift in Sources */,
 				F8C8F10425A7306D00E302FB /* 477. 汉明距离总和.swift in Sources */,
 				81A54ED323B70F6A00EE2CCC /* 60-第k个排列.swift in Sources */,
 				F8F872A7254908C20040A8B0 /* 1207. 独一无二的出现次数.swift in Sources */,
