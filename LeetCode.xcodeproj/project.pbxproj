@@ -74,6 +74,9 @@
 		81C1FC43239E1D6F00F2271B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C1FC42239E1D6F00F2271B /* main.swift */; };
 		81C1FC4B239E205E00F2271B /* 31-下一个排列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C1FC4A239E205E00F2271B /* 31-下一个排列.swift */; };
 		81C79DE125B4999100885FF1 /* 721. 账户合并.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C79DE025B4999100885FF1 /* 721. 账户合并.swift */; };
+		81C79DE425BA59AC00885FF1 /*  721. 账户合并.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C79DE325BA59AC00885FF1 /*  721. 账户合并.swift */; };
+		81C79E0725BC342200885FF1 /* 1319. 连通网络的操作次数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C79E0625BC342200885FF1 /* 1319. 连通网络的操作次数.swift */; };
+		81C79E7625BD0A9200885FF1 /* 674. 最长连续递增序列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C79E7525BD0A9200885FF1 /* 674. 最长连续递增序列.swift */; };
 		81C9AAB12533D33A0007C839 /* 530. 二叉搜索树的最小绝对差.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C9AAB02533D33A0007C839 /* 530. 二叉搜索树的最小绝对差.swift */; };
 		81E1555F2550D81F00FB7360 /* 941. 有效的山脉数组.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81E1555E2550D81F00FB7360 /* 941. 有效的山脉数组.swift */; };
 		81E1557A255222DB00FB7360 /* 57. 插入区间.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81E15579255222DB00FB7360 /* 57. 插入区间.swift */; };
@@ -239,6 +242,9 @@
 		81C1FC42239E1D6F00F2271B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		81C1FC4A239E205E00F2271B /* 31-下一个排列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "31-下一个排列.swift"; sourceTree = "<group>"; };
 		81C79DE025B4999100885FF1 /* 721. 账户合并.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "721. 账户合并.swift"; sourceTree = "<group>"; };
+		81C79DE325BA59AC00885FF1 /*  721. 账户合并.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = " 721. 账户合并.swift"; sourceTree = "<group>"; };
+		81C79E0625BC342200885FF1 /* 1319. 连通网络的操作次数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1319. 连通网络的操作次数.swift"; sourceTree = "<group>"; };
+		81C79E7525BD0A9200885FF1 /* 674. 最长连续递增序列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "674. 最长连续递增序列.swift"; sourceTree = "<group>"; };
 		81C9AAB02533D33A0007C839 /* 530. 二叉搜索树的最小绝对差.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "530. 二叉搜索树的最小绝对差.swift"; sourceTree = "<group>"; };
 		81E1555E2550D81F00FB7360 /* 941. 有效的山脉数组.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "941. 有效的山脉数组.swift"; sourceTree = "<group>"; };
 		81E15579255222DB00FB7360 /* 57. 插入区间.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "57. 插入区间.swift"; sourceTree = "<group>"; };
@@ -495,6 +501,9 @@
 				81FD32C725B305D500774231 /* 803. 打砖块.swift */,
 				81FD32CB25B4133300774231 /* 1232. 缀点成线.swift */,
 				81C79DE025B4999100885FF1 /* 721. 账户合并.swift */,
+				81C79DE325BA59AC00885FF1 /*  721. 账户合并.swift */,
+				81C79E0625BC342200885FF1 /* 1319. 连通网络的操作次数.swift */,
+				81C79E7525BD0A9200885FF1 /* 674. 最长连续递增序列.swift */,
 				F858715325B6EA4800B670D7 /* 200. 岛屿数量.swift */,
 				F858715825B7CA9500B670D7 /* 628. 三个数的最大乘积.swift */,
 				F866E49225B964800076CE4E /* 1489. 找到最小生成树里的关键边和伪关键边.swift */,
@@ -577,6 +586,7 @@
 				F84D776A254ABDBD00CD31E0 /* 129. 求根到叶子节点数字之和.swift in Sources */,
 				817CEAF52561FA9600105A26 /* 13. 罗马数字转整数.swift in Sources */,
 				F8C8F0FE25A6EF8F00E302FB /* 547. 省份数量.swift in Sources */,
+				81C79E7625BD0A9200885FF1 /* 674. 最长连续递增序列.swift in Sources */,
 				81FD32CC25B4133300774231 /* 1232. 缀点成线.swift in Sources */,
 				81EBE6072598DCFD00F8AAC0 /* 103. 二叉树的锯齿形层序遍历.swift in Sources */,
 				F866E68A25BB1D260076CE4E /* 1283. 使结果不超过阈值的最小除数.swift in Sources */,
@@ -608,6 +618,7 @@
 				F8B072DB257F1893009B33C0 /* 842. 将数组拆分成斐波那契序列.swift in Sources */,
 				81EBE60A259DE02E00F8AAC0 /* 435. 无重叠区间.swift in Sources */,
 				81A54DC623A9D53C00EE2CCC /* 309-最佳买卖股票时机含冷冻期.swift in Sources */,
+				81C79E0725BC342200885FF1 /* 1319. 连通网络的操作次数.swift in Sources */,
 				817CEAF8256417DD00105A26 /* 1030. 距离顺序排列矩阵单元格.swift in Sources */,
 				813515B225A3758E00DAB7DA /* 830. 较大分组的位置.swift in Sources */,
 				81654A2A25351C3400848BEF /* 24. 两两交换链表中的节点.swift in Sources */,
@@ -649,6 +660,7 @@
 				8130A467259F8C7D0076BC82 /* 239. 滑动窗口最大值.swift in Sources */,
 				81C1FC43239E1D6F00F2271B /* main.swift in Sources */,
 				F8AF47632568C3990027B3EA /* 148. 排序链表.swift in Sources */,
+				81C79DE425BA59AC00885FF1 /*  721. 账户合并.swift in Sources */,
 				F8AB690725554A26005D0EC4 /* 1356. 根据数字二进制下 1 的数目排序.swift in Sources */,
 				81A54EC123B4490E00EE2CCC /* 1104-二叉树寻路.swift in Sources */,
 				F8A5924225A340E100F57560 /* 面试题 17.04. 消失的数字.swift in Sources */,
