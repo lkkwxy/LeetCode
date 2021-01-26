@@ -43,7 +43,4 @@ func squareNumberCount(_ nums:[Int]) -> Int {
     return count
 }
 
-
-let n = 5
-let edges = [44,22,33,11,1]
-smallestDivisor(edges, 5)
+regionsBySlashes([" /","/ "])

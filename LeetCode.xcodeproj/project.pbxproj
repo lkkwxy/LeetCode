@@ -115,6 +115,8 @@
 		F858715925B7CA9500B670D7 /* 628. 三个数的最大乘积.swift in Sources */ = {isa = PBXBuildFile; fileRef = F858715825B7CA9500B670D7 /* 628. 三个数的最大乘积.swift */; };
 		F866E49325B964800076CE4E /* 1489. 找到最小生成树里的关键边和伪关键边.swift in Sources */ = {isa = PBXBuildFile; fileRef = F866E49225B964800076CE4E /* 1489. 找到最小生成树里的关键边和伪关键边.swift */; };
 		F866E68A25BB1D260076CE4E /* 1283. 使结果不超过阈值的最小除数.swift in Sources */ = {isa = PBXBuildFile; fileRef = F866E68925BB1D260076CE4E /* 1283. 使结果不超过阈值的最小除数.swift */; };
+		F866E68D25BE63670076CE4E /* 959. 由斜杠划分区域.swift in Sources */ = {isa = PBXBuildFile; fileRef = F866E68C25BE63670076CE4E /* 959. 由斜杠划分区域.swift */; };
+		F866E69025BFAED10076CE4E /* 1128. 等价多米诺骨牌对的数量.swift in Sources */ = {isa = PBXBuildFile; fileRef = F866E68F25BFAED10076CE4E /* 1128. 等价多米诺骨牌对的数量.swift */; };
 		F8896D19255CEBED008E131D /* 922. 按奇偶排序数组 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8896D18255CEBED008E131D /* 922. 按奇偶排序数组 II.swift */; };
 		F889CBA82560CE720049C446 /* 402. 移掉K位数字.swift in Sources */ = {isa = PBXBuildFile; fileRef = F889CBA72560CE720049C446 /* 402. 移掉K位数字.swift */; };
 		F889CC6B256108DD0049C446 /* 405. 数字转换为十六进制数 .swift in Sources */ = {isa = PBXBuildFile; fileRef = F889CC6A256108DD0049C446 /* 405. 数字转换为十六进制数 .swift */; };
@@ -278,6 +280,8 @@
 		F858715825B7CA9500B670D7 /* 628. 三个数的最大乘积.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "628. 三个数的最大乘积.swift"; sourceTree = "<group>"; };
 		F866E49225B964800076CE4E /* 1489. 找到最小生成树里的关键边和伪关键边.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1489. 找到最小生成树里的关键边和伪关键边.swift"; sourceTree = "<group>"; };
 		F866E68925BB1D260076CE4E /* 1283. 使结果不超过阈值的最小除数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1283. 使结果不超过阈值的最小除数.swift"; sourceTree = "<group>"; };
+		F866E68C25BE63670076CE4E /* 959. 由斜杠划分区域.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "959. 由斜杠划分区域.swift"; sourceTree = "<group>"; };
+		F866E68F25BFAED10076CE4E /* 1128. 等价多米诺骨牌对的数量.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1128. 等价多米诺骨牌对的数量.swift"; sourceTree = "<group>"; };
 		F8896D18255CEBED008E131D /* 922. 按奇偶排序数组 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "922. 按奇偶排序数组 II.swift"; sourceTree = "<group>"; };
 		F889CBA72560CE720049C446 /* 402. 移掉K位数字.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "402. 移掉K位数字.swift"; sourceTree = "<group>"; };
 		F889CC6A256108DD0049C446 /* 405. 数字转换为十六进制数 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "405. 数字转换为十六进制数 .swift"; sourceTree = "<group>"; };
@@ -495,6 +499,8 @@
 				F858715825B7CA9500B670D7 /* 628. 三个数的最大乘积.swift */,
 				F866E49225B964800076CE4E /* 1489. 找到最小生成树里的关键边和伪关键边.swift */,
 				F866E68925BB1D260076CE4E /* 1283. 使结果不超过阈值的最小除数.swift */,
+				F866E68C25BE63670076CE4E /* 959. 由斜杠划分区域.swift */,
+				F866E68F25BFAED10076CE4E /* 1128. 等价多米诺骨牌对的数量.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -595,6 +601,7 @@
 				818BEF4923A377C700382977 /* 682-棒球比赛.swift in Sources */,
 				81654A2D25366BDD00848BEF /* 1002. 查找常用字符.swift in Sources */,
 				81A54EC723B5D5EA00EE2CCC /* 496-下一个更大元素 I.swift in Sources */,
+				F866E68D25BE63670076CE4E /* 959. 由斜杠划分区域.swift in Sources */,
 				8130A464259F79970076BC82 /* 605. 种花问题.swift in Sources */,
 				F840C529254F9BBF008DDFC4 /* 349. 两个数组的交集.swift in Sources */,
 				818BEF4723A363A500382977 /* 796-旋转字符串.swift in Sources */,
@@ -683,6 +690,7 @@
 				81A54E5E23ADC6FF00EE2CCC /* 304-二维区域和检索 - 矩阵不可变.swift in Sources */,
 				F8A5920B25A2E84B00F57560 /* 641. 设计循环双端队列.swift in Sources */,
 				81FD32C825B305D500774231 /* 803. 打砖块.swift in Sources */,
+				F866E69025BFAED10076CE4E /* 1128. 等价多米诺骨牌对的数量.swift in Sources */,
 				81A54E3623AB502C00EE2CCC /* 876-链表的中间结点.swift in Sources */,
 				81FF6F8423C2D0DF00814D5B /* 504-七进制数.swift in Sources */,
 				81A54EC923B5DB1700EE2CCC /* 排序.swift in Sources */,
