@@ -120,10 +120,12 @@
 		F866E68A25BB1D260076CE4E /* 1283. 使结果不超过阈值的最小除数.swift in Sources */ = {isa = PBXBuildFile; fileRef = F866E68925BB1D260076CE4E /* 1283. 使结果不超过阈值的最小除数.swift */; };
 		F866E68D25BE63670076CE4E /* 959. 由斜杠划分区域.swift in Sources */ = {isa = PBXBuildFile; fileRef = F866E68C25BE63670076CE4E /* 959. 由斜杠划分区域.swift */; };
 		F866E69025BFAED10076CE4E /* 1128. 等价多米诺骨牌对的数量.swift in Sources */ = {isa = PBXBuildFile; fileRef = F866E68F25BFAED10076CE4E /* 1128. 等价多米诺骨牌对的数量.swift */; };
+		F866E69425BFBF330076CE4E /* 1218. 最长定差子序列.swift in Sources */ = {isa = PBXBuildFile; fileRef = F866E69325BFBF330076CE4E /* 1218. 最长定差子序列.swift */; };
 		F8896D19255CEBED008E131D /* 922. 按奇偶排序数组 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8896D18255CEBED008E131D /* 922. 按奇偶排序数组 II.swift */; };
 		F889CBA82560CE720049C446 /* 402. 移掉K位数字.swift in Sources */ = {isa = PBXBuildFile; fileRef = F889CBA72560CE720049C446 /* 402. 移掉K位数字.swift */; };
 		F889CC6B256108DD0049C446 /* 405. 数字转换为十六进制数 .swift in Sources */ = {isa = PBXBuildFile; fileRef = F889CC6A256108DD0049C446 /* 405. 数字转换为十六进制数 .swift */; };
 		F889CC6E25613FE00049C446 /* 15. 三数之和.swift in Sources */ = {isa = PBXBuildFile; fileRef = F889CC6D25613FE00049C446 /* 15. 三数之和.swift */; };
+		F89419C725C104FA0045B201 /* 1579. 保证图可完全遍历.swift in Sources */ = {isa = PBXBuildFile; fileRef = F89419C625C104FA0045B201 /* 1579. 保证图可完全遍历.swift */; };
 		F8A49034255E30DD0045DD43 /* 328. 奇偶链表.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8A49033255E30DD0045DD43 /* 328. 奇偶链表.swift */; };
 		F8A5920B25A2E84B00F57560 /* 641. 设计循环双端队列.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8A5920A25A2E84B00F57560 /* 641. 设计循环双端队列.swift */; };
 		F8A5921825A2FD0E00F57560 /* 646. 最长数对链.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8A5921725A2FD0E00F57560 /* 646. 最长数对链.swift */; };
@@ -288,10 +290,12 @@
 		F866E68925BB1D260076CE4E /* 1283. 使结果不超过阈值的最小除数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1283. 使结果不超过阈值的最小除数.swift"; sourceTree = "<group>"; };
 		F866E68C25BE63670076CE4E /* 959. 由斜杠划分区域.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "959. 由斜杠划分区域.swift"; sourceTree = "<group>"; };
 		F866E68F25BFAED10076CE4E /* 1128. 等价多米诺骨牌对的数量.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1128. 等价多米诺骨牌对的数量.swift"; sourceTree = "<group>"; };
+		F866E69325BFBF330076CE4E /* 1218. 最长定差子序列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1218. 最长定差子序列.swift"; sourceTree = "<group>"; };
 		F8896D18255CEBED008E131D /* 922. 按奇偶排序数组 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "922. 按奇偶排序数组 II.swift"; sourceTree = "<group>"; };
 		F889CBA72560CE720049C446 /* 402. 移掉K位数字.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "402. 移掉K位数字.swift"; sourceTree = "<group>"; };
 		F889CC6A256108DD0049C446 /* 405. 数字转换为十六进制数 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "405. 数字转换为十六进制数 .swift"; sourceTree = "<group>"; };
 		F889CC6D25613FE00049C446 /* 15. 三数之和.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "15. 三数之和.swift"; sourceTree = "<group>"; };
+		F89419C625C104FA0045B201 /* 1579. 保证图可完全遍历.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1579. 保证图可完全遍历.swift"; sourceTree = "<group>"; };
 		F8A49033255E30DD0045DD43 /* 328. 奇偶链表.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "328. 奇偶链表.swift"; sourceTree = "<group>"; };
 		F8A5920A25A2E84B00F57560 /* 641. 设计循环双端队列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "641. 设计循环双端队列.swift"; sourceTree = "<group>"; };
 		F8A5921725A2FD0E00F57560 /* 646. 最长数对链.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "646. 最长数对链.swift"; sourceTree = "<group>"; };
@@ -510,6 +514,8 @@
 				F866E68925BB1D260076CE4E /* 1283. 使结果不超过阈值的最小除数.swift */,
 				F866E68C25BE63670076CE4E /* 959. 由斜杠划分区域.swift */,
 				F866E68F25BFAED10076CE4E /* 1128. 等价多米诺骨牌对的数量.swift */,
+				F866E69325BFBF330076CE4E /* 1218. 最长定差子序列.swift */,
+				F89419C625C104FA0045B201 /* 1579. 保证图可完全遍历.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -633,6 +639,7 @@
 				F8896D19255CEBED008E131D /* 922. 按奇偶排序数组 II.swift in Sources */,
 				F8B0756A2581BBBF009B33C0 /* 860. 柠檬水找零.swift in Sources */,
 				F8AF49D0256B46EF0027B3EA /* 34. 在排序数组中查找元素的第一个和最后一个位置.swift in Sources */,
+				F866E69425BFBF330076CE4E /* 1218. 最长定差子序列.swift in Sources */,
 				81C9AAB12533D33A0007C839 /* 530. 二叉搜索树的最小绝对差.swift in Sources */,
 				81949E0D24D7B7AB00823823 /* 1041-困于环中的机器人.swift in Sources */,
 				F866E49325B964800076CE4E /* 1489. 找到最小生成树里的关键边和伪关键边.swift in Sources */,
@@ -688,6 +695,7 @@
 				811D6F6B256A62920034D56B /* 242. 有效的字母异位词.swift in Sources */,
 				81A54E8B23B05E0200EE2CCC /* 5292-划分数组为连续数字的集合.swift in Sources */,
 				81A54ECD23B6626A00EE2CCC /* 167-两数之和 II - 输入有序数组.swift in Sources */,
+				F89419C725C104FA0045B201 /* 1579. 保证图可完全遍历.swift in Sources */,
 				F8B9C9092574997500C9696A /* 976. 三角形的最大周长.swift in Sources */,
 				81FF6F5923BD90A600814D5B /* 905-按奇偶排序数组.swift in Sources */,
 				F8209DBA258DD08000BB4A3B /* 48. 旋转图像.swift in Sources */,

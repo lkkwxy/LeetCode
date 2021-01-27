@@ -42,3 +42,21 @@ func squareNumberCount(_ nums:[Int]) -> Int {
     }
     return count
 }
+
+class Person: Hashable {
+    var name: String
+    init(name: String) {
+        self.name = name
+    }
+    
+    static func == (lhs: Person, rhs: Person) -> Bool {
+        print("lhs === rhs")
+        return lhs.name == rhs.name
+    }
+    
+    func hash(into hasher: inout Hasher) {
+        hasher.combine(name)
+    }
+}
+
+maxNumEdgesToRemove(4,[[3,1,2],[3,2,3],[1,1,3],[1,2,4],[1,1,2],[2,3,4]])

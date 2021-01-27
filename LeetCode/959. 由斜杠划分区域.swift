@@ -66,7 +66,7 @@ private class UnionFind {
         if fnum1 == fnum2 {
             return false
         }
-        if fnum1 > fnum2 {
+        if rank[fnum1] > rank[fnum2] {
             (fnum1, fnum2) = (fnum2, fnum1)
         }
         parent[fnum1] = fnum2
