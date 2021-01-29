@@ -9,7 +9,7 @@
 import Foundation
 func test111()  {
     let head = ListNode(4,ListNode(2,ListNode(1,ListNode(3))))
-    let h = sortList(head)
+    let _ = sortList(head)
     print("======")
 }
 func sortList(_ head: ListNode?) -> ListNode? {

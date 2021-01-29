@@ -13,7 +13,7 @@ func isPossibleDivide(_ nums: [Int], _ k: Int) -> Bool {
     for num in nums {
         map[num] = (map[num] ?? 0) + 1
     }
-    var sortedKeys = map.keys.sorted()
+    let sortedKeys = map.keys.sorted()
     var index = 0
     while index < sortedKeys.count {
         let key = sortedKeys[index]

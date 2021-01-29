@@ -69,7 +69,7 @@ func sortByBits(_ arr: [Int]) -> [Int] {
         return count
     }
     return arr.sorted { (item1, item2) -> Bool in
-        item1.nonzeroBitCount
+        
         let bisCount1 = bisCount(item1)
         let bisCount2 = bisCount(item2)
         return bisCount1 == bisCount2 ? item1 < item2 : bisCount1 < bisCount2
