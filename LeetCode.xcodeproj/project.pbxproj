@@ -15,6 +15,7 @@
 		8126336825707102007749B8 /* 454. 四数相加 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8126336725707102007749B8 /* 454. 四数相加 II.swift */; };
 		8130A464259F79970076BC82 /* 605. 种花问题.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8130A463259F79970076BC82 /* 605. 种花问题.swift */; };
 		8130A467259F8C7D0076BC82 /* 239. 滑动窗口最大值.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8130A466259F8C7D0076BC82 /* 239. 滑动窗口最大值.swift */; };
+		81313C3925C4654200179AE4 /* 1631. 最小体力消耗路径.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81313C3825C4654200179AE4 /* 1631. 最小体力消耗路径.swift */; };
 		813515B225A3758E00DAB7DA /* 830. 较大分组的位置.swift in Sources */ = {isa = PBXBuildFile; fileRef = 813515B125A3758E00DAB7DA /* 830. 较大分组的位置.swift */; };
 		8135161325A9D11900DAB7DA /* 123. 买卖股票的最佳时机 III.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8135161225A9D11900DAB7DA /* 123. 买卖股票的最佳时机 III.swift */; };
 		813FAF7E25890E7D00892072 /* 738. 单调递增的数字.swift in Sources */ = {isa = PBXBuildFile; fileRef = 813FAF7D25890E7D00892072 /* 738. 单调递增的数字.swift */; };
@@ -181,6 +182,7 @@
 		8126336725707102007749B8 /* 454. 四数相加 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "454. 四数相加 II.swift"; sourceTree = "<group>"; };
 		8130A463259F79970076BC82 /* 605. 种花问题.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "605. 种花问题.swift"; sourceTree = "<group>"; };
 		8130A466259F8C7D0076BC82 /* 239. 滑动窗口最大值.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "239. 滑动窗口最大值.swift"; sourceTree = "<group>"; };
+		81313C3825C4654200179AE4 /* 1631. 最小体力消耗路径.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1631. 最小体力消耗路径.swift"; sourceTree = "<group>"; };
 		813515B125A3758E00DAB7DA /* 830. 较大分组的位置.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "830. 较大分组的位置.swift"; sourceTree = "<group>"; };
 		8135161225A9D11900DAB7DA /* 123. 买卖股票的最佳时机 III.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "123. 买卖股票的最佳时机 III.swift"; sourceTree = "<group>"; };
 		813FAF7D25890E7D00892072 /* 738. 单调递增的数字.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "738. 单调递增的数字.swift"; sourceTree = "<group>"; };
@@ -510,6 +512,7 @@
 				F866E68925BB1D260076CE4E /* 1283. 使结果不超过阈值的最小除数.swift */,
 				F866E68C25BE63670076CE4E /* 959. 由斜杠划分区域.swift */,
 				F866E68F25BFAED10076CE4E /* 1128. 等价多米诺骨牌对的数量.swift */,
+				81313C3825C4654200179AE4 /* 1631. 最小体力消耗路径.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -667,6 +670,7 @@
 				81EBE6002598D01A00F8AAC0 /* 85. 最大矩形.swift in Sources */,
 				81FE1FAB24C13933001765E5 /* 35-搜索插入位置.swift in Sources */,
 				81FF6F4A23B8BEC000814D5B /* 5297-跳跃游戏 III.swift in Sources */,
+				81313C3925C4654200179AE4 /* 1631. 最小体力消耗路径.swift in Sources */,
 				81263362256DCBF5007749B8 /* 1370. 上升下降字符串.swift in Sources */,
 				817CEAFE2565DC4500105A26 /* 283. 移动零.swift in Sources */,
 				81C79DE125B4999100885FF1 /* 721. 账户合并.swift in Sources */,
