@@ -112,6 +112,7 @@
 		F8209DBA258DD08000BB4A3B /* 48. 旋转图像.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8209DB9258DD08000BB4A3B /* 48. 旋转图像.swift */; };
 		F8209E202590C68600BB4A3B /* 746. 使用最小花费爬楼梯.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8209E1F2590C68600BB4A3B /* 746. 使用最小花费爬楼梯.swift */; };
 		F840C529254F9BBF008DDFC4 /* 349. 两个数组的交集.swift in Sources */ = {isa = PBXBuildFile; fileRef = F840C528254F9BBF008DDFC4 /* 349. 两个数组的交集.swift */; };
+		F842E8DC25C1996B00437C0D /* 671. 二叉树中第二小的节点.swift in Sources */ = {isa = PBXBuildFile; fileRef = F842E8DB25C1996B00437C0D /* 671. 二叉树中第二小的节点.swift */; };
 		F84D776A254ABDBD00CD31E0 /* 129. 求根到叶子节点数字之和.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84D7769254ABDBD00CD31E0 /* 129. 求根到叶子节点数字之和.swift */; };
 		F855B61025B13381006A9D06 /* 947. 移除最多的同行或同列石头 .swift in Sources */ = {isa = PBXBuildFile; fileRef = F855B60F25B13381006A9D06 /* 947. 移除最多的同行或同列石头 .swift */; };
 		F858707925B6792E00B670D7 /* 1584. 连接所有点的最小费用.swift in Sources */ = {isa = PBXBuildFile; fileRef = F858707825B6792E00B670D7 /* 1584. 连接所有点的最小费用.swift */; };
@@ -121,10 +122,13 @@
 		F866E68A25BB1D260076CE4E /* 1283. 使结果不超过阈值的最小除数.swift in Sources */ = {isa = PBXBuildFile; fileRef = F866E68925BB1D260076CE4E /* 1283. 使结果不超过阈值的最小除数.swift */; };
 		F866E68D25BE63670076CE4E /* 959. 由斜杠划分区域.swift in Sources */ = {isa = PBXBuildFile; fileRef = F866E68C25BE63670076CE4E /* 959. 由斜杠划分区域.swift */; };
 		F866E69025BFAED10076CE4E /* 1128. 等价多米诺骨牌对的数量.swift in Sources */ = {isa = PBXBuildFile; fileRef = F866E68F25BFAED10076CE4E /* 1128. 等价多米诺骨牌对的数量.swift */; };
+		F866E69425BFBF330076CE4E /* 1218. 最长定差子序列.swift in Sources */ = {isa = PBXBuildFile; fileRef = F866E69325BFBF330076CE4E /* 1218. 最长定差子序列.swift */; };
+		F874CED625C2BF18005B5FB8 /* 1033. 移动石子直到连续.swift in Sources */ = {isa = PBXBuildFile; fileRef = F874CED525C2BF18005B5FB8 /* 1033. 移动石子直到连续.swift */; };
 		F8896D19255CEBED008E131D /* 922. 按奇偶排序数组 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8896D18255CEBED008E131D /* 922. 按奇偶排序数组 II.swift */; };
 		F889CBA82560CE720049C446 /* 402. 移掉K位数字.swift in Sources */ = {isa = PBXBuildFile; fileRef = F889CBA72560CE720049C446 /* 402. 移掉K位数字.swift */; };
 		F889CC6B256108DD0049C446 /* 405. 数字转换为十六进制数 .swift in Sources */ = {isa = PBXBuildFile; fileRef = F889CC6A256108DD0049C446 /* 405. 数字转换为十六进制数 .swift */; };
 		F889CC6E25613FE00049C446 /* 15. 三数之和.swift in Sources */ = {isa = PBXBuildFile; fileRef = F889CC6D25613FE00049C446 /* 15. 三数之和.swift */; };
+		F89419C725C104FA0045B201 /* 1579. 保证图可完全遍历.swift in Sources */ = {isa = PBXBuildFile; fileRef = F89419C625C104FA0045B201 /* 1579. 保证图可完全遍历.swift */; };
 		F8A49034255E30DD0045DD43 /* 328. 奇偶链表.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8A49033255E30DD0045DD43 /* 328. 奇偶链表.swift */; };
 		F8A5920B25A2E84B00F57560 /* 641. 设计循环双端队列.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8A5920A25A2E84B00F57560 /* 641. 设计循环双端队列.swift */; };
 		F8A5921825A2FD0E00F57560 /* 646. 最长数对链.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8A5921725A2FD0E00F57560 /* 646. 最长数对链.swift */; };
@@ -281,6 +285,7 @@
 		F8209DB9258DD08000BB4A3B /* 48. 旋转图像.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "48. 旋转图像.swift"; sourceTree = "<group>"; };
 		F8209E1F2590C68600BB4A3B /* 746. 使用最小花费爬楼梯.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "746. 使用最小花费爬楼梯.swift"; sourceTree = "<group>"; };
 		F840C528254F9BBF008DDFC4 /* 349. 两个数组的交集.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "349. 两个数组的交集.swift"; sourceTree = "<group>"; };
+		F842E8DB25C1996B00437C0D /* 671. 二叉树中第二小的节点.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "671. 二叉树中第二小的节点.swift"; sourceTree = "<group>"; };
 		F84D7769254ABDBD00CD31E0 /* 129. 求根到叶子节点数字之和.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "129. 求根到叶子节点数字之和.swift"; sourceTree = "<group>"; };
 		F855B60F25B13381006A9D06 /* 947. 移除最多的同行或同列石头 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "947. 移除最多的同行或同列石头 .swift"; sourceTree = "<group>"; };
 		F858707825B6792E00B670D7 /* 1584. 连接所有点的最小费用.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1584. 连接所有点的最小费用.swift"; sourceTree = "<group>"; };
@@ -290,10 +295,13 @@
 		F866E68925BB1D260076CE4E /* 1283. 使结果不超过阈值的最小除数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1283. 使结果不超过阈值的最小除数.swift"; sourceTree = "<group>"; };
 		F866E68C25BE63670076CE4E /* 959. 由斜杠划分区域.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "959. 由斜杠划分区域.swift"; sourceTree = "<group>"; };
 		F866E68F25BFAED10076CE4E /* 1128. 等价多米诺骨牌对的数量.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1128. 等价多米诺骨牌对的数量.swift"; sourceTree = "<group>"; };
+		F866E69325BFBF330076CE4E /* 1218. 最长定差子序列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1218. 最长定差子序列.swift"; sourceTree = "<group>"; };
+		F874CED525C2BF18005B5FB8 /* 1033. 移动石子直到连续.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1033. 移动石子直到连续.swift"; sourceTree = "<group>"; };
 		F8896D18255CEBED008E131D /* 922. 按奇偶排序数组 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "922. 按奇偶排序数组 II.swift"; sourceTree = "<group>"; };
 		F889CBA72560CE720049C446 /* 402. 移掉K位数字.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "402. 移掉K位数字.swift"; sourceTree = "<group>"; };
 		F889CC6A256108DD0049C446 /* 405. 数字转换为十六进制数 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "405. 数字转换为十六进制数 .swift"; sourceTree = "<group>"; };
 		F889CC6D25613FE00049C446 /* 15. 三数之和.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "15. 三数之和.swift"; sourceTree = "<group>"; };
+		F89419C625C104FA0045B201 /* 1579. 保证图可完全遍历.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1579. 保证图可完全遍历.swift"; sourceTree = "<group>"; };
 		F8A49033255E30DD0045DD43 /* 328. 奇偶链表.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "328. 奇偶链表.swift"; sourceTree = "<group>"; };
 		F8A5920A25A2E84B00F57560 /* 641. 设计循环双端队列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "641. 设计循环双端队列.swift"; sourceTree = "<group>"; };
 		F8A5921725A2FD0E00F57560 /* 646. 最长数对链.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "646. 最长数对链.swift"; sourceTree = "<group>"; };
@@ -513,6 +521,10 @@
 				F866E68C25BE63670076CE4E /* 959. 由斜杠划分区域.swift */,
 				F866E68F25BFAED10076CE4E /* 1128. 等价多米诺骨牌对的数量.swift */,
 				81313C3825C4654200179AE4 /* 1631. 最小体力消耗路径.swift */,
+				F866E69325BFBF330076CE4E /* 1218. 最长定差子序列.swift */,
+				F89419C625C104FA0045B201 /* 1579. 保证图可完全遍历.swift */,
+				F842E8DB25C1996B00437C0D /* 671. 二叉树中第二小的节点.swift */,
+				F874CED525C2BF18005B5FB8 /* 1033. 移动石子直到连续.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -544,7 +556,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1120;
-				LastUpgradeCheck = 1120;
+				LastUpgradeCheck = 1240;
 				ORGANIZATIONNAME = "李坤坤";
 				TargetAttributes = {
 					81C1FC3E239E1D6F00F2271B = {
@@ -636,6 +648,7 @@
 				F8896D19255CEBED008E131D /* 922. 按奇偶排序数组 II.swift in Sources */,
 				F8B0756A2581BBBF009B33C0 /* 860. 柠檬水找零.swift in Sources */,
 				F8AF49D0256B46EF0027B3EA /* 34. 在排序数组中查找元素的第一个和最后一个位置.swift in Sources */,
+				F866E69425BFBF330076CE4E /* 1218. 最长定差子序列.swift in Sources */,
 				81C9AAB12533D33A0007C839 /* 530. 二叉搜索树的最小绝对差.swift in Sources */,
 				81949E0D24D7B7AB00823823 /* 1041-困于环中的机器人.swift in Sources */,
 				F866E49325B964800076CE4E /* 1489. 找到最小生成树里的关键边和伪关键边.swift in Sources */,
@@ -649,6 +662,7 @@
 				81A54EB823B1DD6A00EE2CCC /* 494-目标和.swift in Sources */,
 				F8C8F10725A7F69000E302FB /* 29. 两数相除.swift in Sources */,
 				F8AB679B2553FAAA005D0EC4 /* 127. 单词接龙.swift in Sources */,
+				F842E8DC25C1996B00437C0D /* 671. 二叉树中第二小的节点.swift in Sources */,
 				817CEAEF2561E2D400105A26 /* 406. 根据身高重建队列.swift in Sources */,
 				F8B0756725811494009B33C0 /* 63. 不同路径 II.swift in Sources */,
 				818BEF4523A33E2200382977 /* 889-根据前序和后序遍历构造二叉树.swift in Sources */,
@@ -679,6 +693,7 @@
 				81FF6F4C23B9938500814D5B /* 673-最长递增子序列的个数.swift in Sources */,
 				81A54E3423AB154F00EE2CCC /* 303-区域和检索 - 数组不可变.swift in Sources */,
 				81FF6F5B23BDBAEB00814D5B /* 724-寻找数组的中心索引.swift in Sources */,
+				F874CED625C2BF18005B5FB8 /* 1033. 移动石子直到连续.swift in Sources */,
 				818BEF3C23A1EF6E00382977 /* 1169-查询无效交易.swift in Sources */,
 				81FF6F5623BC5BE300814D5B /* 130-被围绕的区域.swift in Sources */,
 				81A54ECF23B662A500EE2CCC /* 删除链表中等于某个值得所有节点.swift in Sources */,
@@ -692,6 +707,7 @@
 				811D6F6B256A62920034D56B /* 242. 有效的字母异位词.swift in Sources */,
 				81A54E8B23B05E0200EE2CCC /* 5292-划分数组为连续数字的集合.swift in Sources */,
 				81A54ECD23B6626A00EE2CCC /* 167-两数之和 II - 输入有序数组.swift in Sources */,
+				F89419C725C104FA0045B201 /* 1579. 保证图可完全遍历.swift in Sources */,
 				F8B9C9092574997500C9696A /* 976. 三角形的最大周长.swift in Sources */,
 				81FF6F5923BD90A600814D5B /* 905-按奇偶排序数组.swift in Sources */,
 				F8209DBA258DD08000BB4A3B /* 48. 旋转图像.swift in Sources */,
@@ -759,6 +775,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -819,6 +836,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -849,6 +867,7 @@
 		81C1FC47239E1D6F00F2271B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
@@ -858,6 +877,7 @@
 		81C1FC48239E1D6F00F2271B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
