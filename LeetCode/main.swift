@@ -43,4 +43,4 @@ func squareNumberCount(_ nums:[Int]) -> Int {
     return count
 }
 
-swimInWater([[0,2],[1,3]])
+numSimilarGroups(["omv","ovm"])
