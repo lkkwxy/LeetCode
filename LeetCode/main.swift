@@ -44,3 +44,4 @@ func squareNumberCount(_ nums:[Int]) -> Int {
 }
 
 numSimilarGroups(["omv","ovm"])
+characterReplacement("ABAB", 2)
