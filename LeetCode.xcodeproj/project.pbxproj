@@ -13,6 +13,7 @@
 		81263362256DCBF5007749B8 /* 1370. 上升下降字符串.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81263361256DCBF5007749B8 /* 1370. 上升下降字符串.swift */; };
 		81263365256F1E81007749B8 /* 164. 最大间距.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81263364256F1E81007749B8 /* 164. 最大间距.swift */; };
 		8126336825707102007749B8 /* 454. 四数相加 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8126336725707102007749B8 /* 454. 四数相加 II.swift */; };
+		812DC86F25DF6811000E5840 /* 1004. 最大连续1的个数 III .swift in Sources */ = {isa = PBXBuildFile; fileRef = 812DC86E25DF6811000E5840 /* 1004. 最大连续1的个数 III .swift */; };
 		8130A464259F79970076BC82 /* 605. 种花问题.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8130A463259F79970076BC82 /* 605. 种花问题.swift */; };
 		8130A467259F8C7D0076BC82 /* 239. 滑动窗口最大值.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8130A466259F8C7D0076BC82 /* 239. 滑动窗口最大值.swift */; };
 		81313C3925C4654200179AE4 /* 1631. 最小体力消耗路径.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81313C3825C4654200179AE4 /* 1631. 最小体力消耗路径.swift */; };
@@ -187,6 +188,7 @@
 		81263361256DCBF5007749B8 /* 1370. 上升下降字符串.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1370. 上升下降字符串.swift"; sourceTree = "<group>"; };
 		81263364256F1E81007749B8 /* 164. 最大间距.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "164. 最大间距.swift"; sourceTree = "<group>"; };
 		8126336725707102007749B8 /* 454. 四数相加 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "454. 四数相加 II.swift"; sourceTree = "<group>"; };
+		812DC86E25DF6811000E5840 /* 1004. 最大连续1的个数 III .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1004. 最大连续1的个数 III .swift"; sourceTree = "<group>"; };
 		8130A463259F79970076BC82 /* 605. 种花问题.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "605. 种花问题.swift"; sourceTree = "<group>"; };
 		8130A466259F8C7D0076BC82 /* 239. 滑动窗口最大值.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "239. 滑动窗口最大值.swift"; sourceTree = "<group>"; };
 		81313C3825C4654200179AE4 /* 1631. 最小体力消耗路径.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1631. 最小体力消耗路径.swift"; sourceTree = "<group>"; };
@@ -534,6 +536,7 @@
 				81A7548B25C59DBA001EDE80 /* 778. 水位上升的泳池中游泳.swift */,
 				81A7548E25C5CCB3001EDE80 /* 839. 相似字符串组.swift */,
 				81A7549125C70DE9001EDE80 /* 888. 公平的糖果棒交换.swift */,
+				812DC86E25DF6811000E5840 /* 1004. 最大连续1的个数 III .swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -631,6 +634,7 @@
 				F8A5921825A2FD0E00F57560 /* 646. 最长数对链.swift in Sources */,
 				81A54ED123B6663200EE2CCC /* 100-相同的树.swift in Sources */,
 				81A54D9423A729F000EE2CCC /* 665-非递减数列.swift in Sources */,
+				812DC86F25DF6811000E5840 /* 1004. 最大连续1的个数 III .swift in Sources */,
 				F8B072E4258067E9009B33C0 /* 62. 不同路径.swift in Sources */,
 				818BEF4923A377C700382977 /* 682-棒球比赛.swift in Sources */,
 				81654A2D25366BDD00848BEF /* 1002. 查找常用字符.swift in Sources */,
