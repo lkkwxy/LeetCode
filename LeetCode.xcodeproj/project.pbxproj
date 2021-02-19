@@ -128,6 +128,8 @@
 		F866E69025BFAED10076CE4E /* 1128. 等价多米诺骨牌对的数量.swift in Sources */ = {isa = PBXBuildFile; fileRef = F866E68F25BFAED10076CE4E /* 1128. 等价多米诺骨牌对的数量.swift */; };
 		F866E69425BFBF330076CE4E /* 1218. 最长定差子序列.swift in Sources */ = {isa = PBXBuildFile; fileRef = F866E69325BFBF330076CE4E /* 1218. 最长定差子序列.swift */; };
 		F874CED625C2BF18005B5FB8 /* 1033. 移动石子直到连续.swift in Sources */ = {isa = PBXBuildFile; fileRef = F874CED525C2BF18005B5FB8 /* 1033. 移动石子直到连续.swift */; };
+		F874CF9025C8EE37005B5FB8 /* 424. 替换后的最长重复字符.swift in Sources */ = {isa = PBXBuildFile; fileRef = F874CF8F25C8EE37005B5FB8 /* 424. 替换后的最长重复字符.swift */; };
+		F880C06025CE54A7000EE3CC /* 643. 子数组最大平均数 I .swift in Sources */ = {isa = PBXBuildFile; fileRef = F880C05F25CE54A7000EE3CC /* 643. 子数组最大平均数 I .swift */; };
 		F8896D19255CEBED008E131D /* 922. 按奇偶排序数组 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8896D18255CEBED008E131D /* 922. 按奇偶排序数组 II.swift */; };
 		F889CBA82560CE720049C446 /* 402. 移掉K位数字.swift in Sources */ = {isa = PBXBuildFile; fileRef = F889CBA72560CE720049C446 /* 402. 移掉K位数字.swift */; };
 		F889CC6B256108DD0049C446 /* 405. 数字转换为十六进制数 .swift in Sources */ = {isa = PBXBuildFile; fileRef = F889CC6A256108DD0049C446 /* 405. 数字转换为十六进制数 .swift */; };
@@ -305,6 +307,8 @@
 		F866E68F25BFAED10076CE4E /* 1128. 等价多米诺骨牌对的数量.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1128. 等价多米诺骨牌对的数量.swift"; sourceTree = "<group>"; };
 		F866E69325BFBF330076CE4E /* 1218. 最长定差子序列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1218. 最长定差子序列.swift"; sourceTree = "<group>"; };
 		F874CED525C2BF18005B5FB8 /* 1033. 移动石子直到连续.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1033. 移动石子直到连续.swift"; sourceTree = "<group>"; };
+		F874CF8F25C8EE37005B5FB8 /* 424. 替换后的最长重复字符.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "424. 替换后的最长重复字符.swift"; sourceTree = "<group>"; };
+		F880C05F25CE54A7000EE3CC /* 643. 子数组最大平均数 I .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "643. 子数组最大平均数 I .swift"; sourceTree = "<group>"; };
 		F8896D18255CEBED008E131D /* 922. 按奇偶排序数组 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "922. 按奇偶排序数组 II.swift"; sourceTree = "<group>"; };
 		F889CBA72560CE720049C446 /* 402. 移掉K位数字.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "402. 移掉K位数字.swift"; sourceTree = "<group>"; };
 		F889CC6A256108DD0049C446 /* 405. 数字转换为十六进制数 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "405. 数字转换为十六进制数 .swift"; sourceTree = "<group>"; };
@@ -537,6 +541,8 @@
 				81A7548E25C5CCB3001EDE80 /* 839. 相似字符串组.swift */,
 				81A7549125C70DE9001EDE80 /* 888. 公平的糖果棒交换.swift */,
 				812DC86E25DF6811000E5840 /* 1004. 最大连续1的个数 III .swift */,
+				F874CF8F25C8EE37005B5FB8 /* 424. 替换后的最长重复字符.swift */,
+				F880C05F25CE54A7000EE3CC /* 643. 子数组最大平均数 I .swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -602,6 +608,7 @@
 				81FE1FAD24C34DC7001765E5 /* 826-安排工作以达到最大收益.swift in Sources */,
 				F858715925B7CA9500B670D7 /* 628. 三个数的最大乘积.swift in Sources */,
 				F889CC6E25613FE00049C446 /* 15. 三数之和.swift in Sources */,
+				F880C06025CE54A7000EE3CC /* 643. 子数组最大平均数 I .swift in Sources */,
 				81E9F2442560304C00E2F4D7 /* 1122. 数组的相对排序.swift in Sources */,
 				F8B9CC4825787C4A00C9696A /* 204. 计数质数 .swift in Sources */,
 				811D6F6E256B28CA0034D56B /* 452. 用最少数量的箭引爆气球.swift in Sources */,
@@ -729,6 +736,7 @@
 				81A7549225C70DE9001EDE80 /* 888. 公平的糖果棒交换.swift in Sources */,
 				81BF2CBE254642B500F2E47E /* 1365. 有多少小于当前数字的数字.swift in Sources */,
 				F8B9CC3D25772B9400C9696A /* 321. 拼接最大数.swift in Sources */,
+				F874CF9025C8EE37005B5FB8 /* 424. 替换后的最长重复字符.swift in Sources */,
 				81650D21239F43E400580543 /* 621-任务调度器.swift in Sources */,
 				F8209DB1258CDFE100BB4A3B /* 389. 找不同.swift in Sources */,
 				816209402557F992000C31B0 /* 122. 买卖股票的最佳时机 II.swift in Sources */,
