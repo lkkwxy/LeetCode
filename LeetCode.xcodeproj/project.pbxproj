@@ -16,6 +16,7 @@
 		812DC86F25DF6811000E5840 /* 1004. 最大连续1的个数 III .swift in Sources */ = {isa = PBXBuildFile; fileRef = 812DC86E25DF6811000E5840 /* 1004. 最大连续1的个数 III .swift */; };
 		812DC87325DFC6DD000E5840 /* 566. 重塑矩阵.swift in Sources */ = {isa = PBXBuildFile; fileRef = 812DC87225DFC6DD000E5840 /* 566. 重塑矩阵.swift */; };
 		812DC87625DFD6C3000E5840 /* 561. 数组拆分 I.swift in Sources */ = {isa = PBXBuildFile; fileRef = 812DC87525DFD6C3000E5840 /* 561. 数组拆分 I.swift */; };
+		812DC87925E0DBA2000E5840 /* 697. 数组的度.swift in Sources */ = {isa = PBXBuildFile; fileRef = 812DC87825E0DBA2000E5840 /* 697. 数组的度.swift */; };
 		8130A464259F79970076BC82 /* 605. 种花问题.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8130A463259F79970076BC82 /* 605. 种花问题.swift */; };
 		8130A467259F8C7D0076BC82 /* 239. 滑动窗口最大值.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8130A466259F8C7D0076BC82 /* 239. 滑动窗口最大值.swift */; };
 		81313C3925C4654200179AE4 /* 1631. 最小体力消耗路径.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81313C3825C4654200179AE4 /* 1631. 最小体力消耗路径.swift */; };
@@ -195,6 +196,7 @@
 		812DC86E25DF6811000E5840 /* 1004. 最大连续1的个数 III .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1004. 最大连续1的个数 III .swift"; sourceTree = "<group>"; };
 		812DC87225DFC6DD000E5840 /* 566. 重塑矩阵.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "566. 重塑矩阵.swift"; sourceTree = "<group>"; };
 		812DC87525DFD6C3000E5840 /* 561. 数组拆分 I.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "561. 数组拆分 I.swift"; sourceTree = "<group>"; };
+		812DC87825E0DBA2000E5840 /* 697. 数组的度.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "697. 数组的度.swift"; sourceTree = "<group>"; };
 		8130A463259F79970076BC82 /* 605. 种花问题.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "605. 种花问题.swift"; sourceTree = "<group>"; };
 		8130A466259F8C7D0076BC82 /* 239. 滑动窗口最大值.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "239. 滑动窗口最大值.swift"; sourceTree = "<group>"; };
 		81313C3825C4654200179AE4 /* 1631. 最小体力消耗路径.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1631. 最小体力消耗路径.swift"; sourceTree = "<group>"; };
@@ -549,6 +551,7 @@
 				F880C05F25CE54A7000EE3CC /* 643. 子数组最大平均数 I .swift */,
 				812DC87225DFC6DD000E5840 /* 566. 重塑矩阵.swift */,
 				812DC87525DFD6C3000E5840 /* 561. 数组拆分 I.swift */,
+				812DC87825E0DBA2000E5840 /* 697. 数组的度.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -709,6 +712,7 @@
 				81A54EC123B4490E00EE2CCC /* 1104-二叉树寻路.swift in Sources */,
 				F8A5924225A340E100F57560 /* 面试题 17.04. 消失的数字.swift in Sources */,
 				81EBE6002598D01A00F8AAC0 /* 85. 最大矩形.swift in Sources */,
+				812DC87925E0DBA2000E5840 /* 697. 数组的度.swift in Sources */,
 				81FE1FAB24C13933001765E5 /* 35-搜索插入位置.swift in Sources */,
 				81FF6F4A23B8BEC000814D5B /* 5297-跳跃游戏 III.swift in Sources */,
 				81313C3925C4654200179AE4 /* 1631. 最小体力消耗路径.swift in Sources */,
