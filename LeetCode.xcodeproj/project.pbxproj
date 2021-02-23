@@ -48,6 +48,7 @@
 		818BEF4923A377C700382977 /* 682-棒球比赛.swift in Sources */ = {isa = PBXBuildFile; fileRef = 818BEF4823A377C700382977 /* 682-棒球比赛.swift */; };
 		818EF0C5258BB3B60066399D /* 714. 买卖股票的最佳时机含手续费.swift in Sources */ = {isa = PBXBuildFile; fileRef = 818EF0C4258BB3B60066399D /* 714. 买卖股票的最佳时机含手续费.swift */; };
 		81949E0D24D7B7AB00823823 /* 1041-困于环中的机器人.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81949E0C24D7B7AB00823823 /* 1041-困于环中的机器人.swift */; };
+		819A1E3725E48298009D2511 /* 1052. 爱生气的书店老板.swift in Sources */ = {isa = PBXBuildFile; fileRef = 819A1E3625E48298009D2511 /* 1052. 爱生气的书店老板.swift */; };
 		81A54D9423A729F000EE2CCC /* 665-非递减数列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81A54D9323A729F000EE2CCC /* 665-非递减数列.swift */; };
 		81A54D9623A745B500EE2CCC /* 4-寻找两个有序数组的中位数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81A54D9523A745B500EE2CCC /* 4-寻找两个有序数组的中位数.swift */; };
 		81A54D9823A8752D00EE2CCC /* 6-Z 字形变换.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81A54D9723A8752D00EE2CCC /* 6-Z 字形变换.swift */; };
@@ -231,6 +232,7 @@
 		818BEF4823A377C700382977 /* 682-棒球比赛.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "682-棒球比赛.swift"; sourceTree = "<group>"; };
 		818EF0C4258BB3B60066399D /* 714. 买卖股票的最佳时机含手续费.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "714. 买卖股票的最佳时机含手续费.swift"; sourceTree = "<group>"; };
 		81949E0C24D7B7AB00823823 /* 1041-困于环中的机器人.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1041-困于环中的机器人.swift"; sourceTree = "<group>"; };
+		819A1E3625E48298009D2511 /* 1052. 爱生气的书店老板.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1052. 爱生气的书店老板.swift"; sourceTree = "<group>"; };
 		81A54D9323A729F000EE2CCC /* 665-非递减数列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "665-非递减数列.swift"; sourceTree = "<group>"; };
 		81A54D9523A745B500EE2CCC /* 4-寻找两个有序数组的中位数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "4-寻找两个有序数组的中位数.swift"; sourceTree = "<group>"; };
 		81A54D9723A8752D00EE2CCC /* 6-Z 字形变换.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "6-Z 字形变换.swift"; sourceTree = "<group>"; };
@@ -561,6 +563,7 @@
 				81435BEA25E20DD800C751A2 /* 415. 字符串相加.swift */,
 				81435BED25E2120300C751A2 /* 1389. 按既定顺序创建目标数组.swift */,
 				8114AA6C25E3425900E33E42 /* 766. 托普利茨矩阵.swift */,
+				819A1E3625E48298009D2511 /* 1052. 爱生气的书店老板.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -757,6 +760,7 @@
 				F8209DBA258DD08000BB4A3B /* 48. 旋转图像.swift in Sources */,
 				F8A49034255E30DD0045DD43 /* 328. 奇偶链表.swift in Sources */,
 				81A7549225C70DE9001EDE80 /* 888. 公平的糖果棒交换.swift in Sources */,
+				819A1E3725E48298009D2511 /* 1052. 爱生气的书店老板.swift in Sources */,
 				81435BEB25E20DD800C751A2 /* 415. 字符串相加.swift in Sources */,
 				81BF2CBE254642B500F2E47E /* 1365. 有多少小于当前数字的数字.swift in Sources */,
 				F8B9CC3D25772B9400C9696A /* 321. 拼接最大数.swift in Sources */,
