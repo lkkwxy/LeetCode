@@ -129,6 +129,7 @@
 		F874CED625C2BF18005B5FB8 /* 1033. 移动石子直到连续.swift in Sources */ = {isa = PBXBuildFile; fileRef = F874CED525C2BF18005B5FB8 /* 1033. 移动石子直到连续.swift */; };
 		F874CF9025C8EE37005B5FB8 /* 424. 替换后的最长重复字符.swift in Sources */ = {isa = PBXBuildFile; fileRef = F874CF8F25C8EE37005B5FB8 /* 424. 替换后的最长重复字符.swift */; };
 		F880C06025CE54A7000EE3CC /* 643. 子数组最大平均数 I .swift in Sources */ = {isa = PBXBuildFile; fileRef = F880C05F25CE54A7000EE3CC /* 643. 子数组最大平均数 I .swift */; };
+		F880C06325CE56BB000EE3CC /* 1208. 尽可能使字符串相等.swift in Sources */ = {isa = PBXBuildFile; fileRef = F880C06225CE56BB000EE3CC /* 1208. 尽可能使字符串相等.swift */; };
 		F8896D19255CEBED008E131D /* 922. 按奇偶排序数组 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8896D18255CEBED008E131D /* 922. 按奇偶排序数组 II.swift */; };
 		F889CBA82560CE720049C446 /* 402. 移掉K位数字.swift in Sources */ = {isa = PBXBuildFile; fileRef = F889CBA72560CE720049C446 /* 402. 移掉K位数字.swift */; };
 		F889CC6B256108DD0049C446 /* 405. 数字转换为十六进制数 .swift in Sources */ = {isa = PBXBuildFile; fileRef = F889CC6A256108DD0049C446 /* 405. 数字转换为十六进制数 .swift */; };
@@ -307,6 +308,7 @@
 		F874CED525C2BF18005B5FB8 /* 1033. 移动石子直到连续.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1033. 移动石子直到连续.swift"; sourceTree = "<group>"; };
 		F874CF8F25C8EE37005B5FB8 /* 424. 替换后的最长重复字符.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "424. 替换后的最长重复字符.swift"; sourceTree = "<group>"; };
 		F880C05F25CE54A7000EE3CC /* 643. 子数组最大平均数 I .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "643. 子数组最大平均数 I .swift"; sourceTree = "<group>"; };
+		F880C06225CE56BB000EE3CC /* 1208. 尽可能使字符串相等.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1208. 尽可能使字符串相等.swift"; sourceTree = "<group>"; };
 		F8896D18255CEBED008E131D /* 922. 按奇偶排序数组 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "922. 按奇偶排序数组 II.swift"; sourceTree = "<group>"; };
 		F889CBA72560CE720049C446 /* 402. 移掉K位数字.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "402. 移掉K位数字.swift"; sourceTree = "<group>"; };
 		F889CC6A256108DD0049C446 /* 405. 数字转换为十六进制数 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "405. 数字转换为十六进制数 .swift"; sourceTree = "<group>"; };
@@ -540,6 +542,7 @@
 				81A7549125C70DE9001EDE80 /* 888. 公平的糖果棒交换.swift */,
 				F874CF8F25C8EE37005B5FB8 /* 424. 替换后的最长重复字符.swift */,
 				F880C05F25CE54A7000EE3CC /* 643. 子数组最大平均数 I .swift */,
+				F880C06225CE56BB000EE3CC /* 1208. 尽可能使字符串相等.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -681,6 +684,7 @@
 				F842E8DC25C1996B00437C0D /* 671. 二叉树中第二小的节点.swift in Sources */,
 				817CEAEF2561E2D400105A26 /* 406. 根据身高重建队列.swift in Sources */,
 				F8B0756725811494009B33C0 /* 63. 不同路径 II.swift in Sources */,
+				F880C06325CE56BB000EE3CC /* 1208. 尽可能使字符串相等.swift in Sources */,
 				818BEF4523A33E2200382977 /* 889-根据前序和后序遍历构造二叉树.swift in Sources */,
 				81A54E3823AB508000EE2CCC /* 977-有序数组的平方.swift in Sources */,
 				81E9F6AE2558BEF500B1F198 /* 973. 最接近原点的 K 个点.swift in Sources */,
