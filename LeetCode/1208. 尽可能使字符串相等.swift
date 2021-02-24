@@ -19,17 +19,16 @@ func equalSubstring(_ s: String, _ t: String, _ maxCost: Int) -> Int {
         let curCost = Int(abs(tChars[right] - sChars[right]))
         if cost + curCost > maxCost {
             res = max(res, right - left)
-            left += 1
             if right < left {
                 right = left
             }
-            if cost != 0 {
+            while cost + curCost > maxCost {
                 cost -= Int(abs(tChars[left] - sChars[left]))
+                left += 1
             }
-        } else {
-            right += 1
-            cost += curCost
         }
+        right += 1
+        cost += curCost
     }
     return max(res, right - left)
 }
