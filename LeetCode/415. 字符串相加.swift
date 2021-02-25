@@ -7,8 +7,7 @@
 //
 
 import Foundation
-func addStrings(_ num1: String, _ num2: String) -> String {
-    var res = ""
+func addStrings(_ num1: String, _ num2: String) -> String {    var res = ""
     var num1CharArray = num1.utf8CString.dropLast()
     var num2CharArray = num2.utf8CString.dropLast()
     if num2CharArray.count > num1CharArray.count {
