@@ -100,6 +100,7 @@
 		81E9F6AE2558BEF500B1F198 /* 973. 最接近原点的 K 个点.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81E9F6AD2558BEF500B1F198 /* 973. 最接近原点的 K 个点.swift */; };
 		81EAE67425E6B09A007DD010 /* 867. 转置矩阵.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81EAE67325E6B09A007DD010 /* 867. 转置矩阵.swift */; };
 		81EAE67725E86758007DD010 /* 1178. 猜字谜.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81EAE67625E86758007DD010 /* 1178. 猜字谜.swift */; };
+		81EAE67A25EB905B007DD010 /* 896. 单调数列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81EAE67925EB905B007DD010 /* 896. 单调数列.swift */; };
 		81EBE6002598D01A00F8AAC0 /* 85. 最大矩形.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81EBE5FF2598D01A00F8AAC0 /* 85. 最大矩形.swift */; };
 		81EBE6042598DA8E00F8AAC0 /* 659. 分割数组为连续子序列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81EBE6032598DA8E00F8AAC0 /* 659. 分割数组为连续子序列.swift */; };
 		81EBE6072598DCFD00F8AAC0 /* 103. 二叉树的锯齿形层序遍历.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81EBE6062598DCFD00F8AAC0 /* 103. 二叉树的锯齿形层序遍历.swift */; };
@@ -290,6 +291,7 @@
 		81E9F6AD2558BEF500B1F198 /* 973. 最接近原点的 K 个点.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "973. 最接近原点的 K 个点.swift"; sourceTree = "<group>"; };
 		81EAE67325E6B09A007DD010 /* 867. 转置矩阵.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "867. 转置矩阵.swift"; sourceTree = "<group>"; };
 		81EAE67625E86758007DD010 /* 1178. 猜字谜.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1178. 猜字谜.swift"; sourceTree = "<group>"; };
+		81EAE67925EB905B007DD010 /* 896. 单调数列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "896. 单调数列.swift"; sourceTree = "<group>"; };
 		81EBE5FF2598D01A00F8AAC0 /* 85. 最大矩形.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "85. 最大矩形.swift"; sourceTree = "<group>"; };
 		81EBE6032598DA8E00F8AAC0 /* 659. 分割数组为连续子序列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "659. 分割数组为连续子序列.swift"; sourceTree = "<group>"; };
 		81EBE6062598DCFD00F8AAC0 /* 103. 二叉树的锯齿形层序遍历.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "103. 二叉树的锯齿形层序遍历.swift"; sourceTree = "<group>"; };
@@ -576,6 +578,7 @@
 				819A1E3925E5CAB8009D2511 /* 832. 翻转图像.swift */,
 				81EAE67325E6B09A007DD010 /* 867. 转置矩阵.swift */,
 				81EAE67625E86758007DD010 /* 1178. 猜字谜.swift */,
+				81EAE67925EB905B007DD010 /* 896. 单调数列.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -660,6 +663,7 @@
 				8114AA6D25E3425900E33E42 /* 766. 托普利茨矩阵.swift in Sources */,
 				F866E68A25BB1D260076CE4E /* 1283. 使结果不超过阈值的最小除数.swift in Sources */,
 				81E60E8A23A088D500AAE3EA /* 89-格雷编码.swift in Sources */,
+				81EAE67A25EB905B007DD010 /* 896. 单调数列.swift in Sources */,
 				818EF0C5258BB3B60066399D /* 714. 买卖股票的最佳时机含手续费.swift in Sources */,
 				818BEF4023A22B8200382977 /* 109-有序链表转换二叉搜索树.swift in Sources */,
 				F858715425B6EA4800B670D7 /* 200. 岛屿数量.swift in Sources */,
