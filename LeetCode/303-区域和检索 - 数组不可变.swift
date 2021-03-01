@@ -8,17 +8,22 @@
 
 import Foundation
 class NumArray {
-    var sumNums:[Int]
+    var sumNums: [Int]
     init(_ nums: [Int]) {
-        sumNums = [0]
-        let _ = nums.reduce(0) { (perviousResult, num) -> Int in
-            let result = perviousResult + num
-            self.sumNums.append(result)
-            return result
+        sumNums = [Int](repeating: 0, count: nums.count)
+        if nums.count > 0 {
+            sumNums[0] = nums[0]
+            for i in 1..<nums.count {
+                sumNums[i] = sumNums[i - 1] + nums[i]
+            }
         }
     }
     
     func sumRange(_ i: Int, _ j: Int) -> Int {
-        return sumNums[j + 1] - sumNums[i]
+        if i == 0 {
+            return sumNums[j]
+        } else {
+            return sumNums[j] - sumNums[i - 1]
+        }
     }
 }
