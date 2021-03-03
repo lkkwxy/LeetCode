@@ -29,7 +29,7 @@ class NumMatrix {
     }
     
     func sumRegion(_ row1: Int, _ col1: Int, _ row2: Int, _ col2: Int) -> Int {
-        if row1 > 0 && col1 > 0{
+        if row1 > 0 && col1 > 0 {
             return sumMatrix[row2][col2] - sumMatrix[row2][col1 - 1] - sumMatrix[row1 - 1][col2] + sumMatrix[row1 - 1][col1 - 1]
         }else if row1 > 0 { // col1 = 0
             return sumMatrix[row2][col2] - sumMatrix[row1 - 1][col2]
