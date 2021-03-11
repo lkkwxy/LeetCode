@@ -19,4 +19,3 @@ func removeDuplicates(_ S: String) -> String {
     }
     return String(res)
 }
-}
