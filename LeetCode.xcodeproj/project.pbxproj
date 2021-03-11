@@ -135,6 +135,8 @@
 		F858715425B6EA4800B670D7 /* 200. 岛屿数量.swift in Sources */ = {isa = PBXBuildFile; fileRef = F858715325B6EA4800B670D7 /* 200. 岛屿数量.swift */; };
 		F858715925B7CA9500B670D7 /* 628. 三个数的最大乘积.swift in Sources */ = {isa = PBXBuildFile; fileRef = F858715825B7CA9500B670D7 /* 628. 三个数的最大乘积.swift */; };
 		F866702A25F7950100B0CFD7 /* 1047. 删除字符串中的所有相邻重复项.swift in Sources */ = {isa = PBXBuildFile; fileRef = F866702925F7950100B0CFD7 /* 1047. 删除字符串中的所有相邻重复项.swift */; };
+		F866702D25F858F100B0CFD7 /* 224. 基本计算器.swift in Sources */ = {isa = PBXBuildFile; fileRef = F866702C25F858F100B0CFD7 /* 224. 基本计算器.swift */; };
+		F86671F225FA41A100B0CFD7 /* 1513. 仅含 1 的子串数.swift in Sources */ = {isa = PBXBuildFile; fileRef = F86671F125FA41A100B0CFD7 /* 1513. 仅含 1 的子串数.swift */; };
 		F866E49325B964800076CE4E /* 1489. 找到最小生成树里的关键边和伪关键边.swift in Sources */ = {isa = PBXBuildFile; fileRef = F866E49225B964800076CE4E /* 1489. 找到最小生成树里的关键边和伪关键边.swift */; };
 		F866E68A25BB1D260076CE4E /* 1283. 使结果不超过阈值的最小除数.swift in Sources */ = {isa = PBXBuildFile; fileRef = F866E68925BB1D260076CE4E /* 1283. 使结果不超过阈值的最小除数.swift */; };
 		F866E68D25BE63670076CE4E /* 959. 由斜杠划分区域.swift in Sources */ = {isa = PBXBuildFile; fileRef = F866E68C25BE63670076CE4E /* 959. 由斜杠划分区域.swift */; };
@@ -329,6 +331,8 @@
 		F858715325B6EA4800B670D7 /* 200. 岛屿数量.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "200. 岛屿数量.swift"; sourceTree = "<group>"; };
 		F858715825B7CA9500B670D7 /* 628. 三个数的最大乘积.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "628. 三个数的最大乘积.swift"; sourceTree = "<group>"; };
 		F866702925F7950100B0CFD7 /* 1047. 删除字符串中的所有相邻重复项.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1047. 删除字符串中的所有相邻重复项.swift"; sourceTree = "<group>"; };
+		F866702C25F858F100B0CFD7 /* 224. 基本计算器.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "224. 基本计算器.swift"; sourceTree = "<group>"; };
+		F86671F125FA41A100B0CFD7 /* 1513. 仅含 1 的子串数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1513. 仅含 1 的子串数.swift"; sourceTree = "<group>"; };
 		F866E49225B964800076CE4E /* 1489. 找到最小生成树里的关键边和伪关键边.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1489. 找到最小生成树里的关键边和伪关键边.swift"; sourceTree = "<group>"; };
 		F866E68925BB1D260076CE4E /* 1283. 使结果不超过阈值的最小除数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1283. 使结果不超过阈值的最小除数.swift"; sourceTree = "<group>"; };
 		F866E68C25BE63670076CE4E /* 959. 由斜杠划分区域.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "959. 由斜杠划分区域.swift"; sourceTree = "<group>"; };
@@ -588,6 +592,8 @@
 				F84B540925EF1F2900FB5FC7 /* 338. 比特位计数.swift */,
 				F8993D0525F1D5CC006C4FCE /* 232. 用栈实现队列.swift */,
 				F866702925F7950100B0CFD7 /* 1047. 删除字符串中的所有相邻重复项.swift */,
+				F866702C25F858F100B0CFD7 /* 224. 基本计算器.swift */,
+				F86671F125FA41A100B0CFD7 /* 1513. 仅含 1 的子串数.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -673,6 +679,7 @@
 				F866E68A25BB1D260076CE4E /* 1283. 使结果不超过阈值的最小除数.swift in Sources */,
 				81E60E8A23A088D500AAE3EA /* 89-格雷编码.swift in Sources */,
 				81EAE67A25EB905B007DD010 /* 896. 单调数列.swift in Sources */,
+				F866702D25F858F100B0CFD7 /* 224. 基本计算器.swift in Sources */,
 				818EF0C5258BB3B60066399D /* 714. 买卖股票的最佳时机含手续费.swift in Sources */,
 				818BEF4023A22B8200382977 /* 109-有序链表转换二叉搜索树.swift in Sources */,
 				F858715425B6EA4800B670D7 /* 200. 岛屿数量.swift in Sources */,
@@ -699,6 +706,7 @@
 				8130A464259F79970076BC82 /* 605. 种花问题.swift in Sources */,
 				F840C529254F9BBF008DDFC4 /* 349. 两个数组的交集.swift in Sources */,
 				818BEF4723A363A500382977 /* 796-旋转字符串.swift in Sources */,
+				F86671F225FA41A100B0CFD7 /* 1513. 仅含 1 的子串数.swift in Sources */,
 				F8B072DB257F1893009B33C0 /* 842. 将数组拆分成斐波那契序列.swift in Sources */,
 				81EBE60A259DE02E00F8AAC0 /* 435. 无重叠区间.swift in Sources */,
 				81A54DC623A9D53C00EE2CCC /* 309-最佳买卖股票时机含冷冻期.swift in Sources */,

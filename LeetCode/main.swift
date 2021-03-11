@@ -43,4 +43,4 @@ func squareNumberCount(_ nums:[Int]) -> Int {
     return count
 }
 
-findNumOfValidWords(["aaaa","asas","able","ability","actt","actor","access"], ["aboveyz","abrodyz","abslute","absoryz","actresz","gaswxyz"])
+calculate3("- (3 + (4 + 5))")
