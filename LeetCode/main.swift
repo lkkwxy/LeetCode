@@ -43,4 +43,4 @@ func squareNumberCount(_ nums:[Int]) -> Int {
     return count
 }
 
-calculate3("- (3 + (4 + 5))")
+spiralOrder([[1,2],[3,4]])
